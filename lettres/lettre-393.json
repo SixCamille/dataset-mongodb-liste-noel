@@ -1,0 +1,36 @@
+{
+  "idEnfant": 393,
+  "prenom": "Hafsa",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "75011",
+  "ecole": "École du Chemin-Vert",
+  "souhaits": [
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie"
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "pliable": true
+    },
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "couleur": "violet"
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

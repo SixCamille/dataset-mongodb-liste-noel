@@ -1,0 +1,33 @@
+{
+  "idEnfant": 365,
+  "prenom": "Anastasia",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69150",
+  "ecole": "École des Balmes",
+  "souhaits": [
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre",
+      "theme": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "maison de poupées",
+      "categorie": "imaginaire",
+      "priorite": 2
+    },
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "nombrePieces": 120,
+      "priorite": 3
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "pliable": true,
+      "priorite": 4
+    }
+  ]
+}

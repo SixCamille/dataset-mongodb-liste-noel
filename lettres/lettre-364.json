@@ -1,0 +1,16 @@
+{
+  "idEnfant": 364,
+  "prenom": "Kenzo",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "21000",
+  "ecole": "École du Clos-Chauveau",
+  "souhaits": [
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "priorite": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "idEnfant": 385,
+  "prenom": "Malia",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69120",
+  "ecole": "École du Mas-du-Taureau",
+  "souhaits": [
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "priorite": 1
+    },
+    {
+      "produit": "kit d'observation des insectes",
+      "categorie": "plein air",
+      "loupe": true,
+      "priorite": 2
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois",
+      "couleur": "jaune",
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

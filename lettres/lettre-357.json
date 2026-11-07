@@ -1,0 +1,18 @@
+{
+  "idEnfant": 357,
+  "prenom": "Raphaëlle",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69005",
+  "ecole": "École du Point-du-Jour",
+  "souhaits": [
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "couleur": "orange"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "aEteSage": true
+}

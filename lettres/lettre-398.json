@@ -1,0 +1,15 @@
+{
+  "idEnfant": 398,
+  "prenom": "Eliot",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "75005",
+  "ecole": "École des Arènes",
+  "souhaits": [
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "priorite": 1
+    }
+  ]
+}

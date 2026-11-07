@@ -1,0 +1,29 @@
+{
+  "idEnfant": 376,
+  "prenom": "Mohammed",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "44000",
+  "ecole": "École des Olivettes",
+  "souhaits": [
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "priorite": 1
+    },
+    {
+      "produit": "set de calligraphie",
+      "categorie": "créatif",
+      "niveau": "débutant",
+      "couleur": "rose",
+      "priorite": 2
+    },
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "nombreExperiences": 8,
+      "priorite": 3
+    }
+  ]
+}

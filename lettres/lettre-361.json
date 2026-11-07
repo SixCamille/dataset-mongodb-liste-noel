@@ -1,0 +1,41 @@
+{
+  "idEnfant": 361,
+  "prenom": "Talia",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "59000",
+  "ecole": "École de Wazemmes",
+  "souhaits": [
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale",
+      "priorite": 1
+    },
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif",
+      "matiere": "bois",
+      "priorite": 2
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 4
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "collection": "botanique",
+      "couleur": "rouge",
+      "priorite": 5
+    }
+  ]
+}

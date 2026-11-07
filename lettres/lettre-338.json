@@ -1,0 +1,36 @@
+{
+  "idEnfant": 338,
+  "prenom": "Antonin",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "13008",
+  "ecole": "École du Rouet",
+  "souhaits": [
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "niveau": "intermédiaire",
+      "couleur": "noir",
+      "priorite": 1
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth",
+      "priorite": 2
+    },
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif",
+      "matiere": "bois",
+      "priorite": 3
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "couleur": "bois naturel",
+      "priorite": 4
+    }
+  ]
+}

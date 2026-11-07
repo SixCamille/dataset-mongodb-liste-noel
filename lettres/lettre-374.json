@@ -1,0 +1,30 @@
+{
+  "idEnfant": 374,
+  "prenom": "Kylian",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "76000",
+  "ecole": "École du Vieux-Marché",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique",
+      "couleur": "violet",
+      "priorite": 1
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "aEteSage": true
+}

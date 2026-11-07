@@ -1,0 +1,36 @@
+{
+  "idEnfant": 309,
+  "prenom": "Manel",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air"
+    },
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5,
+      "couleur": "bois naturel"
+    },
+    {
+      "produit": "livre de recettes pour enfants",
+      "categorie": "livre",
+      "niveau": "facile"
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C"
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

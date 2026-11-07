@@ -1,0 +1,24 @@
+{
+  "idEnfant": 403,
+  "prenom": "Maïa",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "75005",
+  "ecole": "École de la Montagne-Sainte-Geneviève",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois",
+      "couleur": "bois naturel",
+      "priorite": 1
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "pliable": true,
+      "couleur": "jaune",
+      "priorite": 2
+    }
+  ]
+}

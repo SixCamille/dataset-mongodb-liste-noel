@@ -1,0 +1,39 @@
+{
+  "idEnfant": 368,
+  "prenom": "Isaïah",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "priorite": 1
+    },
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique",
+      "priorite": 2
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "couleur": "turquoise",
+      "priorite": 3
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "priorite": 4
+    },
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 5
+    }
+  ]
+}

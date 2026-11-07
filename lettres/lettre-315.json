@@ -1,0 +1,29 @@
+{
+  "idEnfant": 315,
+  "prenom": "Dina",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "75005",
+  "ecole": "École des Arènes",
+  "souhaits": [
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif",
+      "type": "perles"
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences"
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

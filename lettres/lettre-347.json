@@ -1,0 +1,34 @@
+{
+  "idEnfant": 347,
+  "prenom": "Louison",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69005",
+  "ecole": "École du Point-du-Jour",
+  "souhaits": [
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "priorite": 1
+    },
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5,
+      "priorite": 2
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "couleur": "violet",
+      "priorite": 4
+    }
+  ]
+}

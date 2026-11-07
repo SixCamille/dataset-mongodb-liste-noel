@@ -1,0 +1,17 @@
+{
+  "idEnfant": 348,
+  "prenom": "Hector",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "13006",
+  "ecole": "École de Lodi",
+  "souhaits": [
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "couleur": "bois naturel"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "preferenceEmballage": "papier recyclable"
+}

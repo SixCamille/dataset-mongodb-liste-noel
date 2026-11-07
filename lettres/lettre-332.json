@@ -1,0 +1,15 @@
+{
+  "idEnfant": 332,
+  "prenom": "Zayd",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69007",
+  "ecole": "École de la Guillotière",
+  "souhaits": [
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "priorite": 1
+    }
+  ]
+}

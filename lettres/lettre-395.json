@@ -1,0 +1,39 @@
+{
+  "idEnfant": 395,
+  "prenom": "Jana",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "nombreExperiences": 8,
+      "priorite": 1
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "couleur": "vert",
+      "priorite": 2
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "priorite": 3
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "priorite": 4
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "priorite": 5
+    }
+  ]
+}

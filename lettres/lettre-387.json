@@ -1,0 +1,21 @@
+{
+  "idEnfant": 387,
+  "prenom": "Océane",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69001",
+  "ecole": "École Michel-Servet",
+  "souhaits": [
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans"
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

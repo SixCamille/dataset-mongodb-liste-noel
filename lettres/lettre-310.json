@@ -1,0 +1,28 @@
+{
+  "idEnfant": 310,
+  "prenom": "Alban",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "75005",
+  "ecole": "École de la Montagne-Sainte-Geneviève",
+  "souhaits": [
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "priorite": 3
+    }
+  ]
+}

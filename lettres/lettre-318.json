@@ -1,0 +1,37 @@
+{
+  "idEnfant": 318,
+  "prenom": "Emile",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "31000",
+  "ecole": "École du Capitole",
+  "souhaits": [
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "taille": "20 cm",
+      "couleur": "turquoise"
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x"
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx"
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6"
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

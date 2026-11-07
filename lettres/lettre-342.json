@@ -1,0 +1,27 @@
+{
+  "idEnfant": 342,
+  "prenom": "Thiago",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69005",
+  "ecole": "École des Battières",
+  "souhaits": [
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé"
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4"
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth",
+      "couleur": "orange"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

@@ -1,0 +1,22 @@
+{
+  "idEnfant": 346,
+  "prenom": "Souleymane",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "67000",
+  "ecole": "École de la Krutenau",
+  "souhaits": [
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 1
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "matiere": "bois",
+      "priorite": 2
+    }
+  ]
+}

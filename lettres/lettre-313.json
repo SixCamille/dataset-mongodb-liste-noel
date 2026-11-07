@@ -1,0 +1,34 @@
+{
+  "idEnfant": 313,
+  "prenom": "Madeleine",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "31000",
+  "ecole": "École des Chalets",
+  "souhaits": [
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "couleur": "rose",
+      "priorite": 1
+    },
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5,
+      "priorite": 2
+    },
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "priorite": 3
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "idEnfant": 363,
+  "prenom": "Aurore",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "tonalite": "do"
+    },
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "format": "A4",
+      "couleur": "turquoise"
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale"
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

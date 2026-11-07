@@ -1,0 +1,35 @@
+{
+  "idEnfant": 329,
+  "prenom": "Rym",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "37000",
+  "ecole": "École du Sanitas",
+  "souhaits": [
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché",
+      "priorite": 1
+    },
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3,
+      "couleur": "noir",
+      "priorite": 2
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 4
+    }
+  ]
+}

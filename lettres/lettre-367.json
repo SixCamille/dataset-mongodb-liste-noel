@@ -1,0 +1,29 @@
+{
+  "idEnfant": 367,
+  "prenom": "Chiara",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69003",
+  "ecole": "École Léon-Jouhaux",
+  "souhaits": [
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "couleur": "violet",
+      "priorite": 3
+    }
+  ]
+}

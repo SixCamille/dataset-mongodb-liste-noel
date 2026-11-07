@@ -1,0 +1,30 @@
+{
+  "idEnfant": 308,
+  "prenom": "Nahil",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "forme": "delta",
+      "couleur": "jaune",
+      "priorite": 1
+    },
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre",
+      "theme": "sciences",
+      "priorite": 2
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

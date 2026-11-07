@@ -1,0 +1,41 @@
+{
+  "idEnfant": 359,
+  "prenom": "Stella",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "priorite": 1
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1,
+      "priorite": 2
+    },
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif",
+      "type": "perles",
+      "couleur": "bleu",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "priorite": 4
+    },
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois",
+      "couleur": "jaune",
+      "priorite": 5
+    }
+  ]
+}

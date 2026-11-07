@@ -1,0 +1,31 @@
+{
+  "idEnfant": 390,
+  "prenom": "Ruben",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx"
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "couleur": "rouge"
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature"
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

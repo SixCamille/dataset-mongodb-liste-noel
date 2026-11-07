@@ -1,0 +1,40 @@
+{
+  "idEnfant": 336,
+  "prenom": "Djibril",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "35000",
+  "ecole": "École des Gantelles",
+  "souhaits": [
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "couleur": "noir"
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique"
+    },
+    {
+      "produit": "kit d'observation des insectes",
+      "categorie": "plein air",
+      "loupe": true
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

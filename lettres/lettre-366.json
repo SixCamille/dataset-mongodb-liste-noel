@@ -1,0 +1,15 @@
+{
+  "idEnfant": 366,
+  "prenom": "Benjamin",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "59000",
+  "ecole": "École du Vieux-Lille",
+  "souhaits": [
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

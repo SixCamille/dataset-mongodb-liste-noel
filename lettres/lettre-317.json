@@ -1,0 +1,29 @@
+{
+  "idEnfant": 317,
+  "prenom": "Aliya",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École de l'Île-Barbe",
+  "souhaits": [
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 1
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "couleur": "bleu",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 3
+    }
+  ]
+}

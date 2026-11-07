@@ -1,0 +1,40 @@
+{
+  "idEnfant": 311,
+  "prenom": "Mélina",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "34000",
+  "ecole": "École des Beaux-Arts",
+  "souhaits": [
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature",
+      "priorite": 1
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "priorite": 2
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "priorite": 3
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "couleur": "rose",
+      "priorite": 4
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 5
+    }
+  ]
+}

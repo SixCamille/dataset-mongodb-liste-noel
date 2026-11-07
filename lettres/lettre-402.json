@@ -1,0 +1,38 @@
+{
+  "idEnfant": 402,
+  "prenom": "Tao",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth",
+      "couleur": "bois naturel"
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx",
+      "couleur": "rouge"
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm"
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "collection": "botanique"
+    },
+    {
+      "produit": "livre de recettes pour enfants",
+      "categorie": "livre",
+      "niveau": "facile"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

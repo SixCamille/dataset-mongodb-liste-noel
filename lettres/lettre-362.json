@@ -1,0 +1,22 @@
+{
+  "idEnfant": 362,
+  "prenom": "Matteo",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69003",
+  "ecole": "École Paul-Bert",
+  "souhaits": [
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale",
+      "priorite": 1
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 37,
+      "priorite": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "idEnfant": 343,
+  "prenom": "Lilia",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "13008",
+  "ecole": "École de la Pointe-Rouge",
+  "souhaits": [
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "priorite": 1
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "priorite": 2
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "couleur": "bois naturel",
+      "priorite": 3
+    },
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "forme": "delta",
+      "priorite": 4
+    },
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "usage": "extérieur",
+      "priorite": 5
+    }
+  ]
+}

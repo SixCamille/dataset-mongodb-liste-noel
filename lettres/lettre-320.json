@@ -1,0 +1,41 @@
+{
+  "idEnfant": 320,
+  "prenom": "Lorenzo",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69300",
+  "ecole": "École du Bourg",
+  "souhaits": [
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "priorite": 1
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "priorite": 3
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "collection": "botanique",
+      "couleur": "bois naturel",
+      "priorite": 4
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "couleur": "rose",
+      "priorite": 5
+    }
+  ]
+}

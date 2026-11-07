@@ -1,0 +1,27 @@
+{
+  "idEnfant": 360,
+  "prenom": "Amaury",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69150",
+  "ecole": "École des Balmes",
+  "souhaits": [
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm"
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth"
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "noir"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

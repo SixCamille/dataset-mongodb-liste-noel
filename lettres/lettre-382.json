@@ -1,0 +1,16 @@
+{
+  "idEnfant": 382,
+  "prenom": "Aloïs",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "priorite": 1
+    }
+  ]
+}

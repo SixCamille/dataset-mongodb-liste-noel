@@ -1,0 +1,28 @@
+{
+  "idEnfant": 401,
+  "prenom": "Naomi",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "capacite": "18 L",
+      "priorite": 3
+    }
+  ]
+}

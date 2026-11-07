@@ -1,0 +1,15 @@
+{
+  "idEnfant": 375,
+  "prenom": "Aaliyah",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69120",
+  "ecole": "École Pierre-et-Marie-Curie",
+  "souhaits": [
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

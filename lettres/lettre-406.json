@@ -1,0 +1,34 @@
+{
+  "idEnfant": 406,
+  "prenom": "Gaël",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "33000",
+  "ecole": "École Saint-Seurin",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "taille": "10 ans",
+      "priorite": 2
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 36,
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature",
+      "priorite": 4
+    }
+  ],
+  "preferenceEmballage": "papier recyclable"
+}

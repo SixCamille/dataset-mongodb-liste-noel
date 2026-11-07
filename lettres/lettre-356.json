@@ -1,0 +1,35 @@
+{
+  "idEnfant": 356,
+  "prenom": "Hayden",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "59000",
+  "ecole": "École du Vieux-Lille",
+  "souhaits": [
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "niveau": "intermédiaire",
+      "couleur": "bois naturel",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6",
+      "priorite": 2
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 34,
+      "priorite": 3
+    },
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché",
+      "priorite": 4
+    }
+  ]
+}

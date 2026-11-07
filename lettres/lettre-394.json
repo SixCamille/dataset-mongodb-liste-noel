@@ -1,0 +1,21 @@
+{
+  "idEnfant": 394,
+  "prenom": "Nael",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "couleur": "bois naturel",
+      "priorite": 1
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "priorite": 2
+    }
+  ]
+}

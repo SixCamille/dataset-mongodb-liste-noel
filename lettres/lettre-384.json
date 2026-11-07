@@ -1,0 +1,35 @@
+{
+  "idEnfant": 384,
+  "prenom": "Mamadou",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "skateboard",
+      "categorie": "sport"
+    },
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5"
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "couleur": "orange"
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "couleur": "jaune"
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

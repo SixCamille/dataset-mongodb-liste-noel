@@ -1,0 +1,21 @@
+{
+  "idEnfant": 328,
+  "prenom": "César",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "13008",
+  "ecole": "École de la Pointe-Rouge",
+  "souhaits": [
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "priorite": 2
+    }
+  ]
+}

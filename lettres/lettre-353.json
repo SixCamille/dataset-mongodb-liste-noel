@@ -1,0 +1,21 @@
+{
+  "idEnfant": 353,
+  "prenom": "Eden",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "13006",
+  "ecole": "École Notre-Dame-du-Mont",
+  "souhaits": [
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 1
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "priorite": 2
+    }
+  ]
+}

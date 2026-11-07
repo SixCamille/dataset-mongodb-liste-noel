@@ -1,0 +1,26 @@
+{
+  "idEnfant": 333,
+  "prenom": "Jenna",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "13008",
+  "ecole": "École de la Pointe-Rouge",
+  "souhaits": [
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm"
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

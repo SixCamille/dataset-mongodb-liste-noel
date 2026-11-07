@@ -1,0 +1,15 @@
+{
+  "idEnfant": 316,
+  "prenom": "Luca",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "34000",
+  "ecole": "École des Arceaux",
+  "souhaits": [
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "priorite": 1
+    }
+  ]
+}

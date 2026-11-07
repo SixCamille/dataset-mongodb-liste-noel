@@ -1,0 +1,43 @@
+{
+  "idEnfant": 352,
+  "prenom": "Louka",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69005",
+  "ecole": "École des Battières",
+  "souhaits": [
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "priorite": 1,
+      "pointure": 36
+    },
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché",
+      "priorite": 2
+    },
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc",
+      "priorite": 3
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire",
+      "couleur": "rouge",
+      "priorite": 4
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx",
+      "couleur": "violet",
+      "priorite": 5
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

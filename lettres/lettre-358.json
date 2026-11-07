@@ -1,0 +1,27 @@
+{
+  "idEnfant": 358,
+  "prenom": "Henri",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "13006",
+  "ecole": "École de Lodi",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1,
+      "priorite": 3
+    }
+  ]
+}

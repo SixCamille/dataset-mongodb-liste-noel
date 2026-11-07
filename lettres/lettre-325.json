@@ -1,0 +1,16 @@
+{
+  "idEnfant": 325,
+  "prenom": "Eline",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69300",
+  "ecole": "École du Bourg",
+  "souhaits": [
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "priorite": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "idEnfant": 388,
+  "prenom": "Kamil",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "75011",
+  "ecole": "École de la Roquette",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "tonalite": "do",
+      "priorite": 2
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 4
+    }
+  ]
+}

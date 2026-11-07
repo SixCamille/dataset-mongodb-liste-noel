@@ -1,0 +1,22 @@
+{
+  "idEnfant": 337,
+  "prenom": "Elisa",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69007",
+  "ecole": "École de la Guillotière",
+  "souhaits": [
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature",
+      "priorite": 2
+    }
+  ]
+}

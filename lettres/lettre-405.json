@@ -1,0 +1,20 @@
+{
+  "idEnfant": 405,
+  "prenom": "Safiya",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "couleur": "rouge"
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

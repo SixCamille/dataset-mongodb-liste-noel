@@ -1,0 +1,30 @@
+{
+  "idEnfant": 349,
+  "prenom": "Éléna",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "priorite": 1
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "couleur": "orange",
+      "priorite": 2
+    },
+    {
+      "produit": "vélo",
+      "categorie": "sport",
+      "tailleRoues": "20 pouces",
+      "couleur": "bois naturel",
+      "priorite": 3
+    }
+  ]
+}

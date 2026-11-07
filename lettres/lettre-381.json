@@ -1,0 +1,32 @@
+{
+  "idEnfant": 381,
+  "prenom": "Tasnim",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "44000",
+  "ecole": "École du Jardin-des-Plantes",
+  "souhaits": [
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm"
+    },
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "grossissement": "8x",
+      "couleur": "turquoise"
+    },
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "nombrePieces": 120
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}

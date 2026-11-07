@@ -1,0 +1,17 @@
+{
+  "idEnfant": 391,
+  "prenom": "Anaé",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "33000",
+  "ecole": "École Saint-Seurin",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "priorite": 1
+    }
+  ],
+  "aEteSage": true
+}

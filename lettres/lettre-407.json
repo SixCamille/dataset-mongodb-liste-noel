@@ -1,0 +1,16 @@
+{
+  "idEnfant": 407,
+  "prenom": "Amalia",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "80000",
+  "ecole": "École du Faubourg-de-Hem",
+  "souhaits": [
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "priorite": 1
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

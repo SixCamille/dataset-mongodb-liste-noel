@@ -1,0 +1,22 @@
+{
+  "idEnfant": 344,
+  "prenom": "James",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "63100",
+  "ecole": "École de Montferrand",
+  "souhaits": [
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire",
+      "priorite": 1
+    },
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3,
+      "priorite": 2
+    }
+  ]
+}

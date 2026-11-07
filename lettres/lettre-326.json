@@ -1,0 +1,28 @@
+{
+  "idEnfant": 326,
+  "prenom": "Arsène",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "35000",
+  "ecole": "École du Colombier",
+  "souhaits": [
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "couleur": "turquoise",
+      "priorite": 1
+    },
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "capacite": "18 L",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "priorite": 3
+    }
+  ]
+}

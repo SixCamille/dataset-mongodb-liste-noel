@@ -1,0 +1,35 @@
+{
+  "idEnfant": 345,
+  "prenom": "Eléonore",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69200",
+  "ecole": "École du Moulin-à-Vent",
+  "souhaits": [
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm"
+    },
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "usage": "extérieur"
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6
+    },
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

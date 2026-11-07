@@ -1,0 +1,37 @@
+{
+  "idEnfant": 322,
+  "prenom": "Matéo",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École de l'Île-Barbe",
+  "souhaits": [
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "taille": "20 cm",
+      "couleur": "violet",
+      "priorite": 1
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé",
+      "couleur": "bois naturel",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "couleur": "rose",
+      "priorite": 3
+    },
+    {
+      "produit": "kit d'observation des insectes",
+      "categorie": "plein air",
+      "loupe": true,
+      "priorite": 4
+    }
+  ]
+}

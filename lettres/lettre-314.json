@@ -1,0 +1,15 @@
+{
+  "idEnfant": 314,
+  "prenom": "Daniel",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "37000",
+  "ecole": "École du Sanitas",
+  "souhaits": [
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "priorite": 1
+    }
+  ]
+}

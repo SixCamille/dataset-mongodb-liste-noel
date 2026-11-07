@@ -1,0 +1,39 @@
+{
+  "idEnfant": 386,
+  "prenom": "Pierre",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "44000",
+  "ecole": "École des Olivettes",
+  "souhaits": [
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "priorite": 1
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "couleur": "rose",
+      "priorite": 2
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 38,
+      "priorite": 3
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "priorite": 4
+    },
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie",
+      "priorite": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "idEnfant": 404,
+  "prenom": "Éden",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "34000",
+  "ecole": "École des Beaux-Arts",
+  "souhaits": [
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 2
+    },
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "format": "album",
+      "priorite": 3
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ],
+      "priorite": 4
+    }
+  ]
+}

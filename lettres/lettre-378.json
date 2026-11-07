@@ -1,0 +1,20 @@
+{
+  "idEnfant": 378,
+  "prenom": "Souleyman",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "75015",
+  "ecole": "École du Clos-Saint-Lambert",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois"
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

@@ -1,0 +1,27 @@
+{
+  "idEnfant": 383,
+  "prenom": "Sasha",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "75011",
+  "ecole": "École de la Roquette",
+  "souhaits": [
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4,
+      "priorite": 1
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "priorite": 2
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth",
+      "priorite": 3
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "idEnfant": 400,
+  "prenom": "Timothé",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "recueil de mythologie grecque",
+      "categorie": "livre",
+      "illustrations": true,
+      "priorite": 1
+    }
+  ]
+}

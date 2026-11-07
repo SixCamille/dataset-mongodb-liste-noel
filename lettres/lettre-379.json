@@ -1,0 +1,34 @@
+{
+  "idEnfant": 379,
+  "prenom": "Anaëlle",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "76000",
+  "ecole": "École du Vieux-Marché",
+  "souhaits": [
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "priorite": 1
+    },
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "nombrePieces": 120,
+      "couleur": "rose",
+      "priorite": 2
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "priorite": 3
+    },
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "priorite": 4
+    }
+  ]
+}

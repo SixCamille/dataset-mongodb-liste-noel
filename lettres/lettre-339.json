@@ -1,0 +1,15 @@
+{
+  "idEnfant": 339,
+  "prenom": "Ninon",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "63100",
+  "ecole": "École de Montferrand",
+  "souhaits": [
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

@@ -1,0 +1,36 @@
+{
+  "idEnfant": 397,
+  "prenom": "June",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc",
+      "couleur": "rouge",
+      "priorite": 1
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "vert",
+      "priorite": 2
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 40,
+      "priorite": 3
+    },
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "taille": "12 ans",
+      "priorite": 4
+    }
+  ]
+}

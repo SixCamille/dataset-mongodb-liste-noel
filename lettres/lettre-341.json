@@ -1,0 +1,16 @@
+{
+  "idEnfant": 341,
+  "prenom": "Neyla",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "67000",
+  "ecole": "École des Bateliers",
+  "souhaits": [
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "priorite": 1
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}

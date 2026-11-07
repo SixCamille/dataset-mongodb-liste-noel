@@ -1,0 +1,17 @@
+{
+  "idEnfant": 373,
+  "prenom": "Layana",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "couleur": "bois naturel",
+      "priorite": 1
+    }
+  ]
+}

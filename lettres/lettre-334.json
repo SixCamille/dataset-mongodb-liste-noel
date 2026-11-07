@@ -1,0 +1,40 @@
+{
+  "idEnfant": 334,
+  "prenom": "Ilyas",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "63100",
+  "ecole": "École de Montferrand",
+  "souhaits": [
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm",
+      "priorite": 1
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm",
+      "priorite": 2
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "priorite": 3
+    },
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc",
+      "priorite": 4
+    },
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "format": "album",
+      "priorite": 5
+    }
+  ]
+}

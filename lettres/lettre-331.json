@@ -1,0 +1,34 @@
+{
+  "idEnfant": 331,
+  "prenom": "Cléo",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "35000",
+  "ecole": "École du Colombier",
+  "souhaits": [
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois",
+      "couleur": "bleu",
+      "priorite": 1
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé",
+      "priorite": 2
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "priorite": 3
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "idEnfant": 396,
+  "prenom": "Ange",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "33000",
+  "ecole": "École Saint-Seurin",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    },
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

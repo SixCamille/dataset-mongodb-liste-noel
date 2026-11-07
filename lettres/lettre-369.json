@@ -1,0 +1,21 @@
+{
+  "idEnfant": 369,
+  "prenom": "Selma",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "76000",
+  "ecole": "École du Vieux-Marché",
+  "souhaits": [
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire"
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "couleur": "violet"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

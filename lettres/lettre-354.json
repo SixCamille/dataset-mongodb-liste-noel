@@ -1,0 +1,30 @@
+{
+  "idEnfant": 354,
+  "prenom": "Léandro",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire"
+    },
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport"
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."
+}

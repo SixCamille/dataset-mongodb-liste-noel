@@ -1,0 +1,43 @@
+{
+  "idEnfant": 370,
+  "prenom": "Mayron",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69120",
+  "ecole": "École du Mas-du-Taureau",
+  "souhaits": [
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx",
+      "couleur": "rouge",
+      "priorite": 1
+    },
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de stratégie sur les animaux",
+      "categorie": "jeu de société",
+      "dureePartie": "30 min",
+      "priorite": 3
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "couleur": "noir",
+      "priorite": 4
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4,
+      "couleur": "noir",
+      "priorite": 5
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "idEnfant": 389,
+  "prenom": "Leïla",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc",
+      "priorite": 1
+    }
+  ]
+}

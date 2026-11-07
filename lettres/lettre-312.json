@@ -1,0 +1,22 @@
+{
+  "idEnfant": 312,
+  "prenom": "Aymen",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "format": "A4",
+      "couleur": "vert"
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

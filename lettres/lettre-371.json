@@ -1,0 +1,22 @@
+{
+  "idEnfant": 371,
+  "prenom": "Janna",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "59000",
+  "ecole": "École du Vieux-Lille",
+  "souhaits": [
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 1
+    },
+    {
+      "produit": "maison de poupées",
+      "categorie": "imaginaire",
+      "couleur": "rose",
+      "priorite": 2
+    }
+  ]
+}

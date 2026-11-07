@@ -1,0 +1,28 @@
+{
+  "idEnfant": 335,
+  "prenom": "Kayla",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69200",
+  "ecole": "École Jules-Guesde",
+  "souhaits": [
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm",
+      "couleur": "violet",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 2
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "priorite": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "idEnfant": 324,
+  "prenom": "Yassine",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "37000",
+  "ecole": "École des Prébendes",
+  "souhaits": [
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche"
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "couleur": "noir"
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ]
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

@@ -1,0 +1,15 @@
+{
+  "idEnfant": 350,
+  "prenom": "Nassim",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69200",
+  "ecole": "École Jules-Guesde",
+  "souhaits": [
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "priorite": 1
+    }
+  ]
+}

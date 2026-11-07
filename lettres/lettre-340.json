@@ -1,0 +1,38 @@
+{
+  "idEnfant": 340,
+  "prenom": "Omar",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69200",
+  "ecole": "École du Moulin-à-Vent",
+  "souhaits": [
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "priorite": 2
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth",
+      "priorite": 3
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ],
+      "priorite": 4
+    }
+  ],
+  "aEteSage": true
+}

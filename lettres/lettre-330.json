@@ -1,0 +1,25 @@
+{
+  "idEnfant": 330,
+  "prenom": "Mathias",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69300",
+  "ecole": "École du Bourg",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6
+    },
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "mesures": [
+        "température",
+        "pluie",
+        "vent"
+      ]
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

@@ -1,0 +1,26 @@
+{
+  "idEnfant": 351,
+  "prenom": "Asma",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "67000",
+  "ecole": "École des Bateliers",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    },
+    {
+      "produit": "skateboard",
+      "categorie": "sport"
+    },
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm",
+      "couleur": "noir"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

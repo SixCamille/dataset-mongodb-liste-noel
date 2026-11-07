@@ -1,0 +1,22 @@
+{
+  "idEnfant": 321,
+  "prenom": "Naya",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "35000",
+  "ecole": "École des Gantelles",
+  "souhaits": [
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x"
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "couleur": "noir"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

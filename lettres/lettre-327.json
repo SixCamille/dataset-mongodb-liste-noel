@@ -1,0 +1,36 @@
+{
+  "idEnfant": 327,
+  "prenom": "Eloïse",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69007",
+  "ecole": "École Jean-Macé",
+  "souhaits": [
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "couleur": "bois naturel"
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois",
+      "couleur": "rouge"
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire"
+    },
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "usage": "extérieur"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

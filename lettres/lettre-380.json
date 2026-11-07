@@ -1,0 +1,20 @@
+{
+  "idEnfant": 380,
+  "prenom": "Swan",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69120",
+  "ecole": "École du Mas-du-Taureau",
+  "souhaits": [
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "priorite": 1
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "priorite": 2
+    }
+  ]
+}

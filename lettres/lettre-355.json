@@ -1,0 +1,21 @@
+{
+  "idEnfant": 355,
+  "prenom": "Maïssa",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69150",
+  "ecole": "École des Balmes",
+  "souhaits": [
+    {
+      "produit": "coffret de pâte à modeler",
+      "categorie": "créatif",
+      "priorite": 1
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1,
+      "priorite": 2
+    }
+  ]
+}

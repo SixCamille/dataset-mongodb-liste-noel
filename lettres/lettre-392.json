@@ -1,0 +1,28 @@
+{
+  "idEnfant": 392,
+  "prenom": "Gaston",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "priorite": 1
+    },
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "priorite": 2
+    },
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5",
+      "couleur": "jaune",
+      "priorite": 3
+    }
+  ]
+}

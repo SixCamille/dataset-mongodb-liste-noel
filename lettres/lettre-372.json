@@ -1,0 +1,32 @@
+{
+  "idEnfant": 372,
+  "prenom": "Alexis",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69003",
+  "ecole": "École Paul-Bert",
+  "souhaits": [
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile"
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo"
+    },
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "forme": "delta"
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "couleur": "orange"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}
