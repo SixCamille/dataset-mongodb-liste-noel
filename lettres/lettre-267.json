@@ -1,0 +1,27 @@
+{
+  "idEnfant": 267,
+  "prenom": "Rose",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69150",
+  "ecole": "École des Églantines",
+  "souhaits": [
+    {
+      "produit": "set de calligraphie",
+      "categorie": "créatif",
+      "niveau": "débutant"
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm",
+      "couleur": "turquoise"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

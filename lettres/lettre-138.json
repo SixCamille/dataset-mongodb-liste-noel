@@ -1,0 +1,31 @@
+{
+  "idEnfant": 138,
+  "prenom": "Léo",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "63100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois"
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature"
+    },
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif",
+      "matiere": "bois"
+    },
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

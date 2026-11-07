@@ -1,0 +1,39 @@
+{
+  "idEnfant": 34,
+  "prenom": "Victor",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "13008",
+  "ecole": "École de la Pointe-Rouge",
+  "souhaits": [
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "priorite": 1
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "priorite": 2
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "pliable": true,
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "priorite": 4
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 5
+    }
+  ],
+  "aEteSage": true
+}

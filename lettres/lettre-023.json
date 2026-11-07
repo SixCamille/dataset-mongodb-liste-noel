@@ -1,0 +1,16 @@
+{
+  "idEnfant": 23,
+  "prenom": "Jeanne",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École de l'Île-Barbe",
+  "souhaits": [
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché",
+      "priorite": 1
+    }
+  ]
+}

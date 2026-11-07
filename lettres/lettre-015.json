@@ -1,0 +1,32 @@
+{
+  "idEnfant": 15,
+  "prenom": "Louna",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "couleur": "jaune"
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo"
+    },
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "couleur": "vert"
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

@@ -1,0 +1,16 @@
+{
+  "idEnfant": 250,
+  "prenom": "Noé",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "13006",
+  "ecole": "École de Lodi",
+  "souhaits": [
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "priorite": 1
+    }
+  ]
+}

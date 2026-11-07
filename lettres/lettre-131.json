@@ -1,0 +1,33 @@
+{
+  "idEnfant": 131,
+  "prenom": "Emma",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69007",
+  "ecole": "École de la Guillotière",
+  "souhaits": [
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois",
+      "priorite": 2
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4,
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6",
+      "priorite": 4
+    }
+  ]
+}

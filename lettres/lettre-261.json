@@ -1,0 +1,37 @@
+{
+  "idEnfant": 261,
+  "prenom": "Maëlle",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature"
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "couleur": "jaune"
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo"
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "preferenceEmballage": "papier recyclable"
+}

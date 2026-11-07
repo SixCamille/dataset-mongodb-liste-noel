@@ -1,0 +1,22 @@
+{
+  "idEnfant": 71,
+  "prenom": "Iris",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69150",
+  "ecole": "École des Balmes",
+  "souhaits": [
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 1
+    },
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "taille": "soprano",
+      "priorite": 2
+    }
+  ]
+}

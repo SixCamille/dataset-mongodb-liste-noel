@@ -1,0 +1,41 @@
+{
+  "idEnfant": 193,
+  "prenom": "Élise",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif",
+      "couleur": "bois naturel",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "format": "A4",
+      "couleur": "rose",
+      "priorite": 3
+    },
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "priorite": 4
+    },
+    {
+      "produit": "vélo",
+      "categorie": "sport",
+      "tailleRoues": "24 pouces",
+      "couleur": "bois naturel",
+      "priorite": 5
+    }
+  ]
+}

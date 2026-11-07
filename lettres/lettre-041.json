@@ -1,0 +1,16 @@
+{
+  "idEnfant": 41,
+  "prenom": "Romane",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69200",
+  "ecole": "École du Moulin-à-Vent",
+  "souhaits": [
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 1
+    }
+  ]
+}

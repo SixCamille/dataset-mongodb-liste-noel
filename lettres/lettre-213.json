@@ -1,0 +1,32 @@
+{
+  "idEnfant": 213,
+  "prenom": "Alice",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "34000",
+  "ecole": "École des Beaux-Arts",
+  "souhaits": [
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm"
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "couleur": "vert"
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "couleur": "bleu"
+    },
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

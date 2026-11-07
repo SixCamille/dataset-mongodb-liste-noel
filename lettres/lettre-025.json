@@ -1,0 +1,17 @@
+{
+  "idEnfant": 25,
+  "prenom": "Noémie",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "37000",
+  "ecole": "École du Sanitas",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois",
+      "couleur": "rose",
+      "priorite": 1
+    }
+  ]
+}

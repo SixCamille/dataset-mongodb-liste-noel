@@ -1,0 +1,40 @@
+{
+  "idEnfant": 295,
+  "prenom": "Léa",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "75011",
+  "ecole": "École du Chemin-Vert",
+  "souhaits": [
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6",
+      "priorite": 2
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 3
+    },
+    {
+      "produit": "coffret de pâte à modeler",
+      "categorie": "créatif",
+      "couleur": "violet",
+      "priorite": 4
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "priorite": 5
+    }
+  ]
+}

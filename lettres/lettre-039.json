@@ -1,0 +1,16 @@
+{
+  "idEnfant": 39,
+  "prenom": "Noémie",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "13008",
+  "ecole": "École du Rouet",
+  "souhaits": [
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."
+}

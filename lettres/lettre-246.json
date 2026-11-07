@@ -1,0 +1,21 @@
+{
+  "idEnfant": 246,
+  "prenom": "Hugo",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "63100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société"
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "couleur": "violet"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

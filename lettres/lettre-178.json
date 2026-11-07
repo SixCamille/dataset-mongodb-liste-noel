@@ -1,0 +1,22 @@
+{
+  "idEnfant": 178,
+  "prenom": "Jules",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "76000",
+  "ecole": "École des Sapins",
+  "souhaits": [
+    {
+      "produit": "coffret de pâte à modeler",
+      "categorie": "créatif",
+      "nombrePots": 12,
+      "priorite": 1
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "couleur": "bleu",
+      "priorite": 2
+    }
+  ]
+}

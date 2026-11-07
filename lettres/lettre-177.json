@@ -1,0 +1,39 @@
+{
+  "idEnfant": 177,
+  "prenom": "Yasmine",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "75015",
+  "ecole": "École du Clos-Saint-Lambert",
+  "souhaits": [
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "couleur": "vert"
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ]
+    },
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "couleur": "bois naturel"
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5"
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}

@@ -1,0 +1,34 @@
+{
+  "idEnfant": 238,
+  "prenom": "Tiago",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "35000",
+  "ecole": "École des Gantelles",
+  "souhaits": [
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "priorite": 1
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "priorite": 2
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "couleur": "bleu",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 4
+    }
+  ],
+  "aEteSage": true
+}

@@ -1,0 +1,32 @@
+{
+  "idEnfant": 163,
+  "prenom": "Apolline",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "21000",
+  "ecole": "École du Clos-Chauveau",
+  "souhaits": [
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "priorite": 2
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "priorite": 3
+    },
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "taille": "soprano",
+      "priorite": 4
+    }
+  ]
+}

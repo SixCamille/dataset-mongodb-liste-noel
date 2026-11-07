@@ -1,0 +1,41 @@
+{
+  "idEnfant": 161,
+  "prenom": "Aya",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69005",
+  "ecole": "École des Battières",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois",
+      "couleur": "noir",
+      "priorite": 1
+    },
+    {
+      "produit": "recueil de mythologie grecque",
+      "categorie": "livre",
+      "illustrations": true,
+      "priorite": 2
+    },
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "niveau": "débutant",
+      "priorite": 3
+    },
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "grossissement": "8x",
+      "priorite": 4
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "priorite": 5
+    }
+  ]
+}

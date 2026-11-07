@@ -1,0 +1,17 @@
+{
+  "idEnfant": 132,
+  "prenom": "Aaron",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "13008",
+  "ecole": "École du Rouet",
+  "souhaits": [
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "couleur": "vert"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}

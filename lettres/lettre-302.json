@@ -1,0 +1,41 @@
+{
+  "idEnfant": 302,
+  "prenom": "Maël",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif",
+      "type": "perles",
+      "couleur": "noir",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "taille": "20 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm",
+      "priorite": 3
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "priorite": 4
+    },
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "forme": "delta",
+      "priorite": 5
+    }
+  ]
+}

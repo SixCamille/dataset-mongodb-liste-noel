@@ -1,0 +1,17 @@
+{
+  "idEnfant": 14,
+  "prenom": "Augustin",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "33000",
+  "ecole": "École Saint-Seurin",
+  "souhaits": [
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "couleur": "turquoise",
+      "priorite": 1
+    }
+  ]
+}

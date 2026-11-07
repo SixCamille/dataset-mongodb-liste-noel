@@ -1,0 +1,40 @@
+{
+  "idEnfant": 11,
+  "prenom": "Yasmine",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "75005",
+  "ecole": "École de la Montagne-Sainte-Geneviève",
+  "souhaits": [
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "couleur": "noir",
+      "priorite": 2
+    },
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif",
+      "priorite": 3
+    },
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "priorite": 4
+    },
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "forme": "delta",
+      "priorite": 5
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

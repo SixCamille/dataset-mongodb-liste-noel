@@ -1,0 +1,40 @@
+{
+  "idEnfant": 68,
+  "prenom": "Arthur",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69003",
+  "ecole": "École Léon-Jouhaux",
+  "souhaits": [
+    {
+      "produit": "set de calligraphie",
+      "categorie": "créatif",
+      "niveau": "débutant",
+      "priorite": 1
+    },
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "taille": "soprano",
+      "priorite": 2
+    },
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "couleur": "bois naturel",
+      "priorite": 3
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "priorite": 4
+    },
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "priorite": 5
+    }
+  ],
+  "aEteSage": true
+}

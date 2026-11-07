@@ -1,0 +1,41 @@
+{
+  "idEnfant": 245,
+  "prenom": "Margot",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "13008",
+  "ecole": "École du Rouet",
+  "souhaits": [
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3,
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 2
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx",
+      "couleur": "rose",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "couleur": "bois naturel",
+      "priorite": 4
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "priorite": 5
+    }
+  ]
+}

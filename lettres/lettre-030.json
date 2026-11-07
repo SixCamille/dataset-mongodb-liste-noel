@@ -1,0 +1,20 @@
+{
+  "idEnfant": 30,
+  "prenom": "Robin",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "37000",
+  "ecole": "École du Sanitas",
+  "souhaits": [
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif"
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."
+}

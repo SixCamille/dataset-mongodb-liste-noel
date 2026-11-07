@@ -1,0 +1,21 @@
+{
+  "idEnfant": 296,
+  "prenom": "Axel",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "06000",
+  "ecole": "École des Orangers",
+  "souhaits": [
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "couleur": "rouge",
+      "priorite": 2
+    }
+  ]
+}

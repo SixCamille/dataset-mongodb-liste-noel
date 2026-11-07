@@ -1,0 +1,29 @@
+{
+  "idEnfant": 199,
+  "prenom": "Chloé",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "couleur": "jaune",
+      "priorite": 1
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois",
+      "priorite": 2
+    },
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "tonalite": "do",
+      "priorite": 3
+    }
+  ]
+}

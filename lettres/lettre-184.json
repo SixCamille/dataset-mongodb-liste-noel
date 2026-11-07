@@ -1,0 +1,40 @@
+{
+  "idEnfant": 184,
+  "prenom": "Liam",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69120",
+  "ecole": "École Pierre-et-Marie-Curie",
+  "souhaits": [
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de stratégie sur les animaux",
+      "categorie": "jeu de société",
+      "dureePartie": "30 min",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm",
+      "priorite": 3
+    },
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3,
+      "couleur": "vert",
+      "priorite": 4
+    },
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie",
+      "priorite": 5
+    }
+  ]
+}

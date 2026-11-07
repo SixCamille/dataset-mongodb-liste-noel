@@ -1,0 +1,22 @@
+{
+  "idEnfant": 62,
+  "prenom": "Émile",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "59000",
+  "ecole": "École de Wazemmes",
+  "souhaits": [
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "priorite": 1
+    },
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "grossissement": "8x",
+      "priorite": 2
+    }
+  ]
+}

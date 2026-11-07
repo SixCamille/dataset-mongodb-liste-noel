@@ -1,0 +1,40 @@
+{
+  "idEnfant": 70,
+  "prenom": "Noé",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique",
+      "priorite": 1
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 3
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "collection": "botanique",
+      "couleur": "rose",
+      "priorite": 4
+    },
+    {
+      "produit": "set de calligraphie",
+      "categorie": "créatif",
+      "niveau": "débutant",
+      "priorite": 5
+    }
+  ]
+}

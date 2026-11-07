@@ -1,0 +1,23 @@
+{
+  "idEnfant": 187,
+  "prenom": "Adèle",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "75011",
+  "ecole": "École du Chemin-Vert",
+  "souhaits": [
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "couleur": "jaune",
+      "priorite": 1
+    },
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "priorite": 2
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "aEteSage": true
+}

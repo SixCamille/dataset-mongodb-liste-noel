@@ -1,0 +1,29 @@
+{
+  "idEnfant": 224,
+  "prenom": "Tiago",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École de l'Île-Barbe",
+  "souhaits": [
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "couleur": "rose",
+      "priorite": 1
+    },
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "couleur": "rose",
+      "priorite": 2
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "priorite": 3
+    }
+  ]
+}

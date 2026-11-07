@@ -1,0 +1,22 @@
+{
+  "idEnfant": 212,
+  "prenom": "Samuel",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "75005",
+  "ecole": "École de la Montagne-Sainte-Geneviève",
+  "souhaits": [
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "couleur": "vert",
+      "priorite": 1
+    },
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché",
+      "priorite": 2
+    }
+  ]
+}

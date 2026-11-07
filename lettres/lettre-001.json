@@ -1,0 +1,29 @@
+{
+  "idEnfant": 1,
+  "prenom": "Maya",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "75011",
+  "ecole": "École de la Roquette",
+  "souhaits": [
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre",
+      "theme": "sciences",
+      "priorite": 2
+    },
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "niveau": "débutant",
+      "couleur": "rouge",
+      "priorite": 3
+    }
+  ]
+}

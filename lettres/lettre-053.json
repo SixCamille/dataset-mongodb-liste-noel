@@ -1,0 +1,23 @@
+{
+  "idEnfant": 53,
+  "prenom": "Maëlle",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69005",
+  "ecole": "École des Battières",
+  "souhaits": [
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "livre de recettes pour enfants",
+      "categorie": "livre",
+      "niveau": "facile",
+      "priorite": 2
+    }
+  ]
+}

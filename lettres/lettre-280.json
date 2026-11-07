@@ -1,0 +1,23 @@
+{
+  "idEnfant": 280,
+  "prenom": "Basile",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique",
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "priorite": 2
+    }
+  ]
+}

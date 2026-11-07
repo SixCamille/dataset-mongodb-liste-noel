@@ -1,0 +1,21 @@
+{
+  "idEnfant": 105,
+  "prenom": "Alix",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "06000",
+  "ecole": "École des Orangers",
+  "souhaits": [
+    {
+      "produit": "coffret de pâte à modeler",
+      "categorie": "créatif",
+      "nombrePots": 12
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "couleur": "rose"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

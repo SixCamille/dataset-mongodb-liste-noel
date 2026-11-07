@@ -1,0 +1,28 @@
+{
+  "idEnfant": 49,
+  "prenom": "Nour",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "13008",
+  "ecole": "École de la Pointe-Rouge",
+  "souhaits": [
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "couleur": "turquoise",
+      "priorite": 1
+    },
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature",
+      "priorite": 3
+    }
+  ]
+}

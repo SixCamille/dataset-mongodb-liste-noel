@@ -1,0 +1,26 @@
+{
+  "idEnfant": 258,
+  "prenom": "Eden",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "59000",
+  "ecole": "École de Wazemmes",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature"
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "couleur": "bleu"
+    },
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

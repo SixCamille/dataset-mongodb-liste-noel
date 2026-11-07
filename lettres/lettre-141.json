@@ -1,0 +1,16 @@
+{
+  "idEnfant": 141,
+  "prenom": "Zoé",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69007",
+  "ecole": "École Jean-Macé",
+  "souhaits": [
+    {
+      "produit": "carnet de dessin à couverture rigide",
+      "categorie": "créatif",
+      "format": "A4"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

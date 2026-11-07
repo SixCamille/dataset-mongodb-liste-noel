@@ -1,0 +1,37 @@
+{
+  "idEnfant": 243,
+  "prenom": "Nour",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "67000",
+  "ecole": "École de la Krutenau",
+  "souhaits": [
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth"
+    },
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6,
+      "couleur": "rouge"
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "couleur": "jaune"
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

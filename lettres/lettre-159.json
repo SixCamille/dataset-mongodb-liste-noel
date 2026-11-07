@@ -1,0 +1,35 @@
+{
+  "idEnfant": 159,
+  "prenom": "Lina",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69150",
+  "ecole": "École des Églantines",
+  "souhaits": [
+    {
+      "produit": "trottinette",
+      "categorie": "sport"
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société"
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois"
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur"
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "couleur": "bois naturel"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."
+}

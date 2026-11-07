@@ -1,0 +1,41 @@
+{
+  "idEnfant": 52,
+  "prenom": "Hugo",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "67000",
+  "ecole": "École des Bateliers",
+  "souhaits": [
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "tonalite": "do",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "taille": "20 cm",
+      "couleur": "rouge",
+      "priorite": 3
+    },
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "niveau": "intermédiaire",
+      "priorite": 4
+    },
+    {
+      "produit": "vélo",
+      "categorie": "sport",
+      "tailleRoues": "24 pouces",
+      "couleur": "orange",
+      "priorite": 5
+    }
+  ]
+}

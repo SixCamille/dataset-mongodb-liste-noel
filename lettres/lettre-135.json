@@ -1,0 +1,25 @@
+{
+  "idEnfant": 135,
+  "prenom": "Salomé",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "35000",
+  "ecole": "École du Colombier",
+  "souhaits": [
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm"
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

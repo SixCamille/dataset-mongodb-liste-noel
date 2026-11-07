@@ -1,0 +1,25 @@
+{
+  "idEnfant": 144,
+  "prenom": "Axel",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69200",
+  "ecole": "École Jules-Guesde",
+  "souhaits": [
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm"
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ]
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

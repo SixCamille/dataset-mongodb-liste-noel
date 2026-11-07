@@ -1,0 +1,35 @@
+{
+  "idEnfant": 86,
+  "prenom": "Basile",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69120",
+  "ecole": "École du Mas-du-Taureau",
+  "souhaits": [
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "priorite": 2
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "priorite": 3
+    },
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "priorite": 4
+    },
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "priorite": 5
+    }
+  ]
+}

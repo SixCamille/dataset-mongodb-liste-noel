@@ -1,0 +1,36 @@
+{
+  "idEnfant": 265,
+  "prenom": "Iris",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "collection": "botanique",
+      "couleur": "violet",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5,
+      "priorite": 3
+    },
+    {
+      "produit": "coffret de pâte à modeler",
+      "categorie": "créatif",
+      "nombrePots": 12,
+      "couleur": "violet",
+      "priorite": 4
+    }
+  ]
+}

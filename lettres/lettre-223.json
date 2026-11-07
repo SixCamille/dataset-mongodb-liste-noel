@@ -1,0 +1,16 @@
+{
+  "idEnfant": 223,
+  "prenom": "Ambre",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "35000",
+  "ecole": "École des Gantelles",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5",
+      "priorite": 1
+    }
+  ]
+}

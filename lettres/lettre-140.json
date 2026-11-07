@@ -1,0 +1,34 @@
+{
+  "idEnfant": 140,
+  "prenom": "Amir",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "35000",
+  "ecole": "École du Colombier",
+  "souhaits": [
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "format": "album",
+      "priorite": 1
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "priorite": 2
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm",
+      "priorite": 3
+    },
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois",
+      "priorite": 4
+    }
+  ]
+}

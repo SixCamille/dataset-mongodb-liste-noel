@@ -1,0 +1,32 @@
+{
+  "idEnfant": 208,
+  "prenom": "Augustin",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "34000",
+  "ecole": "École des Beaux-Arts",
+  "souhaits": [
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ],
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "couleur": "vert",
+      "priorite": 2
+    },
+    {
+      "produit": "livre de recettes pour enfants",
+      "categorie": "livre",
+      "niveau": "facile",
+      "priorite": 3
+    }
+  ]
+}

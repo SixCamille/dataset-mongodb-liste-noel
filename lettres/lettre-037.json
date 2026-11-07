@@ -1,0 +1,20 @@
+{
+  "idEnfant": 37,
+  "prenom": "Jeanne",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "35000",
+  "ecole": "École des Gantelles",
+  "souhaits": [
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "priorite": 2
+    }
+  ]
+}

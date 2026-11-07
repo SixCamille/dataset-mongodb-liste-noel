@@ -1,0 +1,40 @@
+{
+  "idEnfant": 286,
+  "prenom": "Sacha",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "priorite": 3
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale",
+      "priorite": 4
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4,
+      "priorite": 5
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

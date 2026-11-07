@@ -1,0 +1,16 @@
+{
+  "idEnfant": 114,
+  "prenom": "Oscar",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "75005",
+  "ecole": "École des Arènes",
+  "souhaits": [
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

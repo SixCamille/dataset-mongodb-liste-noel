@@ -1,0 +1,23 @@
+{
+  "idEnfant": 128,
+  "prenom": "Oscar",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "37000",
+  "ecole": "École du Sanitas",
+  "souhaits": [
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth",
+      "priorite": 1
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "bleu",
+      "priorite": 2
+    }
+  ]
+}

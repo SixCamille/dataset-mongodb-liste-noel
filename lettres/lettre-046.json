@@ -1,0 +1,22 @@
+{
+  "idEnfant": 46,
+  "prenom": "Samuel",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69200",
+  "ecole": "École du Moulin-à-Vent",
+  "souhaits": [
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 1
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "priorite": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "idEnfant": 137,
+  "prenom": "Manon",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "13008",
+  "ecole": "École du Rouet",
+  "souhaits": [
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 1
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "priorite": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "idEnfant": 218,
+  "prenom": "Noah",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "34000",
+  "ecole": "École des Beaux-Arts",
+  "souhaits": [
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 1
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "couleur": "rouge",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "priorite": 3
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm",
+      "priorite": 4
+    },
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif",
+      "matiere": "bois",
+      "priorite": 5
+    }
+  ]
+}

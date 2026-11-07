@@ -1,0 +1,38 @@
+{
+  "idEnfant": 293,
+  "prenom": "Nina",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "priorite": 1
+    },
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "format": "A4",
+      "couleur": "turquoise",
+      "priorite": 2
+    },
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "priorite": 3
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "priorite": 4
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 37,
+      "priorite": 5
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "idEnfant": 279,
+  "prenom": "Iris",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69001",
+  "ecole": "École Michel-Servet",
+  "souhaits": [
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature"
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences"
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire",
+      "couleur": "rouge"
+    },
+    {
+      "produit": "maison de poupées",
+      "categorie": "imaginaire",
+      "nombreEtages": 3
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."
+}

@@ -1,0 +1,43 @@
+{
+  "idEnfant": 143,
+  "prenom": "Inès",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "63100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "jeu de stratégie sur les animaux",
+      "categorie": "jeu de société",
+      "dureePartie": "30 min",
+      "priorite": 1
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois",
+      "couleur": "bleu",
+      "priorite": 2
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 3
+    },
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "couleur": "noir",
+      "priorite": 4
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "rouge",
+      "priorite": 5
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

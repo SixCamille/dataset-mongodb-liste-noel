@@ -1,0 +1,34 @@
+{
+  "idEnfant": 290,
+  "prenom": "Raphaël",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "75011",
+  "ecole": "École de la Roquette",
+  "souhaits": [
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "priorite": 2
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "priorite": 3
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "couleur": "vert",
+      "priorite": 4
+    }
+  ],
+  "preferenceEmballage": "papier recyclable"
+}

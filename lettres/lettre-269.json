@@ -1,0 +1,23 @@
+{
+  "idEnfant": 269,
+  "prenom": "Jade",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69003",
+  "ecole": "École Paul-Bert",
+  "souhaits": [
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "priorite": 2
+    }
+  ]
+}

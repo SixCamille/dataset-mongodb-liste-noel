@@ -1,0 +1,16 @@
+{
+  "idEnfant": 282,
+  "prenom": "Martin",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69120",
+  "ecole": "École Pierre-et-Marie-Curie",
+  "souhaits": [
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "niveau": "intermédiaire"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

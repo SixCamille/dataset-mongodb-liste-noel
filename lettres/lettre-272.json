@@ -1,0 +1,34 @@
+{
+  "idEnfant": 272,
+  "prenom": "Eden",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69120",
+  "ecole": "École Pierre-et-Marie-Curie",
+  "souhaits": [
+    {
+      "produit": "maison de poupées",
+      "categorie": "imaginaire",
+      "nombreEtages": 3,
+      "priorite": 1
+    },
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "priorite": 2
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "priorite": 3
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 4
+    }
+  ],
+  "aEteSage": true
+}

@@ -1,0 +1,17 @@
+{
+  "idEnfant": 123,
+  "prenom": "Manon",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "37000",
+  "ecole": "École des Prébendes",
+  "souhaits": [
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "couleur": "noir"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

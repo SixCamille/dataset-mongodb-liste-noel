@@ -1,0 +1,22 @@
+{
+  "idEnfant": 121,
+  "prenom": "Salomé",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "capacite": "18 L",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "priorite": 2
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

@@ -1,0 +1,28 @@
+{
+  "idEnfant": 274,
+  "prenom": "Lucas",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69003",
+  "ecole": "École Paul-Bert",
+  "souhaits": [
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "forme": "delta",
+      "priorite": 1
+    },
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "couleur": "orange",
+      "priorite": 2
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 3
+    }
+  ]
+}

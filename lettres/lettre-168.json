@@ -1,0 +1,35 @@
+{
+  "idEnfant": 168,
+  "prenom": "Nino",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche"
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth"
+    },
+    {
+      "produit": "jeu de stratégie sur les animaux",
+      "categorie": "jeu de société"
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "couleur": "vert"
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}

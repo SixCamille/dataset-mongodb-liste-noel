@@ -1,0 +1,16 @@
+{
+  "idEnfant": 89,
+  "prenom": "Jade",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "75011",
+  "ecole": "École de la Roquette",
+  "souhaits": [
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "priorite": 1
+    }
+  ]
+}

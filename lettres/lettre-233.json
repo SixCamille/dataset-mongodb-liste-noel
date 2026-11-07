@@ -1,0 +1,28 @@
+{
+  "idEnfant": 233,
+  "prenom": "Maëlle",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "35000",
+  "ecole": "École du Colombier",
+  "souhaits": [
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "priorite": 1
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm",
+      "priorite": 2
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "couleur": "bleu",
+      "priorite": 3
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "idEnfant": 171,
+  "prenom": "Inès",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69003",
+  "ecole": "École Paul-Bert",
+  "souhaits": [
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "longueur": "79 cm"
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

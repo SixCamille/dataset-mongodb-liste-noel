@@ -1,0 +1,17 @@
+{
+  "idEnfant": 264,
+  "prenom": "Noé",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69003",
+  "ecole": "École Paul-Bert",
+  "souhaits": [
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx",
+      "couleur": "violet"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

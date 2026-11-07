@@ -1,0 +1,24 @@
+{
+  "idEnfant": 44,
+  "prenom": "Tiago",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "13008",
+  "ecole": "École de la Pointe-Rouge",
+  "souhaits": [
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé",
+      "couleur": "turquoise",
+      "priorite": 1
+    },
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "taille": "soprano",
+      "priorite": 2
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

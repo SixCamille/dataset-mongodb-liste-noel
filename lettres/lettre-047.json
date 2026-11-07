@@ -1,0 +1,33 @@
+{
+  "idEnfant": 47,
+  "prenom": "Alice",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "67000",
+  "ecole": "École des Bateliers",
+  "souhaits": [
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "couleur": "rouge",
+      "priorite": 1
+    },
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "priorite": 2
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "priorite": 3
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "couleur": "rose",
+      "priorite": 4
+    }
+  ]
+}

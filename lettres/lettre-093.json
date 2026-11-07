@@ -1,0 +1,35 @@
+{
+  "idEnfant": 93,
+  "prenom": "Lila",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "couleur": "bois naturel"
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "couleur": "jaune"
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire"
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche"
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

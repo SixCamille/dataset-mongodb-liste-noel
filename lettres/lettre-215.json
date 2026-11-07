@@ -1,0 +1,33 @@
+{
+  "idEnfant": 215,
+  "prenom": "Nour",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "31000",
+  "ecole": "École des Chalets",
+  "souhaits": [
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "matiere": "bois",
+      "priorite": 1
+    },
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché",
+      "priorite": 2
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "priorite": 4
+    }
+  ]
+}

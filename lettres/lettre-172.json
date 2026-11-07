@@ -1,0 +1,36 @@
+{
+  "idEnfant": 172,
+  "prenom": "Mathis",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "75015",
+  "ecole": "École du Clos-Saint-Lambert",
+  "souhaits": [
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 1
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "couleur": "violet",
+      "priorite": 2
+    },
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "niveau": "intermédiaire",
+      "couleur": "noir",
+      "priorite": 3
+    },
+    {
+      "produit": "kit d'observation des insectes",
+      "categorie": "plein air",
+      "loupe": true,
+      "priorite": 4
+    }
+  ]
+}

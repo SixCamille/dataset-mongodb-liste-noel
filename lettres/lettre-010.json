@@ -1,0 +1,29 @@
+{
+  "idEnfant": 10,
+  "prenom": "Paul",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "niveau": "débutant",
+      "couleur": "bois naturel",
+      "priorite": 3
+    }
+  ]
+}

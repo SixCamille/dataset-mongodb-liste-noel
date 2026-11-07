@@ -1,0 +1,17 @@
+{
+  "idEnfant": 7,
+  "prenom": "Adèle",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "longueur": "79 cm",
+      "couleur": "bois naturel",
+      "priorite": 1
+    }
+  ]
+}

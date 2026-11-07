@@ -1,0 +1,35 @@
+{
+  "idEnfant": 195,
+  "prenom": "Louna",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4"
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre"
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur"
+    },
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "taille": "20 cm"
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

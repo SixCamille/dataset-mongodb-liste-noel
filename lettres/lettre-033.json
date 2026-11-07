@@ -1,0 +1,25 @@
+{
+  "idEnfant": 33,
+  "prenom": "Alice",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69007",
+  "ecole": "École de la Guillotière",
+  "souhaits": [
+    {
+      "produit": "recueil de mythologie grecque",
+      "categorie": "livre"
+    },
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "couleur": "turquoise"
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

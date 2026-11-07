@@ -1,0 +1,28 @@
+{
+  "idEnfant": 35,
+  "prenom": "Nour",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "37000",
+  "ecole": "École du Sanitas",
+  "souhaits": [
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "format": "A4",
+      "priorite": 1
+    },
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "longueur": "79 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "carnet de dessin à couverture rigide",
+      "categorie": "créatif",
+      "couleur": "jaune",
+      "priorite": 3
+    }
+  ]
+}

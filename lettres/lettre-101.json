@@ -1,0 +1,27 @@
+{
+  "idEnfant": 101,
+  "prenom": "Rose",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "tonalite": "do",
+      "priorite": 2
+    },
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm",
+      "priorite": 3
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "idEnfant": 203,
+  "prenom": "Jeanne",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "06000",
+  "ecole": "École des Orangers",
+  "souhaits": [
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm",
+      "couleur": "rouge",
+      "priorite": 1
+    },
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "grossissement": "8x",
+      "priorite": 2
+    }
+  ],
+  "preferenceEmballage": "papier recyclable"
+}

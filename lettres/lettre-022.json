@@ -1,0 +1,35 @@
+{
+  "idEnfant": 22,
+  "prenom": "Tom",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "34000",
+  "ecole": "École des Beaux-Arts",
+  "souhaits": [
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 2
+    },
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 3
+    },
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "niveau": "débutant",
+      "couleur": "violet",
+      "priorite": 4
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

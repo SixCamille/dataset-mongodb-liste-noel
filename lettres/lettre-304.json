@@ -1,0 +1,32 @@
+{
+  "idEnfant": 304,
+  "prenom": "Léo",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "priorite": 2
+    },
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "grossissement": "8x",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 4
+    }
+  ]
+}

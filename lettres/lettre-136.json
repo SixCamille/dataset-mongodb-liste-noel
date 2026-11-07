@@ -1,0 +1,46 @@
+{
+  "idEnfant": 136,
+  "prenom": "Maël",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69007",
+  "ecole": "École Jean-Macé",
+  "souhaits": [
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 1
+    },
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "priorite": 2
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ],
+      "couleur": "rose",
+      "priorite": 3
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 4
+    },
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6,
+      "couleur": "violet",
+      "priorite": 5
+    }
+  ],
+  "aEteSage": true
+}

@@ -1,0 +1,34 @@
+{
+  "idEnfant": 181,
+  "prenom": "Maya",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "couleur": "jaune",
+      "priorite": 1
+    },
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "couleur": "vert",
+      "priorite": 2
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "priorite": 3
+    },
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "nombreExperiences": 8,
+      "priorite": 4
+    }
+  ]
+}

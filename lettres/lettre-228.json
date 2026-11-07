@@ -1,0 +1,21 @@
+{
+  "idEnfant": 228,
+  "prenom": "Victor",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "35000",
+  "ecole": "École des Gantelles",
+  "souhaits": [
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5"
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

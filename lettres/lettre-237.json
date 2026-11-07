@@ -1,0 +1,21 @@
+{
+  "idEnfant": 237,
+  "prenom": "Ambre",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69200",
+  "ecole": "École Jules-Guesde",
+  "souhaits": [
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans"
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

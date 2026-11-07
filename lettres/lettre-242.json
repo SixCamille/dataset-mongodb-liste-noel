@@ -1,0 +1,32 @@
+{
+  "idEnfant": 242,
+  "prenom": "Émile",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69200",
+  "ecole": "École Jules-Guesde",
+  "souhaits": [
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "priorite": 2
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

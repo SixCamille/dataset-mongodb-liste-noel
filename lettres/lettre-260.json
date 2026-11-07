@@ -1,0 +1,26 @@
+{
+  "idEnfant": 260,
+  "prenom": "Lucas",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "13006",
+  "ecole": "École de Lodi",
+  "souhaits": [
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 2
+    },
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "priorite": 3
+    }
+  ]
+}

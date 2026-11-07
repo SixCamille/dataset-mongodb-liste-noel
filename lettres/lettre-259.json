@@ -1,0 +1,40 @@
+{
+  "idEnfant": 259,
+  "prenom": "Lila",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69005",
+  "ecole": "École des Battières",
+  "souhaits": [
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "priorite": 1
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "couleur": "turquoise",
+      "priorite": 2
+    },
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "couleur": "bois naturel",
+      "priorite": 3
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm",
+      "couleur": "orange",
+      "priorite": 4
+    },
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie",
+      "priorite": 5
+    }
+  ]
+}

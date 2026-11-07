@@ -1,0 +1,31 @@
+{
+  "idEnfant": 306,
+  "prenom": "Eliott",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "34000",
+  "ecole": "École des Beaux-Arts",
+  "souhaits": [
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre"
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois"
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    },
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "longueur": "79 cm"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "aEteSage": true
+}

@@ -1,0 +1,39 @@
+{
+  "idEnfant": 268,
+  "prenom": "Martin",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "59000",
+  "ecole": "École de Wazemmes",
+  "souhaits": [
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "priorite": 1
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "couleur": "bois naturel",
+      "priorite": 2
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 3
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "couleur": "jaune",
+      "priorite": 4
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "priorite": 5,
+      "pointure": 34
+    }
+  ]
+}

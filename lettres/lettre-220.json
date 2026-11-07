@@ -1,0 +1,42 @@
+{
+  "idEnfant": 220,
+  "prenom": "Louis",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "31000",
+  "ecole": "École des Chalets",
+  "souhaits": [
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "couleur": "vert",
+      "priorite": 1
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "couleur": "violet",
+      "priorite": 3
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé",
+      "couleur": "violet",
+      "priorite": 4
+    },
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique",
+      "priorite": 5
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

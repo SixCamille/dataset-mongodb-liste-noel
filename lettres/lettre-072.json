@@ -1,0 +1,32 @@
+{
+  "idEnfant": 72,
+  "prenom": "Tiago",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "59000",
+  "ecole": "École du Vieux-Lille",
+  "souhaits": [
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "format": "album"
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24
+    },
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "nombrePieces": 120,
+      "couleur": "orange"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

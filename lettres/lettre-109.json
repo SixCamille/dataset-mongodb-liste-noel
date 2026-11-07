@@ -1,0 +1,41 @@
+{
+  "idEnfant": 109,
+  "prenom": "Lucie",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "75005",
+  "ecole": "École de la Montagne-Sainte-Geneviève",
+  "souhaits": [
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "couleur": "violet",
+      "priorite": 2
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "couleur": "rose",
+      "priorite": 3
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4,
+      "couleur": "bleu",
+      "priorite": 4
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "priorite": 5
+    }
+  ]
+}

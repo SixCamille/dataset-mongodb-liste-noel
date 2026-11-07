@@ -1,0 +1,26 @@
+{
+  "idEnfant": 42,
+  "prenom": "Maxime",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "35000",
+  "ecole": "École du Colombier",
+  "souhaits": [
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "usage": "extérieur"
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature"
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire",
+      "couleur": "turquoise"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

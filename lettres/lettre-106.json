@@ -1,0 +1,35 @@
+{
+  "idEnfant": 106,
+  "prenom": "Sacha",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "nombreExperiences": 8,
+      "priorite": 1
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 2
+    },
+    {
+      "produit": "vélo",
+      "categorie": "sport",
+      "tailleRoues": "24 pouces",
+      "priorite": 3
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx",
+      "couleur": "noir",
+      "priorite": 4
+    }
+  ]
+}

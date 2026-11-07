@@ -1,0 +1,28 @@
+{
+  "idEnfant": 67,
+  "prenom": "Maëlle",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "59000",
+  "ecole": "École du Vieux-Lille",
+  "souhaits": [
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "priorite": 2
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4,
+      "couleur": "jaune",
+      "priorite": 3
+    }
+  ]
+}

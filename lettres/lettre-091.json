@@ -1,0 +1,15 @@
+{
+  "idEnfant": 91,
+  "prenom": "Éva",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69120",
+  "ecole": "École Pierre-et-Marie-Curie",
+  "souhaits": [
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "priorite": 1
+    }
+  ]
+}

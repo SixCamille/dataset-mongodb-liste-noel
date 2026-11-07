@@ -1,0 +1,15 @@
+{
+  "idEnfant": 266,
+  "prenom": "Basile",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "21000",
+  "ecole": "École du Clos-Chauveau",
+  "souhaits": [
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "priorite": 1
+    }
+  ]
+}

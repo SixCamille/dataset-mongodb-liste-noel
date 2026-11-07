@@ -1,0 +1,16 @@
+{
+  "idEnfant": 166,
+  "prenom": "Gabriel",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69003",
+  "ecole": "École Léon-Jouhaux",
+  "souhaits": [
+    {
+      "produit": "coffret de pâte à modeler",
+      "categorie": "créatif",
+      "nombrePots": 12,
+      "priorite": 1
+    }
+  ]
+}

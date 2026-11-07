@@ -1,0 +1,17 @@
+{
+  "idEnfant": 116,
+  "prenom": "Axel",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "matiere": "bois",
+      "priorite": 1
+    }
+  ],
+  "preferenceEmballage": "papier recyclable"
+}

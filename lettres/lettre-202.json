@@ -1,0 +1,38 @@
+{
+  "idEnfant": 202,
+  "prenom": "Tom",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "75005",
+  "ecole": "École de la Montagne-Sainte-Geneviève",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5",
+      "priorite": 1
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "priorite": 2
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "priorite": 3
+    },
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "priorite": 4
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "couleur": "vert",
+      "priorite": 5
+    }
+  ]
+}

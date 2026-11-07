@@ -1,0 +1,29 @@
+{
+  "idEnfant": 292,
+  "prenom": "Eliott",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "taille": "20 cm",
+      "priorite": 1
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "couleur": "noir",
+      "priorite": 2
+    },
+    {
+      "produit": "livre de recettes pour enfants",
+      "categorie": "livre",
+      "niveau": "facile",
+      "priorite": 3
+    }
+  ]
+}

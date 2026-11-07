@@ -1,0 +1,36 @@
+{
+  "idEnfant": 197,
+  "prenom": "Mila",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "75011",
+  "ecole": "École du Chemin-Vert",
+  "souhaits": [
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "couleur": "turquoise",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de stratégie sur les animaux",
+      "categorie": "jeu de société",
+      "dureePartie": "30 min",
+      "priorite": 2
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 3
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "couleur": "jaune",
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "idEnfant": 117,
+  "prenom": "Jade",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "31000",
+  "ecole": "École des Chalets",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences"
+    },
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile"
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

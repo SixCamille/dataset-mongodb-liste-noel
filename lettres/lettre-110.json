@@ -1,0 +1,27 @@
+{
+  "idEnfant": 110,
+  "prenom": "Raphaël",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "34000",
+  "ecole": "École des Arceaux",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale",
+      "priorite": 2
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."
+}

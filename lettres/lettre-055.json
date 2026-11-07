@@ -1,0 +1,27 @@
+{
+  "idEnfant": 55,
+  "prenom": "Romane",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "priorite": 1
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "pliable": true,
+      "priorite": 2
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

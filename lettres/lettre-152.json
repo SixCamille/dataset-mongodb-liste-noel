@@ -1,0 +1,38 @@
+{
+  "idEnfant": 152,
+  "prenom": "Gabriel",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "13006",
+  "ecole": "École Notre-Dame-du-Mont",
+  "souhaits": [
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire",
+      "priorite": 1
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "priorite": 2
+    },
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "priorite": 3
+    },
+    {
+      "produit": "carnet de dessin à couverture rigide",
+      "categorie": "créatif",
+      "format": "A4",
+      "couleur": "rose",
+      "priorite": 4
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "priorite": 5
+    }
+  ]
+}

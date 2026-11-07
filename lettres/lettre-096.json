@@ -1,0 +1,21 @@
+{
+  "idEnfant": 96,
+  "prenom": "Raphaël",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx"
+    },
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

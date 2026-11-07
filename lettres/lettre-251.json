@@ -1,0 +1,27 @@
+{
+  "idEnfant": 251,
+  "prenom": "Iris",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "priorite": 1
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "priorite": 2
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois",
+      "priorite": 3
+    }
+  ]
+}

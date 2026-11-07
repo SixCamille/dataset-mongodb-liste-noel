@@ -1,0 +1,34 @@
+{
+  "idEnfant": 84,
+  "prenom": "Noé",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "taille": "soprano"
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm"
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction"
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

@@ -1,0 +1,16 @@
+{
+  "idEnfant": 73,
+  "prenom": "Anna",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69003",
+  "ecole": "École Paul-Bert",
+  "souhaits": [
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "priorite": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "idEnfant": 77,
+  "prenom": "Éva",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "59000",
+  "ecole": "École de Wazemmes",
+  "souhaits": [
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5,
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "priorite": 2
+    },
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "couleur": "orange",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 4
+    },
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 5
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

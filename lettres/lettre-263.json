@@ -1,0 +1,35 @@
+{
+  "idEnfant": 263,
+  "prenom": "Sarah",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "59000",
+  "ecole": "École de Wazemmes",
+  "souhaits": [
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "priorite": 1
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "couleur": "rose",
+      "priorite": 2
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "couleur": "orange",
+      "priorite": 3
+    },
+    {
+      "produit": "livre de recettes pour enfants",
+      "categorie": "livre",
+      "niveau": "facile",
+      "priorite": 4
+    }
+  ]
+}

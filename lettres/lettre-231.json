@@ -1,0 +1,29 @@
+{
+  "idEnfant": 231,
+  "prenom": "Margot",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "37000",
+  "ecole": "École des Prébendes",
+  "souhaits": [
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique"
+    },
+    {
+      "produit": "maison de poupées",
+      "categorie": "imaginaire",
+      "nombreEtages": 3
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth"
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

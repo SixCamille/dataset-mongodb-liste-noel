@@ -1,0 +1,36 @@
+{
+  "idEnfant": 9,
+  "prenom": "Aya",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "niveau": "débutant"
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois"
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "connexion": "Bluetooth"
+    },
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

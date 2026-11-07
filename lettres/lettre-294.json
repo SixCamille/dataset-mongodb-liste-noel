@@ -1,0 +1,20 @@
+{
+  "idEnfant": 294,
+  "prenom": "Oscar",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69001",
+  "ecole": "École Michel-Servet",
+  "souhaits": [
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "nombrePieces": 120
+    },
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

@@ -1,0 +1,42 @@
+{
+  "idEnfant": 211,
+  "prenom": "Mila",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile",
+      "priorite": 1
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "priorite": 2
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 3
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ],
+      "priorite": 4
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "priorite": 5
+    }
+  ]
+}

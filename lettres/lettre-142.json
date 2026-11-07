@@ -1,0 +1,28 @@
+{
+  "idEnfant": 142,
+  "prenom": "Isaac",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "13008",
+  "ecole": "École de la Pointe-Rouge",
+  "souhaits": [
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5,
+      "couleur": "jaune",
+      "priorite": 1
+    },
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile",
+      "priorite": 2
+    },
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "priorite": 3
+    }
+  ]
+}

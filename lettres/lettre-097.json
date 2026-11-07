@@ -1,0 +1,33 @@
+{
+  "idEnfant": 97,
+  "prenom": "Clara",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "33000",
+  "ecole": "École Saint-Seurin",
+  "souhaits": [
+    {
+      "produit": "recueil de mythologie grecque",
+      "categorie": "livre",
+      "priorite": 1
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 36,
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature",
+      "priorite": 3
+    },
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3,
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "idEnfant": 153,
+  "prenom": "Agathe",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ]
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "aEteSage": true
+}

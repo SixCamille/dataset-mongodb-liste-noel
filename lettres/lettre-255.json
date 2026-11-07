@@ -1,0 +1,20 @@
+{
+  "idEnfant": 255,
+  "prenom": "Louise",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "13006",
+  "ecole": "École Notre-Dame-du-Mont",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature"
+    },
+    {
+      "produit": "harmonica",
+      "categorie": "musique"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "aEteSage": true
+}

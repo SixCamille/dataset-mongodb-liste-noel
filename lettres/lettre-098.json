@@ -1,0 +1,16 @@
+{
+  "idEnfant": 98,
+  "prenom": "Eliott",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 1
+    }
+  ]
+}

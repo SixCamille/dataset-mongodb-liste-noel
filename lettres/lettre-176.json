@@ -1,0 +1,29 @@
+{
+  "idEnfant": 176,
+  "prenom": "Paul",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69003",
+  "ecole": "École Léon-Jouhaux",
+  "souhaits": [
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

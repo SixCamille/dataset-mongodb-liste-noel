@@ -1,0 +1,16 @@
+{
+  "idEnfant": 239,
+  "prenom": "Anna",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69007",
+  "ecole": "École de la Guillotière",
+  "souhaits": [
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "priorite": 1
+    }
+  ]
+}

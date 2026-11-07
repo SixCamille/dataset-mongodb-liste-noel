@@ -1,0 +1,35 @@
+{
+  "idEnfant": 31,
+  "prenom": "Mila",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69300",
+  "ecole": "École du Bourg",
+  "souhaits": [
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif",
+      "type": "perles",
+      "couleur": "bleu",
+      "priorite": 1
+    },
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie",
+      "priorite": 2
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé",
+      "priorite": 3
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "couleur": "noir",
+      "priorite": 4
+    }
+  ]
+}

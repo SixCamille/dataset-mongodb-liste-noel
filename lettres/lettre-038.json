@@ -1,0 +1,32 @@
+{
+  "idEnfant": 38,
+  "prenom": "Noah",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69007",
+  "ecole": "École de la Guillotière",
+  "souhaits": [
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "format": "A4",
+      "priorite": 1
+    },
+    {
+      "produit": "microphone de karaoké",
+      "categorie": "musique",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "couleur": "jaune",
+      "priorite": 3
+    },
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre",
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "idEnfant": 125,
+  "prenom": "Agathe",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "35000",
+  "ecole": "École du Colombier",
+  "souhaits": [
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "priorite": 1
+    }
+  ]
+}

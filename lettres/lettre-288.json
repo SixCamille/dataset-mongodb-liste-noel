@@ -1,0 +1,35 @@
+{
+  "idEnfant": 288,
+  "prenom": "Lucas",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "44000",
+  "ecole": "École des Olivettes",
+  "souhaits": [
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences"
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "couleur": "violet"
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ]
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

@@ -1,0 +1,41 @@
+{
+  "idEnfant": 20,
+  "prenom": "Nolan",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "37000",
+  "ecole": "École du Sanitas",
+  "souhaits": [
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "priorite": 1
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 2
+    },
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "couleur": "rouge",
+      "priorite": 3
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "couleur": "jaune",
+      "priorite": 4
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "couleur": "rouge",
+      "priorite": 5
+    }
+  ]
+}

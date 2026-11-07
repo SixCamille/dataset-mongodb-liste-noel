@@ -1,0 +1,31 @@
+{
+  "idEnfant": 58,
+  "prenom": "Tiago",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69005",
+  "ecole": "École des Battières",
+  "souhaits": [
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm",
+      "couleur": "violet",
+      "priorite": 1
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "couleur": "vert",
+      "priorite": 2
+    },
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie",
+      "priorite": 3
+    }
+  ],
+  "preferenceEmballage": "papier recyclable"
+}

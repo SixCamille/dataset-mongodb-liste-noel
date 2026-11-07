@@ -1,0 +1,23 @@
+{
+  "idEnfant": 28,
+  "prenom": "Augustin",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois",
+      "couleur": "bleu",
+      "priorite": 1
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "priorite": 2
+    }
+  ]
+}

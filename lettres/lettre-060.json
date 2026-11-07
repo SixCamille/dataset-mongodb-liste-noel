@@ -1,0 +1,27 @@
+{
+  "idEnfant": 60,
+  "prenom": "Rayan",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "21000",
+  "ecole": "École des Bourroches",
+  "souhaits": [
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois"
+    },
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "grossissement": "8x",
+      "couleur": "orange"
+    },
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "taille": "soprano"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

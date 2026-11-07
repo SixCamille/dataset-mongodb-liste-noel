@@ -1,0 +1,31 @@
+{
+  "idEnfant": 81,
+  "prenom": "Maëlle",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69120",
+  "ecole": "École du Mas-du-Taureau",
+  "souhaits": [
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois"
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature"
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x"
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

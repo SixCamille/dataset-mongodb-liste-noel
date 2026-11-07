@@ -1,0 +1,17 @@
+{
+  "idEnfant": 173,
+  "prenom": "Lina",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "76000",
+  "ecole": "École des Sapins",
+  "souhaits": [
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "couleur": "bois naturel",
+      "priorite": 1
+    }
+  ]
+}

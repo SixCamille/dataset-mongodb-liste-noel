@@ -1,0 +1,36 @@
+{
+  "idEnfant": 4,
+  "prenom": "Liam",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "priorite": 1
+    },
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "capacite": "18 L",
+      "couleur": "bois naturel",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "couleur": "orange",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature",
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "idEnfant": 241,
+  "prenom": "Louise",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "63100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "couleur": "noir",
+      "priorite": 1
+    }
+  ]
+}

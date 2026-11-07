@@ -1,0 +1,38 @@
+{
+  "idEnfant": 122,
+  "prenom": "Maël",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "31000",
+  "ecole": "École des Chalets",
+  "souhaits": [
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 2
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "couleur": "orange",
+      "priorite": 3
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "idEnfant": 18,
+  "prenom": "Liam",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "nombrePieces": 120,
+      "couleur": "noir"
+    },
+    {
+      "produit": "coffret de pâte à modeler",
+      "categorie": "créatif",
+      "nombrePots": 12
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true
+    },
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "capacite": "18 L"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis."
+}

@@ -1,0 +1,40 @@
+{
+  "idEnfant": 59,
+  "prenom": "Anna",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "13006",
+  "ecole": "École de Lodi",
+  "souhaits": [
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "taille": "32 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "set de calligraphie",
+      "categorie": "créatif",
+      "niveau": "débutant",
+      "couleur": "bleu",
+      "priorite": 3
+    },
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "capacite": "18 L",
+      "priorite": 4
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "priorite": 5
+    }
+  ]
+}

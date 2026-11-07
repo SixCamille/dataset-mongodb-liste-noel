@@ -1,0 +1,21 @@
+{
+  "idEnfant": 80,
+  "prenom": "Lucas",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "76000",
+  "ecole": "École des Sapins",
+  "souhaits": [
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "priorite": 1
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "priorite": 2
+    }
+  ]
+}

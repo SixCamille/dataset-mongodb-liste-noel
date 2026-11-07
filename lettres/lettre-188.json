@@ -1,0 +1,33 @@
+{
+  "idEnfant": 188,
+  "prenom": "Tom",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "06000",
+  "ecole": "École des Orangers",
+  "souhaits": [
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 1
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "priorite": 2
+    },
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif",
+      "type": "perles",
+      "priorite": 3
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "priorite": 4
+    }
+  ]
+}

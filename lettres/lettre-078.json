@@ -1,0 +1,20 @@
+{
+  "idEnfant": 78,
+  "prenom": "Eden",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69003",
+  "ecole": "École Léon-Jouhaux",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire"
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

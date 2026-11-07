@@ -1,0 +1,16 @@
+{
+  "idEnfant": 66,
+  "prenom": "Hugo",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69150",
+  "ecole": "École des Balmes",
+  "souhaits": [
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

@@ -1,0 +1,34 @@
+{
+  "idEnfant": 56,
+  "prenom": "Maxime",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69200",
+  "ecole": "École du Moulin-à-Vent",
+  "souhaits": [
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "couleur": "bleu",
+      "priorite": 2
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "priorite": 3
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "idEnfant": 262,
+  "prenom": "Arthur",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69150",
+  "ecole": "École des Balmes",
+  "souhaits": [
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "priorite": 1
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "priorite": 2
+    }
+  ]
+}

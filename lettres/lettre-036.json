@@ -1,0 +1,41 @@
+{
+  "idEnfant": 36,
+  "prenom": "Tom",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69300",
+  "ecole": "École du Bourg",
+  "souhaits": [
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4"
+    },
+    {
+      "produit": "kit d'observation des insectes",
+      "categorie": "plein air",
+      "loupe": true
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "couleur": "vert"
+    },
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm"
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

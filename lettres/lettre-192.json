@@ -1,0 +1,26 @@
+{
+  "idEnfant": 192,
+  "prenom": "Jules",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "75011",
+  "ecole": "École du Chemin-Vert",
+  "souhaits": [
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "nombreExperiences": 8
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature"
+    },
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "tonalite": "do",
+      "couleur": "turquoise"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

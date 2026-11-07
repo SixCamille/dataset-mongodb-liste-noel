@@ -1,0 +1,15 @@
+{
+  "idEnfant": 216,
+  "prenom": "Tom",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "37000",
+  "ecole": "École des Prébendes",
+  "souhaits": [
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

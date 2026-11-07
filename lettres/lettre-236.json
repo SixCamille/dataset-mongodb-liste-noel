@@ -1,0 +1,39 @@
+{
+  "idEnfant": 236,
+  "prenom": "Maxime",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "63100",
+  "ecole": "École de Montferrand",
+  "souhaits": [
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "priorite": 1
+    },
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "nombreExperiences": 8,
+      "priorite": 2
+    },
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "collection": "botanique",
+      "priorite": 3
+    },
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm",
+      "priorite": 4
+    },
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif",
+      "couleur": "turquoise",
+      "priorite": 5
+    }
+  ]
+}

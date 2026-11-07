@@ -1,0 +1,22 @@
+{
+  "idEnfant": 169,
+  "prenom": "Julia",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69150",
+  "ecole": "École des Églantines",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "priorite": 2
+    }
+  ]
+}

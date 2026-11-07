@@ -1,0 +1,33 @@
+{
+  "idEnfant": 104,
+  "prenom": "Théo",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "75005",
+  "ecole": "École de la Montagne-Sainte-Geneviève",
+  "souhaits": [
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "forme": "delta",
+      "priorite": 2
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 3
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1,
+      "priorite": 4
+    }
+  ]
+}

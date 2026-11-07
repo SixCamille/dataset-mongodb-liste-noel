@@ -1,0 +1,45 @@
+{
+  "idEnfant": 95,
+  "prenom": "Lucie",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm",
+      "priorite": 1
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "pliable": true,
+      "priorite": 2
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ],
+      "couleur": "bois naturel",
+      "priorite": 3
+    },
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "taille": "soprano",
+      "priorite": 4
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "priorite": 5
+    }
+  ]
+}

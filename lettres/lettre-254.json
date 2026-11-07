@@ -1,0 +1,33 @@
+{
+  "idEnfant": 254,
+  "prenom": "Rayan",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69005",
+  "ecole": "École du Point-du-Jour",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de stratégie sur les animaux",
+      "categorie": "jeu de société",
+      "dureePartie": "30 min",
+      "priorite": 2
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "priorite": 3
+    },
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "idEnfant": 277,
+  "prenom": "Clara",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69120",
+  "ecole": "École Pierre-et-Marie-Curie",
+  "souhaits": [
+    {
+      "produit": "kit d'observation des insectes",
+      "categorie": "plein air",
+      "loupe": true,
+      "couleur": "rouge",
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche loutre",
+      "categorie": "peluche",
+      "priorite": 3
+    },
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre",
+      "priorite": 4
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "orange",
+      "priorite": 5
+    }
+  ]
+}

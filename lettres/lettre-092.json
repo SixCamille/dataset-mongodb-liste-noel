@@ -1,0 +1,27 @@
+{
+  "idEnfant": 92,
+  "prenom": "Eden",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "44000",
+  "ecole": "École du Jardin-des-Plantes",
+  "souhaits": [
+    {
+      "produit": "LEGO fleurs",
+      "categorie": "construction",
+      "priorite": 1
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "priorite": 2
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 3
+    }
+  ]
+}

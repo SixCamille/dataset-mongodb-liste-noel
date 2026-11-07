@@ -1,0 +1,44 @@
+{
+  "idEnfant": 145,
+  "prenom": "Emma",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "67000",
+  "ecole": "École de la Krutenau",
+  "souhaits": [
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 1
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "priorite": 2
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "priorite": 3
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12,
+      "priorite": 4
+    },
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "priorite": 5
+    }
+  ],
+  "preferenceEmballage": "papier recyclable"
+}

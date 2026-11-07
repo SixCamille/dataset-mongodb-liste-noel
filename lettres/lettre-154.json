@@ -1,0 +1,37 @@
+{
+  "idEnfant": 154,
+  "prenom": "Amir",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69200",
+  "ecole": "École du Moulin-à-Vent",
+  "souhaits": [
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "couleur": "bois naturel",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 2
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4,
+      "priorite": 3
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "couleur": "jaune",
+      "priorite": 4
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

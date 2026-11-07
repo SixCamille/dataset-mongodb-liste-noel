@@ -1,0 +1,21 @@
+{
+  "idEnfant": 205,
+  "prenom": "Noémie",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "33000",
+  "ecole": "École Saint-Seurin",
+  "souhaits": [
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile",
+      "priorite": 1
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "priorite": 2
+    }
+  ]
+}

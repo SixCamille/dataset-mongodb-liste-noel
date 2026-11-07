@@ -1,0 +1,35 @@
+{
+  "idEnfant": 111,
+  "prenom": "Clara",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois"
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true
+    },
+    {
+      "produit": "carnet de dessin à couverture rigide",
+      "categorie": "créatif",
+      "format": "A4"
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre"
+    },
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "tonalite": "do"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

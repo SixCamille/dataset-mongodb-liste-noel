@@ -1,0 +1,32 @@
+{
+  "idEnfant": 79,
+  "prenom": "Lila",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "75015",
+  "ecole": "École du Clos-Saint-Lambert",
+  "souhaits": [
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "recueil de mythologie grecque",
+      "categorie": "livre",
+      "priorite": 3
+    },
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "grossissement": "8x",
+      "priorite": 4
+    }
+  ]
+}

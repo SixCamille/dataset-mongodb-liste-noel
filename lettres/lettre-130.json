@@ -1,0 +1,22 @@
+{
+  "idEnfant": 130,
+  "prenom": "Axel",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "35000",
+  "ecole": "École des Gantelles",
+  "souhaits": [
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "couleur": "bleu",
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "priorite": 2
+    }
+  ]
+}

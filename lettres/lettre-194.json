@@ -1,0 +1,22 @@
+{
+  "idEnfant": 194,
+  "prenom": "Augustin",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois",
+      "couleur": "noir",
+      "priorite": 1
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "priorite": 2
+    }
+  ]
+}

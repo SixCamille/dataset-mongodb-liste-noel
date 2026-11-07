@@ -1,0 +1,20 @@
+{
+  "idEnfant": 21,
+  "prenom": "Adèle",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "75005",
+  "ecole": "École des Arènes",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus"
+    },
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

@@ -1,0 +1,30 @@
+{
+  "idEnfant": 17,
+  "prenom": "Mila",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "34000",
+  "ecole": "École des Arceaux",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique",
+      "priorite": 1
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "couleur": "vert",
+      "priorite": 2
+    },
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile",
+      "priorite": 3
+    }
+  ],
+  "aEteSage": true
+}

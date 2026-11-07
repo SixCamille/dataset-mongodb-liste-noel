@@ -1,0 +1,24 @@
+{
+  "idEnfant": 99,
+  "prenom": "Iris",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "75011",
+  "ecole": "École de la Roquette",
+  "souhaits": [
+    {
+      "produit": "cajón compact",
+      "categorie": "musique"
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth"
+    },
+    {
+      "produit": "set de calligraphie",
+      "categorie": "créatif"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

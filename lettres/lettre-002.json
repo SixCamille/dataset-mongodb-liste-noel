@@ -1,0 +1,40 @@
+{
+  "idEnfant": 2,
+  "prenom": "Nino",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm",
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "couleur": "bois naturel",
+      "priorite": 2
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "priorite": 3
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "matiere": "bois",
+      "priorite": 4
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "nombreNiveaux": 4,
+      "priorite": 5
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "idEnfant": 107,
+  "prenom": "Salomé",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "33000",
+  "ecole": "École Saint-Seurin",
+  "souhaits": [
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "priorite": 1
+    }
+  ]
+}

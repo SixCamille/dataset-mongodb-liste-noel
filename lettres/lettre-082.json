@@ -1,0 +1,16 @@
+{
+  "idEnfant": 82,
+  "prenom": "Arthur",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "44000",
+  "ecole": "École du Jardin-des-Plantes",
+  "souhaits": [
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 1
+    }
+  ]
+}

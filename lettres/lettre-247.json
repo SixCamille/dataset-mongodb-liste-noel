@@ -1,0 +1,34 @@
+{
+  "idEnfant": 247,
+  "prenom": "Maëlle",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69200",
+  "ecole": "École du Moulin-à-Vent",
+  "souhaits": [
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché",
+      "priorite": 3
+    },
+    {
+      "produit": "maison de poupées",
+      "categorie": "imaginaire",
+      "nombreEtages": 3,
+      "priorite": 4
+    }
+  ]
+}

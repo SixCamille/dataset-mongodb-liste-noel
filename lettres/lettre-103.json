@@ -1,0 +1,23 @@
+{
+  "idEnfant": 103,
+  "prenom": "Jade",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "priorite": 1
+    },
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3,
+      "couleur": "noir",
+      "priorite": 2
+    }
+  ]
+}

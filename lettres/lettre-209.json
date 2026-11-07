@@ -1,0 +1,41 @@
+{
+  "idEnfant": 209,
+  "prenom": "Louna",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École de l'Île-Barbe",
+  "souhaits": [
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie",
+      "priorite": 1
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 38,
+      "priorite": 2
+    },
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "couleur": "jaune",
+      "priorite": 3
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "priorite": 4
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1,
+      "priorite": 5
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

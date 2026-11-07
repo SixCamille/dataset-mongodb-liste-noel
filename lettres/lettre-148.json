@@ -1,0 +1,15 @@
+{
+  "idEnfant": 148,
+  "prenom": "Gabin",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "63100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "priorite": 1
+    }
+  ]
+}

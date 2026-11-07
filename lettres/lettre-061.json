@@ -1,0 +1,41 @@
+{
+  "idEnfant": 61,
+  "prenom": "Louise",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69150",
+  "ecole": "École des Balmes",
+  "souhaits": [
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "couleur": "turquoise",
+      "priorite": 1
+    },
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5",
+      "priorite": 2
+    },
+    {
+      "produit": "carnet de dessin à couverture rigide",
+      "categorie": "créatif",
+      "format": "A4",
+      "priorite": 3
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "priorite": 4
+    },
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 5
+    }
+  ]
+}

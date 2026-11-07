@@ -1,0 +1,38 @@
+{
+  "idEnfant": 256,
+  "prenom": "Émile",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "21000",
+  "ecole": "École du Clos-Chauveau",
+  "souhaits": [
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 1
+    },
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif",
+      "matiere": "bois",
+      "priorite": 2
+    },
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "mesures": [
+        "température",
+        "pluie",
+        "vent"
+      ],
+      "priorite": 3
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "priorite": 4
+    }
+  ]
+}

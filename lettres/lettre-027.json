@@ -1,0 +1,38 @@
+{
+  "idEnfant": 27,
+  "prenom": "Élise",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "35000",
+  "ecole": "École du Colombier",
+  "souhaits": [
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "rouge"
+    },
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm"
+    },
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "longueur": "79 cm"
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "couleur": "turquoise"
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique",
+      "resolution": "12 Mpx"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

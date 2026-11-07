@@ -1,0 +1,15 @@
+{
+  "idEnfant": 157,
+  "prenom": "Inès",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "13006",
+  "ecole": "École Notre-Dame-du-Mont",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "priorite": 1
+    }
+  ]
+}

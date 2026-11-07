@@ -1,0 +1,16 @@
+{
+  "idEnfant": 64,
+  "prenom": "Marius",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "13006",
+  "ecole": "École de Lodi",
+  "souhaits": [
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "couleur": "orange",
+      "priorite": 1
+    }
+  ]
+}

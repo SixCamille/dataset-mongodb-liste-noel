@@ -1,0 +1,16 @@
+{
+  "idEnfant": 182,
+  "prenom": "Nino",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "priorite": 1
+    }
+  ]
+}

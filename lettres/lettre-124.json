@@ -1,0 +1,28 @@
+{
+  "idEnfant": 124,
+  "prenom": "Léo",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69300",
+  "ecole": "École du Bourg",
+  "souhaits": [
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "tonalite": "do",
+      "priorite": 1
+    },
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "priorite": 2
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "priorite": 3
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "idEnfant": 63,
+  "prenom": "Nour",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69005",
+  "ecole": "École du Point-du-Jour",
+  "souhaits": [
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "couleur": "rouge"
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true
+    },
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

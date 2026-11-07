@@ -1,0 +1,39 @@
+{
+  "idEnfant": 43,
+  "prenom": "Ambre",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69007",
+  "ecole": "École Jean-Macé",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 1
+    },
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre",
+      "theme": "sciences",
+      "priorite": 2
+    },
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "nombrePieces": 120,
+      "priorite": 3
+    },
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "priorite": 4
+    },
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3,
+      "priorite": 5
+    }
+  ]
+}

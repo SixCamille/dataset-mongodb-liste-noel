@@ -1,0 +1,22 @@
+{
+  "idEnfant": 244,
+  "prenom": "Marius",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69005",
+  "ecole": "École des Battières",
+  "souhaits": [
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "couleur": "jaune",
+      "priorite": 1
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "priorite": 2
+    }
+  ]
+}

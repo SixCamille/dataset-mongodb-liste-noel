@@ -1,0 +1,23 @@
+{
+  "idEnfant": 146,
+  "prenom": "Aaron",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69005",
+  "ecole": "École des Battières",
+  "souhaits": [
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc",
+      "couleur": "bois naturel",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 2
+    }
+  ]
+}

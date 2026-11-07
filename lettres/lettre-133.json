@@ -1,0 +1,27 @@
+{
+  "idEnfant": 133,
+  "prenom": "Giulia",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "37000",
+  "ecole": "École des Prébendes",
+  "souhaits": [
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "priorite": 1
+    },
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "vélo",
+      "categorie": "sport",
+      "tailleRoues": "24 pouces",
+      "priorite": 3
+    }
+  ]
+}

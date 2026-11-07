@@ -1,0 +1,33 @@
+{
+  "idEnfant": 270,
+  "prenom": "Émile",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "75015",
+  "ecole": "École du Clos-Saint-Lambert",
+  "souhaits": [
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature"
+    },
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société"
+    },
+    {
+      "produit": "vélo",
+      "categorie": "sport",
+      "tailleRoues": "24 pouces"
+    },
+    {
+      "produit": "cerf-volant",
+      "categorie": "plein air",
+      "forme": "delta"
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."
+}

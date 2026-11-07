@@ -1,0 +1,29 @@
+{
+  "idEnfant": 6,
+  "prenom": "Nolan",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "75005",
+  "ecole": "École des Arènes",
+  "souhaits": [
+    {
+      "produit": "livre de recettes pour enfants",
+      "categorie": "livre"
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850
+    },
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

@@ -1,0 +1,21 @@
+{
+  "idEnfant": 230,
+  "prenom": "Marius",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "13008",
+  "ecole": "École du Rouet",
+  "souhaits": [
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "priorite": 1
+    },
+    {
+      "produit": "kalimba",
+      "categorie": "musique",
+      "nombreLames": 17,
+      "priorite": 2
+    }
+  ]
+}

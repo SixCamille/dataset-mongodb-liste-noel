@@ -1,0 +1,40 @@
+{
+  "idEnfant": 45,
+  "prenom": "Mila",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "63100",
+  "ecole": "École de Montferrand",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences"
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ]
+    },
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile"
+    },
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "longueur": "79 cm",
+      "couleur": "violet"
+    },
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

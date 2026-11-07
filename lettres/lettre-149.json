@@ -1,0 +1,28 @@
+{
+  "idEnfant": 149,
+  "prenom": "Apolline",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69200",
+  "ecole": "École Jules-Guesde",
+  "souhaits": [
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 1
+    },
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "niveau": "intermédiaire",
+      "priorite": 2
+    },
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5,
+      "priorite": 3
+    }
+  ]
+}

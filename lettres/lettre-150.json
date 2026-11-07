@@ -1,0 +1,16 @@
+{
+  "idEnfant": 150,
+  "prenom": "Adam",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "67000",
+  "ecole": "École des Bateliers",
+  "souhaits": [
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."
+}

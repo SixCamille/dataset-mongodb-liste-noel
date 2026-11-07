@@ -1,0 +1,36 @@
+{
+  "idEnfant": 65,
+  "prenom": "Margot",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "21000",
+  "ecole": "École du Clos-Chauveau",
+  "souhaits": [
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "usage": "extérieur",
+      "couleur": "jaune",
+      "priorite": 1
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "priorite": 2
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "couleur": "noir",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6",
+      "priorite": 4
+    }
+  ]
+}

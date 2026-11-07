@@ -1,0 +1,21 @@
+{
+  "idEnfant": 180,
+  "prenom": "Gabriel",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "44000",
+  "ecole": "École du Jardin-des-Plantes",
+  "souhaits": [
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire"
+    },
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "nombreExperiences": 8
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

@@ -1,0 +1,15 @@
+{
+  "idEnfant": 139,
+  "prenom": "Agathe",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69200",
+  "ecole": "École du Moulin-à-Vent",
+  "souhaits": [
+    {
+      "produit": "laboratoire de cristaux",
+      "categorie": "sciences",
+      "priorite": 1
+    }
+  ]
+}

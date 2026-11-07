@@ -1,0 +1,23 @@
+{
+  "idEnfant": 5,
+  "prenom": "Chloé",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "nombrePieces": 64,
+      "couleur": "bleu",
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "ageConseille": "10 ans et plus",
+      "priorite": 2
+    }
+  ]
+}

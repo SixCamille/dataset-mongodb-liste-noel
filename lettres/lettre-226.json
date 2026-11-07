@@ -1,0 +1,28 @@
+{
+  "idEnfant": 226,
+  "prenom": "Samuel",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "37000",
+  "ecole": "École des Prébendes",
+  "souhaits": [
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "niveau": "intermédiaire",
+      "priorite": 1
+    },
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm",
+      "priorite": 2
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "couleur": "orange",
+      "priorite": 3
+    }
+  ]
+}

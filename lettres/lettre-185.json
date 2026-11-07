@@ -1,0 +1,29 @@
+{
+  "idEnfant": 185,
+  "prenom": "Chloé",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "44000",
+  "ecole": "École des Olivettes",
+  "souhaits": [
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5,
+      "couleur": "turquoise",
+      "priorite": 1
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "priorite": 2
+    },
+    {
+      "produit": "microscope pour débutant",
+      "categorie": "sciences",
+      "grossissementMax": "400x",
+      "priorite": 3
+    }
+  ]
+}

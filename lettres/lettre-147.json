@@ -1,0 +1,35 @@
+{
+  "idEnfant": 147,
+  "prenom": "Giulia",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "13008",
+  "ecole": "École du Rouet",
+  "souhaits": [
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "usage": "extérieur"
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ]
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé"
+    },
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "couleur": "rouge"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

@@ -1,0 +1,35 @@
+{
+  "idEnfant": 190,
+  "prenom": "Paul",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "44000",
+  "ecole": "École du Jardin-des-Plantes",
+  "souhaits": [
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "priorite": 1
+    },
+    {
+      "produit": "jeu de stratégie sur les animaux",
+      "categorie": "jeu de société",
+      "dureePartie": "30 min",
+      "priorite": 2
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé",
+      "couleur": "violet",
+      "priorite": 3
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "matiere": "bois",
+      "priorite": 4
+    }
+  ]
+}

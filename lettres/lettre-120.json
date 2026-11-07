@@ -1,0 +1,35 @@
+{
+  "idEnfant": 120,
+  "prenom": "Sacha",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "34000",
+  "ecole": "École des Beaux-Arts",
+  "souhaits": [
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1
+    },
+    {
+      "produit": "carnet de dessin à couverture rigide",
+      "categorie": "créatif",
+      "format": "A4"
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique"
+    },
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

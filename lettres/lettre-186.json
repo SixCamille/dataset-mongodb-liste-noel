@@ -1,0 +1,36 @@
+{
+  "idEnfant": 186,
+  "prenom": "Nolan",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "pliable": true
+    },
+    {
+      "produit": "globe terrestre lumineux",
+      "categorie": "sciences",
+      "diametre": "25 cm"
+    },
+    {
+      "produit": "cajón compact",
+      "categorie": "musique"
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur",
+      "couleur": "rose"
+    },
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "matiere": "bois"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

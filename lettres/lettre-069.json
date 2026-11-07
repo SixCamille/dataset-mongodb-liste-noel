@@ -1,0 +1,20 @@
+{
+  "idEnfant": 69,
+  "prenom": "Sarah",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "75015",
+  "ecole": "École du Clos-Saint-Lambert",
+  "souhaits": [
+    {
+      "produit": "coffre de déguisements",
+      "categorie": "imaginaire",
+      "nombreTenues": 5
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille."
+}

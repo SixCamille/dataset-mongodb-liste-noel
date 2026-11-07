@@ -1,0 +1,16 @@
+{
+  "idEnfant": 232,
+  "prenom": "Hugo",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69300",
+  "ecole": "École du Vernay",
+  "souhaits": [
+    {
+      "produit": "maquette de fusée à assembler",
+      "categorie": "construction",
+      "priorite": 1
+    }
+  ],
+  "preferenceEmballage": "papier recyclable"
+}

@@ -1,0 +1,26 @@
+{
+  "idEnfant": 83,
+  "prenom": "Sarah",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 1
+    },
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "priorite": 2
+    },
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "priorite": 3
+    }
+  ]
+}

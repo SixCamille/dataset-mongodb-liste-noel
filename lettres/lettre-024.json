@@ -1,0 +1,26 @@
+{
+  "idEnfant": 24,
+  "prenom": "Noah",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "31000",
+  "ecole": "École du Capitole",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5"
+    },
+    {
+      "produit": "ukulélé",
+      "categorie": "musique",
+      "couleur": "bois naturel"
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

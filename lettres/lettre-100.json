@@ -1,0 +1,15 @@
+{
+  "idEnfant": 100,
+  "prenom": "Basile",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "priorite": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "idEnfant": 127,
+  "prenom": "Nina",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "31000",
+  "ecole": "École des Chalets",
+  "souhaits": [
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif",
+      "type": "perles",
+      "priorite": 1
+    },
+    {
+      "produit": "manga jeunesse",
+      "categorie": "livre",
+      "tome": 1,
+      "priorite": 2
+    },
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu coopératif de sauvetage",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 4
+    },
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "priorite": 5
+    }
+  ]
+}

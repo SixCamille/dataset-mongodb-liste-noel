@@ -1,0 +1,21 @@
+{
+  "idEnfant": 219,
+  "prenom": "Noémie",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique"
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

@@ -1,0 +1,27 @@
+{
+  "idEnfant": 299,
+  "prenom": "Alix",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "80000",
+  "ecole": "École Saint-Leu",
+  "souhaits": [
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 1
+    },
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "priorite": 2
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "matiere": "bois",
+      "priorite": 3
+    }
+  ]
+}

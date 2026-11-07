@@ -1,0 +1,27 @@
+{
+  "idEnfant": 210,
+  "prenom": "Robin",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "taille": "8 ans",
+      "couleur": "jaune"
+    },
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature"
+    },
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "usage": "extérieur",
+      "couleur": "rose"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

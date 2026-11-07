@@ -1,0 +1,20 @@
+{
+  "idEnfant": 303,
+  "prenom": "Manon",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "couleur": "jaune"
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

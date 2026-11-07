@@ -1,0 +1,33 @@
+{
+  "idEnfant": 40,
+  "prenom": "Louis",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "63100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "niveau": "débutant",
+      "priorite": 1
+    },
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "priorite": 3
+    },
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "format": "album",
+      "priorite": 4
+    }
+  ]
+}

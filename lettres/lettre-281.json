@@ -1,0 +1,33 @@
+{
+  "idEnfant": 281,
+  "prenom": "Rose",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "76000",
+  "ecole": "École des Sapins",
+  "souhaits": [
+    {
+      "produit": "coffret d'expériences de chimie",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "trottinette",
+      "categorie": "sport",
+      "priorite": 2
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "priorite": 3
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "couleur": "noir",
+      "priorite": 4
+    }
+  ]
+}

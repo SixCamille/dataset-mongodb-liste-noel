@@ -1,0 +1,40 @@
+{
+  "idEnfant": 284,
+  "prenom": "Théo",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "couleur": "violet",
+      "priorite": 1
+    },
+    {
+      "produit": "kit de fouilles de fossiles",
+      "categorie": "sciences",
+      "theme": "paléontologie",
+      "priorite": 2
+    },
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique",
+      "connexion": "Bluetooth",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de cartes rapide",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "3 à 6",
+      "priorite": 4
+    },
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "couleur": "vert",
+      "priorite": 5
+    }
+  ]
+}

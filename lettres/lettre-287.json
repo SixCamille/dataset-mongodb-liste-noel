@@ -1,0 +1,23 @@
+{
+  "idEnfant": 287,
+  "prenom": "Salomé",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69120",
+  "ecole": "École du Mas-du-Taureau",
+  "souhaits": [
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé",
+      "couleur": "rouge",
+      "priorite": 1
+    },
+    {
+      "produit": "roman d'aventures dans l'espace",
+      "categorie": "livre",
+      "format": "broché",
+      "priorite": 2
+    }
+  ]
+}

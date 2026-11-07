@@ -1,0 +1,16 @@
+{
+  "idEnfant": 291,
+  "prenom": "Clara",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

@@ -1,0 +1,32 @@
+{
+  "idEnfant": 165,
+  "prenom": "Camille",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "59000",
+  "ecole": "École du Vieux-Lille",
+  "souhaits": [
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "niveau": "débutant"
+    },
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre",
+      "theme": "sciences"
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "violet"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

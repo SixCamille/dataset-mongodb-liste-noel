@@ -1,0 +1,38 @@
+{
+  "idEnfant": 179,
+  "prenom": "Élise",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69120",
+  "ecole": "École du Mas-du-Taureau",
+  "souhaits": [
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "priorite": 1
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "couleur": "turquoise",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche pieuvre réversible",
+      "categorie": "peluche",
+      "couleur": "rouge",
+      "priorite": 3
+    },
+    {
+      "produit": "atlas illustré des animaux",
+      "categorie": "livre",
+      "theme": "faune mondiale",
+      "priorite": 4
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "idEnfant": 164,
+  "prenom": "Adam",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69150",
+  "ecole": "École des Balmes",
+  "souhaits": [
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "couleur": "vert",
+      "priorite": 1
+    }
+  ]
+}

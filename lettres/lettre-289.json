@@ -1,0 +1,17 @@
+{
+  "idEnfant": 289,
+  "prenom": "Lucie",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69001",
+  "ecole": "École Michel-Servet",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "couleur": "bleu",
+      "priorite": 1
+    }
+  ],
+  "aEteSage": true
+}

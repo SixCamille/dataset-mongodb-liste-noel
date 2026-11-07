@@ -1,0 +1,17 @@
+{
+  "idEnfant": 248,
+  "prenom": "Arthur",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "67000",
+  "ecole": "École de la Krutenau",
+  "souhaits": [
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "capacite": "18 L",
+      "couleur": "rose",
+      "priorite": 1
+    }
+  ]
+}

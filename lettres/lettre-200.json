@@ -1,0 +1,15 @@
+{
+  "idEnfant": 200,
+  "prenom": "Nolan",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "priorite": 1
+    }
+  ]
+}

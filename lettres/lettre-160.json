@@ -1,0 +1,28 @@
+{
+  "idEnfant": 160,
+  "prenom": "Nathan",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "59000",
+  "ecole": "École de Wazemmes",
+  "souhaits": [
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "couleur": "bois naturel",
+      "priorite": 1
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "couleur": "turquoise",
+      "priorite": 2
+    },
+    {
+      "produit": "skateboard",
+      "categorie": "sport",
+      "longueur": "79 cm",
+      "priorite": 3
+    }
+  ]
+}

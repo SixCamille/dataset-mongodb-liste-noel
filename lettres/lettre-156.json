@@ -1,0 +1,35 @@
+{
+  "idEnfant": 156,
+  "prenom": "Isaac",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69005",
+  "ecole": "École du Point-du-Jour",
+  "souhaits": [
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre"
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "couleur": "vert"
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm"
+    },
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

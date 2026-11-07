@@ -1,0 +1,30 @@
+{
+  "idEnfant": 54,
+  "prenom": "Louis",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "13006",
+  "ecole": "École Notre-Dame-du-Mont",
+  "souhaits": [
+    {
+      "produit": "boîte de Kapla",
+      "categorie": "construction",
+      "matiere": "bois"
+    },
+    {
+      "produit": "appareil photo instantané pour enfant",
+      "categorie": "numérique"
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12
+    },
+    {
+      "produit": "recueil de mythologie grecque",
+      "categorie": "livre",
+      "illustrations": true
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

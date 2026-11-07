@@ -1,0 +1,28 @@
+{
+  "idEnfant": 76,
+  "prenom": "Émile",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69120",
+  "ecole": "École du Mas-du-Taureau",
+  "souhaits": [
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6,
+      "couleur": "bois naturel",
+      "priorite": 1
+    },
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "priorite": 2
+    },
+    {
+      "produit": "livre-jeu d'énigmes",
+      "categorie": "livre",
+      "niveau": "8-10 ans",
+      "priorite": 3
+    }
+  ]
+}

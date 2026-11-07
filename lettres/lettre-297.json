@@ -1,0 +1,31 @@
+{
+  "idEnfant": 297,
+  "prenom": "Jade",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "maison de poupées",
+      "categorie": "imaginaire",
+      "couleur": "vert"
+    },
+    {
+      "produit": "jeu de stratégie sur les animaux",
+      "categorie": "jeu de société",
+      "dureePartie": "30 min"
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction"
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "taille": 4,
+      "couleur": "violet"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}

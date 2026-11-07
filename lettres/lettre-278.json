@@ -1,0 +1,20 @@
+{
+  "idEnfant": 278,
+  "prenom": "Eliott",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "44000",
+  "ecole": "École des Olivettes",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "priorite": 1
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "priorite": 2
+    }
+  ]
+}

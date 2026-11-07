@@ -1,0 +1,20 @@
+{
+  "idEnfant": 162,
+  "prenom": "Gabin",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "13006",
+  "ecole": "École Notre-Dame-du-Mont",
+  "souhaits": [
+    {
+      "produit": "déguisement d'astronaute",
+      "categorie": "imaginaire",
+      "taille": "10 ans"
+    },
+    {
+      "produit": "set de calligraphie",
+      "categorie": "créatif"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."
+}

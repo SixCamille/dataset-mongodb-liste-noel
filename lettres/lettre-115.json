@@ -1,0 +1,35 @@
+{
+  "idEnfant": 115,
+  "prenom": "Léa",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "34000",
+  "ecole": "École des Arceaux",
+  "souhaits": [
+    {
+      "produit": "kit pour fabriquer des bracelets",
+      "categorie": "créatif",
+      "type": "perles",
+      "priorite": 1
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "couleur": "bleu",
+      "priorite": 2
+    },
+    {
+      "produit": "briques de construction pour créer une cabane",
+      "categorie": "construction",
+      "nombrePieces": 850,
+      "priorite": 3
+    },
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5",
+      "priorite": 4
+    }
+  ]
+}

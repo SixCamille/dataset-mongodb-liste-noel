@@ -1,0 +1,41 @@
+{
+  "idEnfant": 118,
+  "prenom": "Théo",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "37000",
+  "ecole": "École des Prébendes",
+  "souhaits": [
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "mode": "solo",
+      "priorite": 1
+    },
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc",
+      "couleur": "noir",
+      "priorite": 2
+    },
+    {
+      "produit": "ballon de football",
+      "categorie": "sport",
+      "priorite": 3
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "couleur": "vert",
+      "priorite": 4
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "couleur": "rose",
+      "priorite": 5
+    }
+  ]
+}

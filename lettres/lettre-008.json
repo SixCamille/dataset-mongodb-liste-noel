@@ -1,0 +1,31 @@
+{
+  "idEnfant": 8,
+  "prenom": "Tom",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69100",
+  "ecole": "École Anatole-France",
+  "souhaits": [
+    {
+      "produit": "kit de jardinage pour balcon",
+      "categorie": "nature",
+      "graines": [
+        "basilic",
+        "tomate",
+        "capucine"
+      ],
+      "priorite": 1
+    },
+    {
+      "produit": "harmonica",
+      "categorie": "musique",
+      "priorite": 2
+    },
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "priorite": 3
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "idEnfant": 257,
+  "prenom": "Éva",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69150",
+  "ecole": "École des Églantines",
+  "souhaits": [
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6,
+      "priorite": 1
+    }
+  ]
+}

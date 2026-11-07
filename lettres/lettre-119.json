@@ -1,0 +1,24 @@
+{
+  "idEnfant": 119,
+  "prenom": "Alix",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "75005",
+  "ecole": "École de la Montagne-Sainte-Geneviève",
+  "souhaits": [
+    {
+      "produit": "jumelles compactes",
+      "categorie": "plein air",
+      "grossissement": "8x",
+      "priorite": 1
+    },
+    {
+      "produit": "vélo",
+      "categorie": "sport",
+      "tailleRoues": "20 pouces",
+      "couleur": "orange",
+      "priorite": 2
+    }
+  ],
+  "aEteSage": true
+}

@@ -1,0 +1,16 @@
+{
+  "idEnfant": 191,
+  "prenom": "Yasmine",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69001",
+  "ecole": "École des Terreaux",
+  "souhaits": [
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "diametre": "70 mm",
+      "priorite": 1
+    }
+  ]
+}

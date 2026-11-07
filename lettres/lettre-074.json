@@ -1,0 +1,28 @@
+{
+  "idEnfant": 74,
+  "prenom": "Rayan",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 1
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "priorite": 2
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 36,
+      "priorite": 3
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "idEnfant": 196,
+  "prenom": "Robin",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69001",
+  "ecole": "École Michel-Servet",
+  "souhaits": [
+    {
+      "produit": "kit d'observation des insectes",
+      "categorie": "plein air",
+      "loupe": true,
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "priorite": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "idEnfant": 155,
+  "prenom": "Zoé",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "67000",
+  "ecole": "École des Bateliers",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "priorite": 1
+    },
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "couleur": "orange",
+      "priorite": 2
+    }
+  ]
+}

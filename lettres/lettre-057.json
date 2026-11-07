@@ -1,0 +1,16 @@
+{
+  "idEnfant": 57,
+  "prenom": "Ambre",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "67000",
+  "ecole": "École des Bateliers",
+  "souhaits": [
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}

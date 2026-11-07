@@ -1,0 +1,27 @@
+{
+  "idEnfant": 167,
+  "prenom": "Maya",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "75015",
+  "ecole": "École du Clos-Saint-Lambert",
+  "souhaits": [
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences",
+      "priorite": 1
+    },
+    {
+      "produit": "peluche renard",
+      "categorie": "peluche",
+      "taille": "35 cm",
+      "priorite": 2
+    },
+    {
+      "produit": "métier à tisser pour débutant",
+      "categorie": "créatif",
+      "matiere": "bois",
+      "priorite": 3
+    }
+  ]
+}

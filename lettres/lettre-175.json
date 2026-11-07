@@ -1,0 +1,16 @@
+{
+  "idEnfant": 175,
+  "prenom": "Aya",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "59000",
+  "ecole": "École du Vieux-Lille",
+  "souhaits": [
+    {
+      "produit": "château miniature",
+      "categorie": "imaginaire",
+      "couleur": "bois naturel",
+      "priorite": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "idEnfant": 271,
+  "prenom": "Éva",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "76000",
+  "ecole": "École des Sapins",
+  "souhaits": [
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "couleur": "vert",
+      "priorite": 1
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "priorite": 2
+    }
+  ]
+}

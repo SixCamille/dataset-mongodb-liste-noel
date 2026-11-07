@@ -1,0 +1,38 @@
+{
+  "idEnfant": 134,
+  "prenom": "Gabin",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69300",
+  "ecole": "École du Vernay",
+  "souhaits": [
+    {
+      "produit": "réveil avec simulateur d'aube",
+      "categorie": "numérique",
+      "alarmeProgressive": true,
+      "priorite": 1
+    },
+    {
+      "produit": "garage avec petites voitures",
+      "categorie": "imaginaire",
+      "priorite": 2
+    },
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "usage": "extérieur",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de construction magnétique",
+      "categorie": "construction",
+      "priorite": 4
+    },
+    {
+      "produit": "jeu de mémoire illustré",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 4",
+      "priorite": 5
+    }
+  ]
+}

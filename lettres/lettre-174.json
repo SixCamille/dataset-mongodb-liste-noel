@@ -1,0 +1,31 @@
+{
+  "idEnfant": 174,
+  "prenom": "Nathan",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69120",
+  "ecole": "École Pierre-et-Marie-Curie",
+  "souhaits": [
+    {
+      "produit": "encyclopédie des volcans",
+      "categorie": "livre",
+      "theme": "sciences"
+    },
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ]
+    },
+    {
+      "produit": "rollers",
+      "categorie": "sport",
+      "pointure": 34
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "preferenceEmballage": "papier recyclable"
+}

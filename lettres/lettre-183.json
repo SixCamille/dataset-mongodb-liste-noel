@@ -1,0 +1,26 @@
+{
+  "idEnfant": 183,
+  "prenom": "Julia",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "76000",
+  "ecole": "École des Sapins",
+  "souhaits": [
+    {
+      "produit": "jeu de parcours écologique",
+      "categorie": "jeu de société",
+      "theme": "nature"
+    },
+    {
+      "produit": "livre de recettes pour enfants",
+      "categorie": "livre",
+      "niveau": "facile"
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "couleur": "rouge"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes."
+}

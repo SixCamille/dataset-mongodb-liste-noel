@@ -1,0 +1,21 @@
+{
+  "idEnfant": 214,
+  "prenom": "Victor",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École de l'Île-Barbe",
+  "souhaits": [
+    {
+      "produit": "montre numérique éducative",
+      "categorie": "numérique",
+      "fonctions": [
+        "heure",
+        "chronomètre",
+        "alarme"
+      ],
+      "couleur": "rouge",
+      "priorite": 1
+    }
+  ]
+}

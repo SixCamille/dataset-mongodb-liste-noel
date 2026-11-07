@@ -1,0 +1,17 @@
+{
+  "idEnfant": 198,
+  "prenom": "Liam",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "06000",
+  "ecole": "École des Orangers",
+  "souhaits": [
+    {
+      "produit": "peluche panda roux",
+      "categorie": "peluche",
+      "taille": "40 cm",
+      "couleur": "rose"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

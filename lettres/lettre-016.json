@@ -1,0 +1,17 @@
+{
+  "idEnfant": 16,
+  "prenom": "Robin",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "75005",
+  "ecole": "École des Arènes",
+  "souhaits": [
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique",
+      "couleur": "rouge",
+      "priorite": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "idEnfant": 298,
+  "prenom": "Théo",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "33000",
+  "ecole": "École des Chartrons",
+  "souhaits": [
+    {
+      "produit": "mallette d'aquarelle",
+      "categorie": "créatif",
+      "nombreCouleurs": 24,
+      "priorite": 1
+    }
+  ]
+}

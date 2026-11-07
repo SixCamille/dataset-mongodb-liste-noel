@@ -1,0 +1,31 @@
+{
+  "idEnfant": 90,
+  "prenom": "Émile",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "06000",
+  "ecole": "École du Parc-Impérial",
+  "souhaits": [
+    {
+      "produit": "enceinte portable",
+      "categorie": "numérique"
+    },
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12
+    },
+    {
+      "produit": "hôtel à insectes à assembler",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "bleu"
+    },
+    {
+      "produit": "coffret de pâte à modeler",
+      "categorie": "créatif",
+      "couleur": "noir"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

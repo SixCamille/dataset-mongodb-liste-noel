@@ -1,0 +1,42 @@
+{
+  "idEnfant": 227,
+  "prenom": "Alice",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69300",
+  "ecole": "École du Vernay",
+  "souhaits": [
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5",
+      "priorite": 1
+    },
+    {
+      "produit": "casque audio pour enfant",
+      "categorie": "musique",
+      "limiteurVolume": true,
+      "couleur": "jaune",
+      "priorite": 2
+    },
+    {
+      "produit": "raquette de badminton",
+      "categorie": "sport",
+      "niveau": "débutant",
+      "couleur": "vert",
+      "priorite": 3
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société",
+      "priorite": 4
+    },
+    {
+      "produit": "kit d'observation des insectes",
+      "categorie": "plein air",
+      "loupe": true,
+      "couleur": "bleu",
+      "priorite": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "idEnfant": 13,
+  "prenom": "Élise",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "terrarium végétal",
+      "categorie": "nature",
+      "type": "fermé",
+      "couleur": "orange",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "priorite": 2
+    },
+    {
+      "produit": "kit de poterie autodurcissante",
+      "categorie": "créatif",
+      "matiere": "argile",
+      "priorite": 3
+    },
+    {
+      "produit": "robot solaire à monter",
+      "categorie": "construction",
+      "alimentation": "solaire",
+      "couleur": "orange",
+      "priorite": 4
+    }
+  ]
+}

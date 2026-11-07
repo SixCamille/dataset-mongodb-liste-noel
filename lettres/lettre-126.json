@@ -1,0 +1,25 @@
+{
+  "idEnfant": 126,
+  "prenom": "Eliott",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École des Marronniers",
+  "souhaits": [
+    {
+      "produit": "télescope d'initiation",
+      "categorie": "sciences"
+    },
+    {
+      "produit": "presse à fleurs",
+      "categorie": "nature",
+      "format": "A5"
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "couleur": "noir"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets."
+}

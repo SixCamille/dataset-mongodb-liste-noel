@@ -1,0 +1,26 @@
+{
+  "idEnfant": 285,
+  "prenom": "Alix",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "75011",
+  "ecole": "École du Chemin-Vert",
+  "souhaits": [
+    {
+      "produit": "figurines de dinosaures",
+      "categorie": "imaginaire",
+      "nombreFigurines": 12
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "nombrePots": 6
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "couleur": "noir"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."
+}

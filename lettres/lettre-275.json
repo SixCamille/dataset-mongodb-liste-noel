@@ -1,0 +1,17 @@
+{
+  "idEnfant": 275,
+  "prenom": "Lucie",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "75015",
+  "ecole": "École des Volontaires",
+  "souhaits": [
+    {
+      "produit": "tablette lumineuse de dessin",
+      "categorie": "numérique",
+      "format": "A4",
+      "priorite": 1
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes."
+}

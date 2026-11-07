@@ -1,0 +1,16 @@
+{
+  "idEnfant": 48,
+  "prenom": "Victor",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69005",
+  "ecole": "École du Point-du-Jour",
+  "souhaits": [
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."
+}

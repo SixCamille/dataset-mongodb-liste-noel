@@ -1,0 +1,25 @@
+{
+  "idEnfant": 276,
+  "prenom": "Raphaël",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "76000",
+  "ecole": "École du Vieux-Marché",
+  "souhaits": [
+    {
+      "produit": "vélo",
+      "categorie": "sport",
+      "tailleRoues": "20 pouces"
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche"
+    },
+    {
+      "produit": "hamac pour enfant",
+      "categorie": "plein air",
+      "usage": "extérieur"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir."
+}

@@ -1,0 +1,28 @@
+{
+  "idEnfant": 283,
+  "prenom": "Jade",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "44000",
+  "ecole": "École des Olivettes",
+  "souhaits": [
+    {
+      "produit": "sac à dos de randonnée",
+      "categorie": "plein air",
+      "priorite": 1
+    },
+    {
+      "produit": "jeu d'enquête familial",
+      "categorie": "jeu de société",
+      "nombreJoueurs": "2 à 5",
+      "priorite": 2
+    },
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "couleur": "rose",
+      "priorite": 3
+    }
+  ]
+}

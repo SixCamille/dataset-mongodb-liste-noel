@@ -1,0 +1,32 @@
+{
+  "idEnfant": 158,
+  "prenom": "Mathis",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "21000",
+  "ecole": "École du Clos-Chauveau",
+  "souhaits": [
+    {
+      "produit": "peluche dragon",
+      "categorie": "peluche",
+      "taille": "45 cm",
+      "priorite": 1
+    },
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "mesures": [
+        "température",
+        "pluie",
+        "vent"
+      ],
+      "priorite": 2
+    },
+    {
+      "produit": "panier de basket réglable",
+      "categorie": "sport",
+      "couleur": "orange",
+      "priorite": 3
+    }
+  ]
+}

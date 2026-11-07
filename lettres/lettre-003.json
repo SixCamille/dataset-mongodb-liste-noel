@@ -1,0 +1,21 @@
+{
+  "idEnfant": 3,
+  "prenom": "Julia",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "marionnettes d'animaux",
+      "categorie": "imaginaire",
+      "nombreMarionnettes": 6
+    },
+    {
+      "produit": "boussole d'exploration",
+      "categorie": "plein air",
+      "boitier": "antichoc"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école."
+}

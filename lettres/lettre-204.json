@@ -1,0 +1,33 @@
+{
+  "idEnfant": 204,
+  "prenom": "Noah",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69100",
+  "ecole": "École Émile-Zola",
+  "souhaits": [
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "couleur": "turquoise"
+    },
+    {
+      "produit": "jeu de logique en bois",
+      "categorie": "jeu de société"
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "couleur": "bleu"
+    },
+    {
+      "produit": "bande dessinée humoristique",
+      "categorie": "livre",
+      "format": "album"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "aEteSage": true
+}

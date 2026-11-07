@@ -1,0 +1,17 @@
+{
+  "idEnfant": 300,
+  "prenom": "Sacha",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "75005",
+  "ecole": "École des Arènes",
+  "souhaits": [
+    {
+      "produit": "cabane de jardin en toile",
+      "categorie": "plein air",
+      "nombrePlaces": 3,
+      "couleur": "rouge"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains."
+}

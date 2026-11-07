@@ -1,0 +1,23 @@
+{
+  "idEnfant": 87,
+  "prenom": "Rose",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "44000",
+  "ecole": "École du Jardin-des-Plantes",
+  "souhaits": [
+    {
+      "produit": "circuit de billes modulable",
+      "categorie": "construction",
+      "nombrePieces": 120
+    },
+    {
+      "produit": "corde à sauter avec compteur",
+      "categorie": "sport",
+      "compteur": "numérique",
+      "couleur": "bleu"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "preferenceEmballage": "papier recyclable"
+}

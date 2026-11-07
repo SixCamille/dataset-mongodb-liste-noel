@@ -1,0 +1,33 @@
+{
+  "idEnfant": 26,
+  "prenom": "Louis",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69300",
+  "ecole": "École du Bourg",
+  "souhaits": [
+    {
+      "produit": "lampe de lecture rechargeable",
+      "categorie": "numérique",
+      "connexion": "USB-C",
+      "priorite": 1
+    },
+    {
+      "produit": "petit clavier électronique",
+      "categorie": "musique",
+      "nombreTouches": 49,
+      "couleur": "bleu",
+      "priorite": 2
+    },
+    {
+      "produit": "station météo à construire",
+      "categorie": "sciences",
+      "mesures": [
+        "température",
+        "pluie",
+        "vent"
+      ],
+      "priorite": 3
+    }
+  ]
+}

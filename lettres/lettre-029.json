@@ -1,0 +1,37 @@
+{
+  "idEnfant": 29,
+  "prenom": "Louna",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "31000",
+  "ecole": "École des Chalets",
+  "souhaits": [
+    {
+      "produit": "cajón compact",
+      "categorie": "musique",
+      "couleur": "rose",
+      "priorite": 1
+    },
+    {
+      "produit": "coffret d'origami",
+      "categorie": "créatif",
+      "nombreFeuilles": 100,
+      "couleur": "vert",
+      "priorite": 2
+    },
+    {
+      "produit": "peluche axolotl",
+      "categorie": "peluche",
+      "taille": "30 cm",
+      "priorite": 3
+    },
+    {
+      "produit": "nichoir à oiseaux à peindre",
+      "categorie": "nature",
+      "matiere": "bois",
+      "couleur": "turquoise",
+      "priorite": 4
+    }
+  ],
+  "preferenceEmballage": "papier recyclable"
+}

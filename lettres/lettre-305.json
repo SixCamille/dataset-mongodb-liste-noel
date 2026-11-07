@@ -1,0 +1,22 @@
+{
+  "idEnfant": 305,
+  "prenom": "Agathe",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "75005",
+  "ecole": "École des Arènes",
+  "souhaits": [
+    {
+      "produit": "maison de poupées",
+      "categorie": "imaginaire",
+      "nombreEtages": 3,
+      "priorite": 1
+    },
+    {
+      "produit": "mini-serre d'observation",
+      "categorie": "nature",
+      "couleur": "rose",
+      "priorite": 2
+    }
+  ]
+}
