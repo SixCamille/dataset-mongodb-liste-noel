@@ -7,8 +7,11 @@
   "ecole": "École du Vieux-Lille",
   "souhaits": [
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre"
+      "produit": "Coffret de 4 véhicules lance-disques - Spidey and His Amazing Friends Jazwares",
+      "categorie": "véhicule",
+      "marque": "Jazwares",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

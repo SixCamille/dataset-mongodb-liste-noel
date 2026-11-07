@@ -7,25 +7,32 @@
   "ecole": "École du Jardin-des-Plantes",
   "souhaits": [
     {
-      "produit": "globe terrestre lumineux",
-      "categorie": "sciences",
-      "diametre": "25 cm"
-    },
-    {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
-      "grossissement": "8x",
-      "couleur": "turquoise"
-    },
-    {
-      "produit": "circuit de billes modulable",
+      "produit": "LEGO® Creator 31376 L’adorable hamster et la fleur",
       "categorie": "construction",
-      "nombrePieces": 120
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 7
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1
+      "produit": "Tracteur New Holland T5.120 1/16 Bruder",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mon Bébé Cabrioles - Lina la Fraise Lansay",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Funko Pop Animation K-Pop Demon Hunters Mira",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 22.9,
+      "devise": "EUR",
+      "ageRecommande": 6
     }
   ],
   "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."

@@ -7,31 +7,34 @@
   "ecole": "École du Mas-du-Taureau",
   "souhaits": [
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "graines": [
-        "basilic",
-        "tomate",
-        "capucine"
-      ],
+      "produit": "Puissance 4 Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
       "priorite": 1
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "couleur": "turquoise",
+      "produit": "Jeu d’ambiance Asmodee Dnup",
+      "categorie": "jeu de société",
+      "prix": 11.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 2
     },
     {
-      "produit": "peluche pieuvre réversible",
+      "produit": "Ma peluche parlante à intelligence artificielle Elo Yeno Lexibook",
       "categorie": "peluche",
-      "couleur": "rouge",
+      "marque": "Lexibook",
+      "prix": 99.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
-      "theme": "faune mondiale",
+      "produit": "LEGO® Speed Champions 77254 Voiture de course Ferrari SF90 XX Stradale",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 27.99,
+      "devise": "EUR",
+      "ageRecommande": 9,
       "priorite": 4
     }
   ]

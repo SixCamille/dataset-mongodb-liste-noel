@@ -7,14 +7,19 @@
   "ecole": "École des Orangers",
   "souhaits": [
     {
-      "produit": "coffret de pâte à modeler",
-      "categorie": "créatif",
-      "nombrePots": 12
+      "produit": "Maxi tapis Aquadoodle arc en ciel fluo Tomy",
+      "categorie": "imaginaire",
+      "marque": "Tomy",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "LEGO fleurs",
-      "categorie": "construction",
-      "couleur": "rose"
+      "produit": "Figurine Tonies Aventure Hot Wheels pour Toniebox",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5
     }
   ],
   "commentaire": "Mon activité préférée est de créer avec mes mains."

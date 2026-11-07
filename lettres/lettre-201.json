@@ -7,18 +7,23 @@
   "ecole": "École du Faubourg-de-Hem",
   "souhaits": [
     {
-      "produit": "trottinette",
-      "categorie": "sport"
+      "produit": "Super Mario Adventure Game Dx Epoch Games",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
-      "format": "album"
+      "produit": "Jeu d'escape game Asmodee Unlock! Short 11 Le Chant des embruns",
+      "categorie": "jeu de société",
+      "prix": 6.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus"
+      "produit": "Calendrier de l’Avent - La Pat' Patrouille Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 24.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'adore observer la nature et fabriquer des objets."

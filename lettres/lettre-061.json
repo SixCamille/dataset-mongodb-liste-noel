@@ -7,34 +7,36 @@
   "ecole": "École des Balmes",
   "souhaits": [
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
-      "couleur": "turquoise",
+      "produit": "Moto électrique orange 7V SUN and SPORT",
+      "categorie": "véhicule",
+      "marque": "SUN and SPORT",
+      "prix": 129.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5",
+      "produit": "TECH A BOT - robot programmable Ycoo",
+      "categorie": "électronique",
       "priorite": 2
     },
     {
-      "produit": "carnet de dessin à couverture rigide",
-      "categorie": "créatif",
-      "format": "A4",
+      "produit": "Coffret Licorne Et Poupee Glacier Et Layla - L'école Des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "prix": 54.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
-      "limiteurVolume": true,
+      "produit": "Baril 100 blocs de construction WOOD N PLAY",
+      "categorie": "construction",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "jeu de mémoire illustré",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "produit": "Panneau de basket électronique mural avec ballon SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
       "priorite": 5
     }
   ]

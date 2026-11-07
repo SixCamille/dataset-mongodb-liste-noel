@@ -7,23 +7,23 @@
   "ecole": "École Pierre-et-Marie-Curie",
   "souhaits": [
     {
-      "produit": "encyclopédie des volcans",
-      "categorie": "livre",
-      "theme": "sciences"
+      "produit": "Le Crunchinator - Crunch Labs Moose Toys",
+      "categorie": "imaginaire",
+      "marque": "Moose Toys",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ]
+      "produit": "Tire sur mon doigt - Jeu d'action Jakks Pacific",
+      "categorie": "jeu de société",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "rollers",
-      "categorie": "sport",
-      "pointure": 34
+      "produit": "Bataille navale électronique Zig Zag jeux action",
+      "categorie": "électronique",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",

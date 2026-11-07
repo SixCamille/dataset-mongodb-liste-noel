@@ -7,27 +7,33 @@
   "ecole": "École du Moulin-à-Vent",
   "souhaits": [
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur",
+      "produit": "Ordinateur - Tablette P'tit Genius Touch rose VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
       "priorite": 1
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
+      "produit": "Drone radiocommandé Air Vision HD Silverlit",
+      "categorie": "véhicule",
+      "marque": "Silverlit",
+      "prix": 69.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "roman d'aventures dans l'espace",
-      "categorie": "livre",
-      "format": "broché",
+      "produit": "Monster High Moonspell Magic - Poupée Claire de Luna Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 31.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "maison de poupées",
-      "categorie": "imaginaire",
-      "nombreEtages": 3,
+      "produit": "Figurine Woody Course Effrénée Toy Story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

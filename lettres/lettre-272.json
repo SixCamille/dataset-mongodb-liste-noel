@@ -7,26 +7,31 @@
   "ecole": "École Pierre-et-Marie-Curie",
   "souhaits": [
     {
-      "produit": "maison de poupées",
-      "categorie": "imaginaire",
-      "nombreEtages": 3,
+      "produit": "Maxi grue filoguidée Superstar",
+      "categorie": "véhicule",
+      "marque": "Superstar",
       "priorite": 1
     },
     {
-      "produit": "peluche pieuvre réversible",
-      "categorie": "peluche",
+      "produit": "Puzzle 3D K-Pop Demon Hunters Basket Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "coffret d'origami",
+      "produit": "Mallette à dessin professionnelle Buki",
       "categorie": "créatif",
-      "nombreFeuilles": 100,
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "connexion": "USB-C",
+      "produit": "Barbecue Party Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
       "priorite": 4
     }
   ],

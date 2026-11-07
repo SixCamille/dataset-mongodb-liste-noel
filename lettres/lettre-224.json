@@ -7,22 +7,26 @@
   "ecole": "École de l'Île-Barbe",
   "souhaits": [
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
-      "couleur": "rose",
+      "produit": "LEGO® Ninjago® 71864 Véhicules combinables de Kai et Cole",
+      "categorie": "construction",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
       "priorite": 1
     },
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "couleur": "rose",
+      "produit": "Figurine Tonies Pokémon Bulbizarre",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "ageRecommande": 5,
       "priorite": 2
     },
     {
-      "produit": "mallette d'aquarelle",
-      "categorie": "créatif",
-      "nombreCouleurs": 24,
+      "produit": "Pack tir électronique XShot – Cibles interactives et 2 blasters Fury 4 Zuru",
+      "categorie": "électronique",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

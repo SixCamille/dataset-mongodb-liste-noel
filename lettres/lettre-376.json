@@ -7,22 +7,25 @@
   "ecole": "École des Olivettes",
   "souhaits": [
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "taille": "30 cm",
+      "produit": "Figurine Funko Pop Animation One Piece Bon Clay with Chase Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     },
     {
-      "produit": "set de calligraphie",
-      "categorie": "créatif",
-      "niveau": "débutant",
-      "couleur": "rose",
+      "produit": "Détecteur de métaux expert Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
-      "nombreExperiences": 8,
+      "produit": "Avion militaire sons et lumières - 2 véhicules et figurine soldat Invincible Heroes",
+      "categorie": "véhicule",
       "priorite": 3
     }
   ]

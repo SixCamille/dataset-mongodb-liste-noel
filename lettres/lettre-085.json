@@ -7,21 +7,27 @@
   "ecole": "École du Vieux-Marché",
   "souhaits": [
     {
-      "produit": "skateboard",
-      "categorie": "sport",
-      "longueur": "79 cm",
+      "produit": "Kidi Guitare superstar VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "kit pour fabriquer des bracelets",
-      "categorie": "créatif",
-      "type": "perles",
-      "couleur": "bois naturel",
+      "produit": "Enceinte Bluetooth avec micro - Disco Light Music Star",
+      "categorie": "électronique",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "jeu de construction magnétique",
+      "produit": "LEGO® City 60498 Le tracteur",
       "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 15.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     }
   ],

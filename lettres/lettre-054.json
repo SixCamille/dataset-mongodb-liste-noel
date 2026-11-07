@@ -7,23 +7,31 @@
   "ecole": "École Notre-Dame-du-Mont",
   "souhaits": [
     {
-      "produit": "boîte de Kapla",
-      "categorie": "construction",
-      "matiere": "bois"
-    },
-    {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique"
-    },
-    {
-      "produit": "figurines de dinosaures",
+      "produit": "Le Loto des odeurs Sentosphere",
       "categorie": "imaginaire",
-      "nombreFigurines": 12
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "recueil de mythologie grecque",
-      "categorie": "livre",
-      "illustrations": true
+      "produit": "Avion de Rêve de Barbie Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 89.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Flip 7 Blackrock",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Funko Pop Animation Jujutsu Kaisen Satoru Gojo jeune Exclusivité Fnac",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     }
   ],
   "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."

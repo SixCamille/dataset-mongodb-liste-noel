@@ -7,10 +7,10 @@
   "ecole": "École Paul-Bert",
   "souhaits": [
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx",
-      "couleur": "violet"
+      "produit": "Attaque Fantômes GP Toys",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

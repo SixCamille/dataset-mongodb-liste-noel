@@ -7,25 +7,28 @@
   "ecole": "École Émile-Zola",
   "souhaits": [
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "connexion": "USB-C",
-      "couleur": "turquoise"
+      "produit": "Jeu d’ambiance Smile Life Extension Vie de Luxe",
+      "categorie": "jeu de société",
+      "marque": "Smile Life",
+      "prix": 11.99,
+      "devise": "EUR",
+      "ageRecommande": 12
     },
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société"
+      "produit": "Coffret Etoilium Etoilium",
+      "categorie": "imaginaire",
+      "prix": 64.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
-      "nombreFeuilles": 100,
-      "couleur": "bleu"
+      "produit": "La magie d'Eric Antoine Oid Magic",
+      "categorie": "imaginaire"
     },
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
-      "format": "album"
+      "produit": "Marvel Spidey et ses Amis Extraordinaires - QG Rescue-Webs Hasbro",
+      "categorie": "imaginaire",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",

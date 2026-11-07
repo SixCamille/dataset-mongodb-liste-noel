@@ -7,38 +7,41 @@
   "ecole": "École des Terreaux",
   "souhaits": [
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ],
+      "produit": "Miniverse Make It Mini Real Music Vinyles Mga",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
-      "couleur": "bleu",
+      "produit": "Appareil photo KidiZoom Duo FX bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 74.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "mallette d'aquarelle",
-      "categorie": "créatif",
-      "nombreCouleurs": 24,
+      "produit": "Coffret réveil lumineux Pikachu + Poké Ball Pokémon Teknofun",
+      "categorie": "figurine et collection",
+      "marque": "Pokémon",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
-      "theme": "faune mondiale",
+      "produit": "circuit 740 centimetre Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6,
-      "couleur": "violet",
+      "produit": "60497 - LEGO® City - La station de lavage automatique LEGO",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "60497",
       "priorite": 5
     }
   ],

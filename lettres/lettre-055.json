@@ -7,19 +7,17 @@
   "ecole": "École des Bourroches",
   "souhaits": [
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "graines": [
-        "basilic",
-        "tomate",
-        "capucine"
-      ],
+      "produit": "Jeu de panier de basket - salle d'arcade 145 cm SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
       "priorite": 1
     },
     {
-      "produit": "trottinette",
-      "categorie": "sport",
-      "pliable": true,
+      "produit": "Maxi tapis d’éveil double face 2 mètres Baby Smile",
+      "categorie": "imaginaire",
+      "marque": "Baby Smile",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ],

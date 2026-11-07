@@ -7,31 +7,43 @@
   "ecole": "École de la Pointe-Rouge",
   "souhaits": [
     {
-      "produit": "figurines de dinosaures",
+      "produit": "Baladeur musical - Music'Kid rose VTech",
       "categorie": "imaginaire",
-      "nombreFigurines": 12,
+      "marque": "VTech",
+      "prix": 35.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
+      "produit": "Figurine Funko Pop Movies Fast & Furious Dom Toretto",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 2
     },
     {
-      "produit": "trottinette",
+      "produit": "Punching ball et gants de boxe SUN and SPORT",
       "categorie": "sport",
-      "pliable": true,
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
+      "produit": "Mon premier Mille Bornes Pat'Patrouille Dujardin",
+      "categorie": "plein air et nature",
+      "marque": "Dujardin",
       "priorite": 4
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus",
+      "produit": "LEGO® Creator 31170 Animaux sauvages : le flamant rose",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 20.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 5
     }
   ],

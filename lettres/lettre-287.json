@@ -7,16 +7,18 @@
   "ecole": "École du Mas-du-Taureau",
   "souhaits": [
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé",
-      "couleur": "rouge",
+      "produit": "Punching ball et gants de boxe SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "roman d'aventures dans l'espace",
-      "categorie": "livre",
-      "format": "broché",
+      "produit": "Poupée Rainbow High Pretty in Paris - Bella Parker Mga",
+      "categorie": "poupée",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

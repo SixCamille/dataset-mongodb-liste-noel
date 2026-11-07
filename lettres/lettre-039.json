@@ -7,9 +7,11 @@
   "ecole": "École du Rouet",
   "souhaits": [
     {
-      "produit": "mallette d'aquarelle",
-      "categorie": "créatif",
-      "nombreCouleurs": 24
+      "produit": "LEGO® Ninjago Destiny's Bounty Adventures Asmodée",
+      "categorie": "construction",
+      "marque": "Asmodée",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."

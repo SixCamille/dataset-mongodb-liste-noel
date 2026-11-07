@@ -7,14 +7,11 @@
   "ecole": "École de l'Île-Barbe",
   "souhaits": [
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ],
-      "couleur": "rouge",
+      "produit": "Ramen mystère KPOP Demon Hunters avec peluche 10cm (modèle aléatoire)Jazwares",
+      "categorie": "peluche",
+      "marque": "Jazwares",
+      "prix": 12.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

@@ -7,19 +7,26 @@
   "ecole": "École du Chemin-Vert",
   "souhaits": [
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
-      "nombreExperiences": 8
+      "produit": "Dragomino - Mon premier Kingdomino Blue Orange",
+      "categorie": "imaginaire",
+      "prix": 22.99,
+      "devise": "EUR"
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature"
+      "produit": "Bitzee KPop Demon Hunters Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master",
+      "prix": 36.99,
+      "devise": "EUR"
     },
     {
-      "produit": "harmonica",
-      "categorie": "musique",
-      "tonalite": "do",
-      "couleur": "turquoise"
+      "produit": "10698 - LEGO® Classic - Boîte de briques créatives deluxe LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "ageRecommande": 4,
+      "reference": "10698"
     }
   ],
   "commentaire": "J'aime lire au calme avant de dormir."

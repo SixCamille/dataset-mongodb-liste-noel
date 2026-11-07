@@ -7,20 +7,21 @@
   "ecole": "École des Balmes",
   "souhaits": [
     {
-      "produit": "peluche panda roux",
-      "categorie": "peluche",
-      "taille": "40 cm"
+      "produit": "Voiture radiocommandée KOKAN 052 Koo",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth"
+      "produit": "Tours de magie 350 tours Zig Zag jeux action",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "noir"
+      "produit": "Tablette lumineuse 3 en 1 Professional Studio Buki",
+      "categorie": "électronique",
+      "marque": "Buki"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes."

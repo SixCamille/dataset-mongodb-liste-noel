@@ -7,31 +7,36 @@
   "ecole": "École du Colombier",
   "souhaits": [
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "rouge"
-    },
-    {
-      "produit": "globe terrestre lumineux",
-      "categorie": "sciences",
-      "diametre": "25 cm"
-    },
-    {
-      "produit": "skateboard",
+      "produit": "Baby-foot 2 en 1 SUN and SPORT",
       "categorie": "sport",
-      "longueur": "79 cm"
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "kalimba",
-      "categorie": "musique",
-      "nombreLames": 17,
-      "couleur": "turquoise"
+      "produit": "Combi Poussette Maxi Cosi Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 52.99,
+      "devise": "EUR"
     },
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx"
+      "produit": "Set de construction CaDA - Bains japonais (1249 pièces)CaDA",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Ours en peluche geant 1m30 Ami Plush",
+      "categorie": "peluche",
+      "prix": 59.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Spidey et ses Amis – Pack 4 Véhicules et Figurines Hasbro",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime lire au calme avant de dormir."

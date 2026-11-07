@@ -7,19 +7,26 @@
   "ecole": "École des Arceaux",
   "souhaits": [
     {
-      "produit": "château miniature",
-      "categorie": "imaginaire",
+      "produit": "Appareil photo avec impression instantanée - KidiZoom Print Cam VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 64.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
-      "theme": "faune mondiale",
+      "produit": "XSHOT Insanity Blitz Hammer avec 48 fléchettes Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
+      "produit": "Maison et jardin en fête Bluey Moose Toys",
+      "categorie": "plein air et nature",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ],

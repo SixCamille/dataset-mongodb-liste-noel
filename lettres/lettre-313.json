@@ -7,27 +7,32 @@
   "ecole": "École des Chalets",
   "souhaits": [
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "taille": "32 cm",
-      "couleur": "rose",
+      "produit": "Etal du marché Ecoiffier",
+      "categorie": "imaginaire",
+      "prix": 32.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
-      "nombreTenues": 5,
+      "produit": "Véhicule + Figurine Ruben La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
       "priorite": 2
     },
     {
-      "produit": "raquette de badminton",
-      "categorie": "sport",
+      "produit": "L'atelier de mode - Kpop Demon Hunters Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus",
+      "produit": "Jeu d'enquête Gameflow Mon Puzzle Aventure Petits Détectives",
+      "categorie": "puzzle",
+      "marque": "Gameflow",
+      "prix": 17.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
       "priorite": 4
     }
   ]

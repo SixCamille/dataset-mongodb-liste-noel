@@ -7,20 +7,26 @@
   "ecole": "École de la Roquette",
   "souhaits": [
     {
-      "produit": "ballon de football",
-      "categorie": "sport",
-      "taille": 4,
+      "produit": "Figurine Funko Bitty Pop Mystery Dragon Ball Z Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 4.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     },
     {
-      "produit": "robot solaire à monter",
-      "categorie": "construction",
+      "produit": "Établi Bosch Work-Shop Klein",
+      "categorie": "imaginaire",
+      "prix": 64.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "microphone de karaoké",
-      "categorie": "musique",
-      "connexion": "Bluetooth",
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

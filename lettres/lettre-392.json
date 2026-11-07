@@ -7,21 +7,26 @@
   "ecole": "École des Terreaux",
   "souhaits": [
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
-      "limiteurVolume": true,
+      "produit": "Enceinte musicale Bluetooth et lumières groove disco Music Star",
+      "categorie": "électronique",
+      "prix": 69.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
+      "produit": "Skateboard Spiderman 28x8 STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5",
-      "couleur": "jaune",
+      "produit": "LEGO® City 60488 Le food-truck de frites",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
       "priorite": 3
     }
   ]

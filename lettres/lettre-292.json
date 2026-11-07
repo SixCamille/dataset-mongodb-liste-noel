@@ -7,22 +7,23 @@
   "ecole": "École Anatole-France",
   "souhaits": [
     {
-      "produit": "peluche pieuvre réversible",
-      "categorie": "peluche",
-      "taille": "20 cm",
+      "produit": "Circuit à billes magnétiques Marble Rush - Dino Adventures Magnetic Set XL400E VTech",
+      "categorie": "construction",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "garage avec petites voitures",
+      "produit": "Grenouille lumineuse roulante Fisher Price",
       "categorie": "imaginaire",
-      "nombreNiveaux": 4,
-      "couleur": "noir",
+      "marque": "Fisher Price",
       "priorite": 2
     },
     {
-      "produit": "livre de recettes pour enfants",
-      "categorie": "livre",
-      "niveau": "facile",
+      "produit": "Moto électrique Honda 6V - Batterie Lithium RUN RUN TOYS",
+      "categorie": "véhicule",
+      "prix": 89.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

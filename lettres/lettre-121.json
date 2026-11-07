@@ -7,14 +7,19 @@
   "ecole": "École des Marronniers",
   "souhaits": [
     {
-      "produit": "sac à dos de randonnée",
-      "categorie": "plein air",
-      "capacite": "18 L",
+      "produit": "Scrabble Junior Mattel Games",
+      "categorie": "imaginaire",
+      "marque": "Mattel",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu coopératif de sauvetage",
-      "categorie": "jeu de société",
+      "produit": "Peluche Ma Loutre Câlins Bonne Nuit Fisher Price Fisher Price",
+      "categorie": "peluche",
+      "marque": "Fisher Price",
+      "prix": 32.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ],

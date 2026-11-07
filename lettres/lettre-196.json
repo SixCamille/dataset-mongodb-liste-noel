@@ -7,15 +7,20 @@
   "ecole": "École Michel-Servet",
   "souhaits": [
     {
-      "produit": "kit d'observation des insectes",
-      "categorie": "plein air",
-      "loupe": true,
-      "couleur": "orange",
+      "produit": "Têtes brûlées - La Mega Fabrik à Bonbons Tutti Fruti Silverlit",
+      "categorie": "imaginaire",
+      "marque": "Silverlit",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
+      "produit": "Figurine Funko Pop Supreme Toy Story 5 Atlas",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 24.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 2
     }
   ]

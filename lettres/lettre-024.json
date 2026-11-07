@@ -7,19 +7,25 @@
   "ecole": "École du Capitole",
   "souhaits": [
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5"
+      "produit": "Monopoly Formula 1 Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "ukulélé",
-      "categorie": "musique",
-      "couleur": "bois naturel"
+      "produit": "Gagne ton Papa Gigamic",
+      "categorie": "imaginaire",
+      "prix": 32.99,
+      "devise": "EUR"
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur"
+      "produit": "Figurine Funko Pop TV South Park S6 Jimmy Valmer",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes."

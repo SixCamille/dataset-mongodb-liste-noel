@@ -7,10 +7,12 @@
   "ecole": "École du Parc-Impérial",
   "souhaits": [
     {
-      "produit": "skateboard",
-      "categorie": "sport",
-      "longueur": "79 cm",
-      "couleur": "bois naturel",
+      "produit": "21349 - Le chat bicolore - LEGO® Ideas LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 99.99,
+      "devise": "EUR",
+      "reference": "21349",
       "priorite": 1
     }
   ]

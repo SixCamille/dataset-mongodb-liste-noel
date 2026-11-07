@@ -7,8 +7,10 @@
   "ecole": "École du Sanitas",
   "souhaits": [
     {
-      "produit": "skateboard",
-      "categorie": "sport",
+      "produit": "Baladeur musical - Music'Kid rose VTech",
+      "categorie": "imaginaire",
+      "prix": 35.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

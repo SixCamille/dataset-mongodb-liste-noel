@@ -7,9 +7,11 @@
   "ecole": "École des Balmes",
   "souhaits": [
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "couleur": "vert",
+      "produit": "Ma Première Guitare Confetti Janod",
+      "categorie": "imaginaire",
+      "marque": "Janod",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

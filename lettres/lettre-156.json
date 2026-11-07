@@ -7,28 +7,30 @@
   "ecole": "École du Point-du-Jour",
   "souhaits": [
     {
-      "produit": "encyclopédie des volcans",
-      "categorie": "livre"
+      "produit": "Jenga Hasbro Gaming",
+      "categorie": "imaginaire",
+      "prix": 16.99,
+      "devise": "EUR"
     },
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "graines": [
-        "basilic",
-        "tomate",
-        "capucine"
-      ],
-      "couleur": "vert"
+      "produit": "Garage Tower 5 étages avec 10 voitures 75 cm Motor & Co",
+      "categorie": "véhicule",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm"
+      "produit": "Baby Walker 3 en 1 + Poupon Smoby",
+      "categorie": "poupée",
+      "marque": "Smoby",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
-      "matiere": "argile"
+      "produit": "21588 - LEGO® Minecraft - Le Renard LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime lire au calme avant de dormir."

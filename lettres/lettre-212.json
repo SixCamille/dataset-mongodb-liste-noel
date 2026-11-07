@@ -7,15 +7,19 @@
   "ecole": "École de la Montagne-Sainte-Geneviève",
   "souhaits": [
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
-      "couleur": "vert",
+      "produit": "72129 - Playmobil I Love Horses - Véhicule avec remorque à chevaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 44.99,
+      "devise": "EUR",
+      "reference": "72129",
       "priorite": 1
     },
     {
-      "produit": "roman d'aventures dans l'espace",
-      "categorie": "livre",
-      "format": "broché",
+      "produit": "Mama Tortue surprise Pets Alive Zuru",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

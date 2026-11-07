@@ -7,23 +7,31 @@
   "ecole": "École des Beaux-Arts",
   "souhaits": [
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre"
+      "produit": "L'atelier de mode - Kpop Demon Hunters Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "boîte de Kapla",
+      "produit": "Capsule 5 surprises My mini baby Série 2 Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 9.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mallette De Construction 793g - Kinetic Sand Spin Master",
       "categorie": "construction",
-      "matiere": "bois"
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus"
-    },
-    {
-      "produit": "skateboard",
-      "categorie": "sport",
-      "longueur": "79 cm"
+      "produit": "Camion de transport man avec plateforme et mini pelleteuse Caterpillar Bruder",
+      "categorie": "véhicule",
+      "prix": 64.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes.",

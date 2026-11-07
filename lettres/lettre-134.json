@@ -7,31 +7,43 @@
   "ecole": "École du Vernay",
   "souhaits": [
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true,
+      "produit": "Tamagotchi Paradise - Frozen Bandai",
+      "categorie": "figurine et collection",
+      "marque": "Bandai",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "garage avec petites voitures",
-      "categorie": "imaginaire",
+      "produit": "71742 - Playmobil My Life - Hôtel des animaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 54.99,
+      "devise": "EUR",
+      "reference": "71742",
       "priorite": 2
     },
     {
-      "produit": "panier de basket réglable",
-      "categorie": "sport",
-      "usage": "extérieur",
+      "produit": "Jeu Tonieplay - Monopoly : La Course à l'immobilier Tonies",
+      "categorie": "jeu de société",
+      "marque": "Tonies",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu de construction magnétique",
-      "categorie": "construction",
+      "produit": "Le Yacht De Minnie Just Play",
+      "categorie": "imaginaire",
+      "marque": "Just Play",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "jeu de mémoire illustré",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "produit": "circuit 740 centimetre Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

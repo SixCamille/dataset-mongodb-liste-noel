@@ -7,14 +7,19 @@
   "ecole": "École Paul-Bert",
   "souhaits": [
     {
-      "produit": "skateboard",
-      "categorie": "sport",
-      "longueur": "79 cm"
+      "produit": "Tonies - Pokémon - Bulbizarre Tonies",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
-      "theme": "faune mondiale"
+      "produit": "43024 - LEGO® Editions Formula 1 - Casque d’Ayrton Senna LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "43024"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

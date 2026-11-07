@@ -7,18 +7,22 @@
   "ecole": "École de la Guillotière",
   "souhaits": [
     {
-      "produit": "recueil de mythologie grecque",
-      "categorie": "livre"
+      "produit": "L'atelier des stylos Stitch Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
+      "prix": 24.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "couleur": "turquoise"
+      "produit": "Cluedo Hasbro Gaming",
+      "categorie": "imaginaire"
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x"
+      "produit": "Tablette Storio Max XL 2.0 rose VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 159.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

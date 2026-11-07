@@ -7,22 +7,22 @@
   "ecole": "École Anatole-France",
   "souhaits": [
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "taille": "30 cm",
-      "couleur": "jaune",
+      "produit": "Clavier 37 touches rose avec son micro Music Star",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "boîte de Kapla",
+      "produit": "LEGO® ONE PIECE 75636 Le bar du village de Fuchsia",
       "categorie": "construction",
-      "matiere": "bois",
+      "marque": "LEGO",
+      "ageRecommande": 8,
       "priorite": 2
     },
     {
-      "produit": "harmonica",
-      "categorie": "musique",
-      "tonalite": "do",
+      "produit": "Avion télécommandé Sonic Evo - Flybotic Flybotic",
+      "categorie": "imaginaire",
       "priorite": 3
     }
   ]

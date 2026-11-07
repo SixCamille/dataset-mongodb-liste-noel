@@ -7,13 +7,18 @@
   "ecole": "École des Marronniers",
   "souhaits": [
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
-      "couleur": "rouge"
+      "produit": "Music’Kid Karaoké bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "jeu de parcours écologique",
-      "categorie": "jeu de société"
+      "produit": "Maxi tapis Aquadoodle arc en ciel fluo Tomy",
+      "categorie": "imaginaire",
+      "marque": "Tomy",
+      "prix": 34.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'adore observer la nature et fabriquer des objets."

@@ -7,14 +7,18 @@
   "ecole": "École des Balmes",
   "souhaits": [
     {
-      "produit": "coffret de pâte à modeler",
-      "categorie": "créatif",
+      "produit": "Moto électrique orange 7V SUN and SPORT",
+      "categorie": "véhicule",
+      "marque": "SUN and SPORT",
+      "prix": 129.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1,
+      "produit": "Mirror Mi - Poupée Mannequin Akiko Kittyama 27cm Mga",
+      "categorie": "poupée",
+      "prix": 31.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

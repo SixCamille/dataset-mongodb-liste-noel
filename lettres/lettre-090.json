@@ -7,24 +7,31 @@
   "ecole": "École du Parc-Impérial",
   "souhaits": [
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique"
-    },
-    {
-      "produit": "figurines de dinosaures",
+      "produit": "Talkies-walkies vidéo 2-en-1 Com Creator Canal Toys",
       "categorie": "imaginaire",
-      "nombreFigurines": 12
+      "marque": "Canal Toys",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "bleu"
+      "produit": "Véhicule Chase Tout-terrain Rescue Wheels - La Pat' Patrouille Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret de pâte à modeler",
+      "produit": "Coffret figurines de combat Invincible Heroes",
+      "categorie": "figurine et collection",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Maquillage sac à main Crazy Chic Make Up Clementoni",
       "categorie": "créatif",
-      "couleur": "noir"
+      "marque": "Clementoni",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."

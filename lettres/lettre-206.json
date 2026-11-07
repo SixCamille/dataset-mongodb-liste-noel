@@ -7,28 +7,31 @@
   "ecole": "École du Faubourg-de-Hem",
   "souhaits": [
     {
-      "produit": "sac à dos de randonnée",
-      "categorie": "plein air",
-      "capacite": "18 L",
-      "couleur": "noir",
+      "produit": "Shimmer Me Body Art Cool Maker - KPop Demon Hunters Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "panier de basket réglable",
-      "categorie": "sport",
-      "usage": "extérieur",
+      "produit": "Arbre magique des Klorofil et 2 personnages Vulli",
+      "categorie": "imaginaire",
       "priorite": 2
     },
     {
-      "produit": "jeu de cartes rapide",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "3 à 6",
+      "produit": "Set avec casque genouillères et coudières - Spider-Man STAMP",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "roman d'aventures dans l'espace",
-      "categorie": "livre",
-      "format": "broché",
+      "produit": "Ordinateur enfant Genio Max VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 149.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

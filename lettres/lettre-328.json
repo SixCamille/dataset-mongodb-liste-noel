@@ -7,14 +7,18 @@
   "ecole": "École de la Pointe-Rouge",
   "souhaits": [
     {
-      "produit": "microphone de karaoké",
-      "categorie": "musique",
-      "connexion": "Bluetooth",
+      "produit": "Lit superposé en bois 50 cm LOVE BEBE",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu de mémoire illustré",
-      "categorie": "jeu de société",
+      "produit": "Caméra interactive Pokémon Brandunit",
+      "categorie": "figurine et collection",
+      "marque": "Pokémon",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

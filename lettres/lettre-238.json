@@ -7,26 +7,34 @@
   "ecole": "École des Gantelles",
   "souhaits": [
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth",
+      "produit": "Maison nature et cuisine d'été - Smoby Life Smoby",
+      "categorie": "plein air et nature",
+      "marque": "Smoby",
+      "prix": 149.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "figurines de dinosaures",
+      "produit": "Draisienne Biky Cross BERG",
       "categorie": "imaginaire",
+      "prix": 109.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
-      "couleur": "bleu",
+      "produit": "Figurine Funko Pop Marvel X-Men 97 Storm",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     },
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 5",
+      "produit": "Jeu d'enquête Gameflow Mon Puzzle Aventure Petits Détectives",
+      "categorie": "puzzle",
+      "marque": "Gameflow",
+      "ageRecommande": 5,
       "priorite": 4
     }
   ],

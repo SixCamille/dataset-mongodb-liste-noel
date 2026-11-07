@@ -7,30 +7,36 @@
   "ecole": "École de la Krutenau",
   "souhaits": [
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true
-    },
-    {
-      "produit": "microphone de karaoké",
-      "categorie": "musique",
-      "connexion": "Bluetooth"
-    },
-    {
-      "produit": "marionnettes d'animaux",
+      "produit": "Coffret activités d'éveil en bois WOOD N PLAY",
       "categorie": "imaginaire",
-      "nombreMarionnettes": 6,
-      "couleur": "rouge"
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "LEGO fleurs",
-      "categorie": "construction",
-      "couleur": "jaune"
+      "produit": "Conteuse gramophone et 126 disques - Quelle histoire Joyeuse",
+      "categorie": "livre et audio",
+      "prix": 47.49,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "taille": "30 cm"
+      "produit": "Science et Jeu - L'observatoire des insectes Clementoni",
+      "categorie": "jeu de société",
+      "marque": "Clementoni",
+      "prix": 22.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Monster High Moonspell Magic - Poupée Carina Song Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 31.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Camion de Hulk - Marvel Avengers VenomVersus Hasbro",
+      "categorie": "véhicule",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime beaucoup dessiner après l'école."

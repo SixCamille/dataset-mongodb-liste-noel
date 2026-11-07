@@ -7,34 +7,32 @@
   "ecole": "École du Bourg",
   "souhaits": [
     {
-      "produit": "jeu de mémoire illustré",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4"
+      "produit": "Maxi grue filoguidée Superstar",
+      "categorie": "véhicule",
+      "marque": "Superstar",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "kit d'observation des insectes",
-      "categorie": "plein air",
-      "loupe": true
-    },
-    {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "graines": [
-        "basilic",
-        "tomate",
-        "capucine"
-      ],
-      "couleur": "vert"
-    },
-    {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "taille": "45 cm"
-    },
-    {
-      "produit": "jeu de construction magnétique",
+      "produit": "Circuit à billes Marble Rush - SuperPack : Beginner Set S200 + Basketball Set S500 VTech",
       "categorie": "construction",
-      "nombrePieces": 64
+      "marque": "VTech"
+    },
+    {
+      "produit": "Centre d'activités Blopens Stitch et Angel Lansay",
+      "categorie": "imaginaire"
+    },
+    {
+      "produit": "Coffret de maquillage Make-up artiste Miss Fashion",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Skateboard Spiderman 28x8 STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes."

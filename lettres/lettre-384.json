@@ -7,28 +7,37 @@
   "ecole": "École du Parc-Impérial",
   "souhaits": [
     {
-      "produit": "skateboard",
-      "categorie": "sport"
+      "produit": "Figurine Funko Pop Animation Yu-Gi-Oh Red-Eyes Black Dragon Card",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "ageRecommande": 6
     },
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5"
+      "produit": "Poupon Bébé Calin Margaux Forêt 30cm Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "robot solaire à monter",
+      "produit": "LEGO® Creator 31377 La tortue et la fleur de nénuphar",
       "categorie": "construction",
-      "couleur": "orange"
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 7
     },
     {
-      "produit": "mallette d'aquarelle",
-      "categorie": "créatif",
-      "nombreCouleurs": 24,
-      "couleur": "jaune"
+      "produit": "Coussin d'activités 2 en 1 Cosy Play Sophie la Girafe Vulli",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche"
+      "produit": "Voiture radiocommandée Gabby chat Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

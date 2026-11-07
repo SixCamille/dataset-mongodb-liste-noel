@@ -7,14 +7,16 @@
   "ecole": "École des Bateliers",
   "souhaits": [
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
+      "produit": "Pack tir électronique XShot – Cibles interactives et 2 blasters Fury 4 Zuru",
+      "categorie": "électronique",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "couleur": "orange",
+      "produit": "Voiture radiocommandée KOKAN 052 Koo",
+      "categorie": "véhicule",
       "priorite": 2
     }
   ]

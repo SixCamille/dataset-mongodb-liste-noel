@@ -7,27 +7,33 @@
   "ecole": "École du Colombier",
   "souhaits": [
     {
-      "produit": "boîte de Kapla",
-      "categorie": "construction",
-      "matiere": "bois",
-      "couleur": "bleu",
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé",
+      "produit": "Moto électrique Honda 6V - Batterie Lithium RUN RUN TOYS",
+      "categorie": "véhicule",
+      "prix": 89.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
+      "produit": "Appareil photo KidiZoom Duo FX bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 74.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "taille": "32 cm",
+      "produit": "Circuit Spidey and friends - Zone de construction Chaos Jazwares",
+      "categorie": "construction",
+      "marque": "Jazwares",
+      "prix": 44.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

@@ -7,32 +7,42 @@
   "ecole": "École de la Pointe-Rouge",
   "souhaits": [
     {
-      "produit": "kit de poterie autodurcissante",
+      "produit": "Aquabeads - 35121 - Le kit Manucure Stitch Aquabeads",
       "categorie": "créatif",
+      "marque": "Aquabeads",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
+      "produit": "Calendrier de l'Avent Pieces & Peace - 24 Puzzles 42 Pièces Pieces & Peace",
+      "categorie": "puzzle",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "briques de construction pour créer une cabane",
-      "categorie": "construction",
-      "nombrePieces": 850,
-      "couleur": "bois naturel",
+      "produit": "Lit superposé en bois 50 cm LOVE BEBE",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "cerf-volant",
-      "categorie": "plein air",
-      "forme": "delta",
+      "produit": "LEGO® Minecraft® 21588 Le Renard",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 34.99,
+      "devise": "EUR",
+      "ageRecommande": 10,
       "priorite": 4
     },
     {
-      "produit": "panier de basket réglable",
-      "categorie": "sport",
-      "usage": "extérieur",
+      "produit": "Mission Dragon - Jeu d'action Dujardin",
+      "categorie": "jeu de société",
+      "marque": "Dujardin",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

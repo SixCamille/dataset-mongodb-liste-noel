@@ -7,35 +7,41 @@
   "ecole": "École du Vernay",
   "souhaits": [
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5",
+      "produit": "Ordinateur enfant Genio Max rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
       "priorite": 1
     },
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
-      "limiteurVolume": true,
-      "couleur": "jaune",
+      "produit": "Atelier bougies sables Sentosphere",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "raquette de badminton",
-      "categorie": "sport",
-      "niveau": "débutant",
-      "couleur": "vert",
+      "produit": "Coffret 4 puzzles d'animaux de la ferme Janod",
+      "categorie": "puzzle",
+      "marque": "Janod",
+      "prix": 18.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
+      "produit": "LEGO® Creator 31376 L’adorable hamster et la fleur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
       "priorite": 4
     },
     {
-      "produit": "kit d'observation des insectes",
-      "categorie": "plein air",
-      "loupe": true,
-      "couleur": "bleu",
+      "produit": "Monopoly : KPop Demon Hunters Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

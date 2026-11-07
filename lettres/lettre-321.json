@@ -7,15 +7,17 @@
   "ecole": "École des Gantelles",
   "souhaits": [
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x"
+      "produit": "Appareil photo avec impression instantanée - KidiZoom Print Cam VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 64.99,
+      "devise": "EUR"
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "matiere": "bois",
-      "couleur": "noir"
+      "produit": "Circuit de course avec 2 voitures télécommandées Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'adore observer la nature et fabriquer des objets."

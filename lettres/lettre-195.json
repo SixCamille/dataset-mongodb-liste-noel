@@ -7,28 +7,40 @@
   "ecole": "École des Chartrons",
   "souhaits": [
     {
-      "produit": "jeu coopératif de sauvetage",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4"
+      "produit": "Croc Dog Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 21.99,
+      "devise": "EUR"
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre"
-    },
-    {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur"
-    },
-    {
-      "produit": "peluche pieuvre réversible",
-      "categorie": "peluche",
-      "taille": "20 cm"
-    },
-    {
-      "produit": "boîte de Kapla",
+      "produit": "LEGO® Ninjago® 71864 Véhicules combinables de Kai et Cole",
       "categorie": "construction",
-      "matiere": "bois"
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 7
+    },
+    {
+      "produit": "Figurine Tonies Pokémon Bulbizarre",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5
+    },
+    {
+      "produit": "Chasse Taupes Mattel Games",
+      "categorie": "imaginaire",
+      "marque": "Mattel",
+      "prix": 22.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Etal du marché Ecoiffier",
+      "categorie": "imaginaire",
+      "prix": 32.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes."

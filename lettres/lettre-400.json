@@ -7,9 +7,10 @@
   "ecole": "École Émile-Zola",
   "souhaits": [
     {
-      "produit": "recueil de mythologie grecque",
-      "categorie": "livre",
-      "illustrations": true,
+      "produit": "Camion de transport man avec plateforme et mini pelleteuse Caterpillar Bruder",
+      "categorie": "véhicule",
+      "prix": 64.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

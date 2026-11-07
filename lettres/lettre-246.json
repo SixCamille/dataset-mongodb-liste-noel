@@ -7,14 +7,17 @@
   "ecole": "École Anatole-France",
   "souhaits": [
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société"
+      "produit": "La magie d'Eric Antoine Oid Magic",
+      "categorie": "imaginaire",
+      "prix": 26.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "taille": "32 cm",
-      "couleur": "violet"
+      "produit": "71656 - Playmobil Junior - Ferme avec tracteur et animaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 49.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'adore observer la nature et fabriquer des objets."

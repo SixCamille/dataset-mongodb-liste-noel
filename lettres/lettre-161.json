@@ -7,34 +7,44 @@
   "ecole": "École des Battières",
   "souhaits": [
     {
-      "produit": "château miniature",
-      "categorie": "imaginaire",
-      "matiere": "bois",
-      "couleur": "noir",
+      "produit": "71656 - Playmobil Junior - Ferme avec tracteur et animaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "71656",
       "priorite": 1
     },
     {
-      "produit": "recueil de mythologie grecque",
-      "categorie": "livre",
-      "illustrations": true,
+      "produit": "Etabli de bricolage Bricolo - Black+Decker Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 64.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "raquette de badminton",
-      "categorie": "sport",
-      "niveau": "débutant",
+      "produit": "Ordinateur éducatif bilingue La Reine Des Neiges Lexibook",
+      "categorie": "sciences et éducatif",
+      "marque": "Lexibook",
+      "prix": 44.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
-      "grossissement": "8x",
+      "produit": "Monster High Moonspell Magic - Poupée Willow Thorne Mattel",
+      "categorie": "poupée",
+      "prix": 31.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49,
+      "produit": "Casse-tête Asmodee Behind",
+      "categorie": "puzzle",
+      "marque": "Asmodée",
+      "prix": 22.99,
+      "devise": "EUR",
+      "ageRecommande": 10,
       "priorite": 5
     }
   ]

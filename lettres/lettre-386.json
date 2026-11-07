@@ -7,32 +7,43 @@
   "ecole": "École des Olivettes",
   "souhaits": [
     {
-      "produit": "jeu de parcours écologique",
+      "produit": "Jeu de stratégie The Flying Games Viva Catrina",
       "categorie": "jeu de société",
+      "marque": "The Flying Games",
+      "prix": 24.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 1
     },
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
-      "limiteurVolume": true,
-      "couleur": "rose",
+      "produit": "LEGO® ONE PIECE 75636 Le bar du village de Fuchsia",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 21.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 2
     },
     {
-      "produit": "rollers",
-      "categorie": "sport",
-      "pointure": 38,
+      "produit": "Jeu classique Ravensburger Brilliant",
+      "categorie": "imaginaire",
+      "marque": "Ravensburger",
+      "prix": 12.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 3
     },
     {
-      "produit": "garage avec petites voitures",
-      "categorie": "imaginaire",
+      "produit": "Figurine Woody Course Effrénée Toy Story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
       "priorite": 4
     },
     {
-      "produit": "kit de fouilles de fossiles",
-      "categorie": "sciences",
-      "theme": "paléontologie",
+      "produit": "Voiture radiocommandée Web Crawler - Spidey and His Amazin Friends Jada",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

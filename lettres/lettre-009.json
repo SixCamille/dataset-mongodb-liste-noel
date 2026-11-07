@@ -7,29 +7,38 @@
   "ecole": "École des Chartrons",
   "souhaits": [
     {
-      "produit": "raquette de badminton",
+      "produit": "Conteuse Raconte moi une histoire - T'Choupi Dujardin",
+      "categorie": "livre et audio",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Trottinette pliable 2 roues - Stitch STAMP",
       "categorie": "sport",
-      "niveau": "débutant"
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "jeu de construction magnétique",
+      "produit": "Pin Pon !Djeco",
+      "categorie": "imaginaire",
+      "marque": "Djeco",
+      "prix": 17.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "LEGO® Spidey 11206 Spidey sur sa moto contre Rhino",
       "categorie": "construction",
-      "nombrePieces": 64
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 4
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois"
-    },
-    {
-      "produit": "microphone de karaoké",
-      "categorie": "musique",
-      "connexion": "Bluetooth"
-    },
-    {
-      "produit": "roman d'aventures dans l'espace",
-      "categorie": "livre",
-      "format": "broché"
+      "produit": "Slime Experience LAB So Slime Canal Toys",
+      "categorie": "créatif",
+      "marque": "Canal Toys",
+      "prix": 36.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis."

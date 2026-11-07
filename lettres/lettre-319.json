@@ -7,15 +7,17 @@
   "ecole": "École du Sanitas",
   "souhaits": [
     {
-      "produit": "vélo",
-      "categorie": "sport",
-      "priorite": 1,
-      "tailleRoues": "20 pouces"
+      "produit": "Batterie 3 tambours bleus avec cymbale et tabouret Music Star",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
     },
     {
-      "produit": "encyclopédie des volcans",
-      "categorie": "livre",
-      "theme": "sciences",
+      "produit": "Enceinte Bluetooth avec micro - Disco Light Music Star",
+      "categorie": "électronique",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ],

@@ -7,20 +7,25 @@
   "ecole": "École des Bourroches",
   "souhaits": [
     {
-      "produit": "trottinette",
-      "categorie": "sport",
+      "produit": "Bitzee Aquarium Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true,
+      "produit": "Trottinette pliable 2 roues - Stitch STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "boîte de Kapla",
+      "produit": "72160 - Playmobil Country - Grande ferme et étable PLAYMOBIL",
       "categorie": "construction",
-      "matiere": "bois",
+      "marque": "PLAYMOBIL",
+      "reference": "72160",
       "priorite": 3
     }
   ]

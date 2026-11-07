@@ -7,30 +7,38 @@
   "ecole": "École du Capitole",
   "souhaits": [
     {
-      "produit": "peluche pieuvre réversible",
-      "categorie": "peluche",
-      "taille": "20 cm",
-      "couleur": "turquoise"
+      "produit": "KPop Demon Hunters - Poupée chantante Zoey Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 36.99,
+      "devise": "EUR"
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x"
-    },
-    {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx"
-    },
-    {
-      "produit": "jeu de cartes rapide",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "3 à 6"
-    },
-    {
-      "produit": "ballon de football",
+      "produit": "Trottinette 3 roues pliable Pat'Patrouille STAMP",
       "categorie": "sport",
-      "taille": 4
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Jurassic World - Figurine Carnotaure Attaque Et Morsure Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Carte pour conteuse d'histoire Yoto Petit Ours Brun : Mes premières sorties",
+      "categorie": "livre et audio",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Sylvanian Families - 5743 - La crèche ensoleillée Sylvanian Families",
+      "categorie": "imaginaire",
+      "marque": "Sylvanian Families",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime beaucoup dessiner après l'école."

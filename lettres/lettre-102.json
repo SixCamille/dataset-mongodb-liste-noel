@@ -7,31 +7,35 @@
   "ecole": "École des Chartrons",
   "souhaits": [
     {
-      "produit": "rollers",
-      "categorie": "sport",
-      "couleur": "vert",
-      "pointure": 40
-    },
-    {
-      "produit": "robot solaire à monter",
-      "categorie": "construction",
-      "alimentation": "solaire",
-      "couleur": "jaune"
-    },
-    {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
-      "nombreExperiences": 8
-    },
-    {
-      "produit": "marionnettes d'animaux",
+      "produit": "Cristaux et pierres précieuses Clementoni",
       "categorie": "imaginaire",
-      "nombreMarionnettes": 6
+      "marque": "Clementoni",
+      "prix": 21.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm"
+      "produit": "71750 - Playmobil Action Heroes - Camion grue, ouvrier et accessoires PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71750"
+    },
+    {
+      "produit": "Cartes-histoires 101Dalmacien conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni"
+    },
+    {
+      "produit": "Poupon Robin 43 cm boit et fait pipi avec accessoires LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Laboratoire des parfums - Deluxe Clementoni",
+      "categorie": "sciences et éducatif",
+      "marque": "Clementoni"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes.",

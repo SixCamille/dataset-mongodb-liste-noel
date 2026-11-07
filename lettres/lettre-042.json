@@ -7,19 +7,24 @@
   "ecole": "École du Colombier",
   "souhaits": [
     {
-      "produit": "panier de basket réglable",
-      "categorie": "sport",
-      "usage": "extérieur"
+      "produit": "Nanoblock robot Goldorak Bandai",
+      "categorie": "électronique",
+      "marque": "Bandai",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature"
-    },
-    {
-      "produit": "robot solaire à monter",
+      "produit": "71749 - Playmobil Action Heroes - Pelleteuse mécanique et ouvrier PLAYMOBIL",
       "categorie": "construction",
-      "alimentation": "solaire",
-      "couleur": "turquoise"
+      "marque": "PLAYMOBIL",
+      "prix": 54.99,
+      "devise": "EUR",
+      "reference": "71749"
+    },
+    {
+      "produit": "Projecteur à dessins 2en1 Buki",
+      "categorie": "créatif",
+      "marque": "Buki"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

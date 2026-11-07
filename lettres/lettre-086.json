@@ -7,28 +7,36 @@
   "ecole": "École du Mas-du-Taureau",
   "souhaits": [
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
+      "produit": "Jeu de stratégie The Flying Games Viva Catrina",
+      "categorie": "jeu de société",
+      "marque": "The Flying Games",
+      "ageRecommande": 8,
       "priorite": 1
     },
     {
-      "produit": "LEGO fleurs",
-      "categorie": "construction",
+      "produit": "Barbie - Camping-Car de Rêve Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
       "priorite": 2
     },
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
+      "produit": "Skyjo Junior Blackrock",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
+      "produit": "L'atelier des feutres Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
       "priorite": 4
     },
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
+      "produit": "Buki Watch - Montre connectée pour enfants Buki",
+      "categorie": "électronique",
+      "prix": 79.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

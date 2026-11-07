@@ -7,25 +7,27 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6,
-      "couleur": "jaune"
+      "produit": "Mama Tortue surprise Pets Alive Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
-      "mode": "solo"
+      "produit": "Circuit à billes magnétiques Marble Rush - Dino Adventures Magnetic Set XL400E VTech",
+      "categorie": "construction",
+      "marque": "VTech"
     },
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "couleur": "vert"
+      "produit": "Pâte à modeler - Super boîte à accessoires animaux Play Doh",
+      "categorie": "créatif",
+      "prix": 24.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus"
+      "produit": "Coffret de 4 véhicules lance-disques - Spidey and His Amazing Friends Jazwares",
+      "categorie": "véhicule",
+      "marque": "Jazwares"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

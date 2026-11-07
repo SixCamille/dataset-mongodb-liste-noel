@@ -7,9 +7,11 @@
   "ecole": "École du Point-du-Jour",
   "souhaits": [
     {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "taille": "45 cm"
+      "produit": "Aquabeads - 35087 - L'Atelier d'initiation Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."

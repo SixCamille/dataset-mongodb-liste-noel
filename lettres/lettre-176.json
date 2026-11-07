@@ -7,21 +7,28 @@
   "ecole": "École Léon-Jouhaux",
   "souhaits": [
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
-      "couleur": "orange",
+      "produit": "Véhicule + Figurine Zuma La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur",
+      "produit": "LEGO® Star Wars™ 75436 Le speeder bike du Mandalorien et Grogu",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 9.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 2
     },
     {
-      "produit": "jeu de construction magnétique",
-      "categorie": "construction",
-      "nombrePieces": 64,
+      "produit": "Trottinette 3 roues évolutive GO UP Active Light Eco - rose framboise Globber",
+      "categorie": "sport",
+      "marque": "Globber",
+      "prix": 89.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ],

@@ -7,9 +7,10 @@
   "ecole": "École de la Montagne-Sainte-Geneviève",
   "souhaits": [
     {
-      "produit": "maquette de fusée à assembler",
-      "categorie": "construction",
-      "niveau": "intermédiaire"
+      "produit": "Speed Bac Kids Pixie Games",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

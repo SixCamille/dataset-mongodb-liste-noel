@@ -7,29 +7,36 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air"
+      "produit": "71729 - Playmobil Action Heroes - Voiture police avec sirène et gyrophare PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 34.99,
+      "devise": "EUR",
+      "reference": "71729"
     },
     {
-      "produit": "coffre de déguisements",
+      "produit": "Jelly Gelz Lifestyle Deluxe Simba Dickie",
       "categorie": "imaginaire",
-      "nombreTenues": 5,
-      "couleur": "bois naturel"
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "livre de recettes pour enfants",
-      "categorie": "livre",
-      "niveau": "facile"
+      "produit": "Camion de transport man avec plateforme et mini pelleteuse Caterpillar Bruder",
+      "categorie": "véhicule"
     },
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "connexion": "USB-C"
+      "produit": "Projecteur à dessins 2en1 Buki",
+      "categorie": "créatif",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "ballon de football",
-      "categorie": "sport",
-      "taille": 4
+      "produit": "Jeu d'adresse Tour de Contrôle - Pat' Patrouille Spin Master",
+      "categorie": "jeu de société",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

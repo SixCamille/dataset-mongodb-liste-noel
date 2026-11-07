@@ -7,26 +7,35 @@
   "ecole": "École de la Roquette",
   "souhaits": [
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
+      "produit": "LEGO® Star Wars™ 75449 Pack de combat Le Siège de Mandalore",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     },
     {
-      "produit": "skateboard",
-      "categorie": "sport",
+      "produit": "Studio professionnel bougies Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "kalimba",
-      "categorie": "musique",
-      "nombreLames": 17,
+      "produit": "Porteur avec musique Mercedes blanche classe C SUN and SPORT",
+      "categorie": "sport",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6,
-      "couleur": "vert",
+      "produit": "Jeu d'adresse Tour de Contrôle - Pat' Patrouille Spin Master",
+      "categorie": "jeu de société",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ],

@@ -7,21 +7,23 @@
   "ecole": "École de la Pointe-Rouge",
   "souhaits": [
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
-      "nombreTenues": 5,
-      "couleur": "jaune",
+      "produit": "Voiture télécommandée EXOST 360 Cross Flash Rose Exost",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
-      "matiere": "argile",
+      "produit": "Kidisecrets vidéo fashion - Rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 54.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
+      "produit": "Figurine électronique 36 cm - Spider-Man Brand New Day Hasbro",
+      "categorie": "électronique",
       "priorite": 3
     }
   ]

@@ -7,9 +7,10 @@
   "ecole": "École Léon-Jouhaux",
   "souhaits": [
     {
-      "produit": "coffret de pâte à modeler",
-      "categorie": "créatif",
-      "nombrePots": 12,
+      "produit": "Coussin d'activités 2 en 1 Cosy Play Sophie la Girafe Vulli",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

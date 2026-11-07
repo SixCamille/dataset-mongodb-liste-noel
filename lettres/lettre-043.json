@@ -7,32 +7,38 @@
   "ecole": "École Jean-Macé",
   "souhaits": [
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus",
+      "produit": "Labo Potions Buki",
+      "categorie": "sciences et éducatif",
       "priorite": 1
     },
     {
-      "produit": "encyclopédie des volcans",
-      "categorie": "livre",
-      "theme": "sciences",
+      "produit": "11381 - LEGO® Icons - Jaguar E-Type LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
       "priorite": 2
     },
     {
-      "produit": "circuit de billes modulable",
-      "categorie": "construction",
-      "nombrePieces": 120,
+      "produit": "Véhicule + Figurine Stella La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "château miniature",
-      "categorie": "imaginaire",
+      "produit": "Carte pour conteuse d'histoire Yoto Petit Ours Brun : Mes premières sorties",
+      "categorie": "livre et audio",
+      "marque": "Yoto",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 4
     },
     {
-      "produit": "cabane de jardin en toile",
-      "categorie": "plein air",
-      "nombrePlaces": 3,
+      "produit": "J'apprends la musique Diset",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

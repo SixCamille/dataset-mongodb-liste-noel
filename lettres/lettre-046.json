@@ -7,15 +7,17 @@
   "ecole": "École du Moulin-à-Vent",
   "souhaits": [
     {
-      "produit": "jeu de mémoire illustré",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "produit": "Tapis magique à eau Baby Smile",
+      "categorie": "imaginaire",
+      "marque": "Baby Smile",
+      "prix": 14.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "matiere": "bois",
+      "produit": "Cube interactif multi-activités VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
       "priorite": 2
     }
   ]

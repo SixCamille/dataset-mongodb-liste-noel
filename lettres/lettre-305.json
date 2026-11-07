@@ -7,15 +7,18 @@
   "ecole": "École des Arènes",
   "souhaits": [
     {
-      "produit": "maison de poupées",
-      "categorie": "imaginaire",
-      "nombreEtages": 3,
+      "produit": "Labyrinthe Pokémon Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
       "priorite": 1
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "couleur": "rose",
+      "produit": "Pack Lunii Baladeur interactif avec coque de protection nomade",
+      "categorie": "électronique",
+      "marque": "Lunii",
+      "prix": 99.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
       "priorite": 2
     }
   ]

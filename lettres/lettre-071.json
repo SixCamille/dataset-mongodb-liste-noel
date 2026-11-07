@@ -7,15 +7,18 @@
   "ecole": "École des Balmes",
   "souhaits": [
     {
-      "produit": "livre-jeu d'énigmes",
-      "categorie": "livre",
-      "niveau": "8-10 ans",
+      "produit": "Camion transportable avec 10 voitures Motor & Co",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "ukulélé",
-      "categorie": "musique",
-      "taille": "soprano",
+      "produit": "Ordi éducatif bilingue bleu - Genius XL VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

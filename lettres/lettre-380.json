@@ -7,13 +7,17 @@
   "ecole": "École du Mas-du-Taureau",
   "souhaits": [
     {
-      "produit": "harmonica",
-      "categorie": "musique",
+      "produit": "Echiquier électronique et tactile Zig Zag classic",
+      "categorie": "électronique",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
+      "produit": "Mallette de 100 jeux en bois Zig Zag classic",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

@@ -7,13 +7,16 @@
   "ecole": "École de la Krutenau",
   "souhaits": [
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
+      "produit": "Siège auto cosy pour poupon LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
+      "produit": "Shimmer Me Body Art Cool Maker - KPop Demon Hunters Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
       "priorite": 2
     }
   ],

@@ -7,20 +7,20 @@
   "ecole": "École Jules-Guesde",
   "souhaits": [
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "boitier": "antichoc"
+      "produit": "Raiponce et ses cheveux magiques - Diney Jakks Pacific",
+      "categorie": "imaginaire"
     },
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique",
-      "couleur": "rouge"
+      "produit": "72238 - Playmobil Icon Cars - Mercedes-Benz 300 SL PLAYMOBIL",
+      "categorie": "construction",
+      "prix": 19.99,
+      "devise": "EUR",
+      "reference": "72238"
     },
     {
-      "produit": "kit pour fabriquer des bracelets",
-      "categorie": "créatif",
-      "type": "perles"
+      "produit": "Jeu de stratégie Grandpa becks game Skull King Extension",
+      "categorie": "jeu de société",
+      "ageRecommande": 8
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille.",

@@ -7,19 +7,23 @@
   "ecole": "École des Terreaux",
   "souhaits": [
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
-      "mode": "solo",
+      "produit": "Qui est-ce ? Édition World Football Stars Winning Moves",
+      "categorie": "sport",
+      "marque": "Winning Moves",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "déguisement d'astronaute",
-      "categorie": "imaginaire",
+      "produit": "Beyblade X Set de combat Attaque sournoise Hasbro",
+      "categorie": "figurine et collection",
       "priorite": 2
     },
     {
-      "produit": "station météo à construire",
-      "categorie": "sciences",
+      "produit": "43296 - LEGO® Disney - Stitch et Scrump LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "43296",
       "priorite": 3
     }
   ]

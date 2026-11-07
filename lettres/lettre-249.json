@@ -7,19 +7,26 @@
   "ecole": "École du Point-du-Jour",
   "souhaits": [
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "connexion": "USB-C",
-      "couleur": "bleu"
+      "produit": "Mon premier aspirateur d'éveil Fisher Price Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature"
+      "produit": "Figurine Funko Pop Games Silent Hill 2 James Sunderland",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     },
     {
-      "produit": "métier à tisser pour débutant",
-      "categorie": "créatif",
-      "matiere": "bois"
+      "produit": "Ordinateur - Tablette P'tit Genius Touch Vert VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."

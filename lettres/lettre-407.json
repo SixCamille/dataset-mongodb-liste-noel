@@ -7,8 +7,10 @@
   "ecole": "École du Faubourg-de-Hem",
   "souhaits": [
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
+      "produit": "71865 - LEGO® Ninjago - Le combat du dragon de glace de Zane LEGO",
+      "categorie": "construction",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ],

@@ -7,32 +7,45 @@
   "ecole": "École Émile-Zola",
   "souhaits": [
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
-      "nombreExperiences": 8,
+      "produit": "Figurine Funko Pop Games Silent Hill 2 James Sunderland",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     },
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "couleur": "vert",
+      "produit": "Mission Dragon - Jeu d'action Dujardin",
+      "categorie": "jeu de société",
+      "marque": "Dujardin",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
+      "produit": "71656 - Playmobil Junior - Ferme avec tracteur et animaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "71656",
       "priorite": 3
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49,
+      "produit": "Puzzle 3D K-Pop Demon Hunters Basket Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "briques de construction pour créer une cabane",
-      "categorie": "construction",
-      "nombrePieces": 850,
+      "produit": "Croc Dog Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

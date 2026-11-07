@@ -7,26 +7,21 @@
   "ecole": "École du Bourg",
   "souhaits": [
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "connexion": "USB-C",
+      "produit": "Chariot de course avec siège bébé LOVE BEBE",
+      "categorie": "imaginaire",
       "priorite": 1
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49,
-      "couleur": "bleu",
+      "produit": "LEGO® Minecraft® 21276 Le Creeper™",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "ageRecommande": 10,
       "priorite": 2
     },
     {
-      "produit": "station météo à construire",
-      "categorie": "sciences",
-      "mesures": [
-        "température",
-        "pluie",
-        "vent"
-      ],
+      "produit": "Peluche interactive FurReal - Gabby le tigre qui grandit et rugit Just Play",
+      "categorie": "peluche",
+      "marque": "Just Play",
       "priorite": 3
     }
   ]

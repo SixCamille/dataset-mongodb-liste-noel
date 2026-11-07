@@ -7,27 +7,31 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
-      "nombreExperiences": 8,
+      "produit": "Talkie-Walkie Rechargeable - Spider-man Lexibook",
+      "categorie": "imaginaire",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "couleur": "bois naturel",
+      "produit": "Vélo 12 pouces Galaxy SUN and SPORT",
+      "categorie": "sport",
+      "prix": 109.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "couleur": "orange",
+      "produit": "Poupée Barbie coffret maîtresse d'école Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "set de calligraphie",
-      "categorie": "créatif",
-      "niveau": "débutant",
+      "produit": "Grand Garage avec petites voitures Smoby",
+      "categorie": "véhicule",
+      "marque": "Smoby",
       "priorite": 4
     }
   ]

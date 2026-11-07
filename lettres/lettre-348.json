@@ -7,9 +7,11 @@
   "ecole": "École de Lodi",
   "souhaits": [
     {
-      "produit": "harmonica",
-      "categorie": "musique",
-      "couleur": "bois naturel"
+      "produit": "Monopoly Formula 1 Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
+      "prix": 34.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes.",

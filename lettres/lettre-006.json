@@ -7,22 +7,27 @@
   "ecole": "École des Arènes",
   "souhaits": [
     {
-      "produit": "livre de recettes pour enfants",
-      "categorie": "livre"
+      "produit": "Tablette Storio Max XL 2.0 bleue VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 159.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
-      "nombreFeuilles": 100
-    },
-    {
-      "produit": "briques de construction pour créer une cabane",
+      "produit": "72161 - LEGO® Pokémon - SMART Play : Recherche de Mew fabuleux en drone LEGO",
       "categorie": "construction",
-      "nombrePieces": 850
+      "marque": "LEGO",
+      "reference": "72161"
     },
     {
-      "produit": "peluche panda roux",
-      "categorie": "peluche"
+      "produit": "Déguisement luxe Rumi Gold KPop Demon Hunters - 9/10 ans Rubie S",
+      "categorie": "déguisement et action"
+    },
+    {
+      "produit": "Tours de magie 350 tours Zig Zag jeux action",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'adore observer la nature et fabriquer des objets."

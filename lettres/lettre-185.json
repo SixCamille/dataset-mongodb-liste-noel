@@ -7,22 +7,23 @@
   "ecole": "École des Olivettes",
   "souhaits": [
     {
-      "produit": "coffre de déguisements",
+      "produit": "Bateau de pirates - 15 accessoires Invincible Heroes",
       "categorie": "imaginaire",
-      "nombreTenues": 5,
-      "couleur": "turquoise",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur",
+      "produit": "Got five - Jeu de déduction Blue Orange",
+      "categorie": "jeu de société",
       "priorite": 2
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x",
+      "produit": "11504 - LEGO® Botanicals - Les fleurs de lune LEGO",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "11504",
       "priorite": 3
     }
   ]

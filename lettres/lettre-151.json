@@ -7,21 +7,24 @@
   "ecole": "École des Battières",
   "souhaits": [
     {
-      "produit": "kit de fouilles de fossiles",
-      "categorie": "sciences",
-      "theme": "paléontologie",
+      "produit": "Tronçonneuse Funny Home",
+      "categorie": "imaginaire",
+      "prix": 9.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth",
+      "produit": "L'atelier des stylos - Harry Potter Clementoni",
+      "categorie": "créatif",
       "priorite": 2
     },
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
-      "grossissement": "8x",
+      "produit": "Figurine Funko Pop Animation Yu-Gi-Oh Blue-Eyes White Dragon Card",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     }
   ]

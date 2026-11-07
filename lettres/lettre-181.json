@@ -7,27 +7,36 @@
   "ecole": "École des Terreaux",
   "souhaits": [
     {
-      "produit": "skateboard",
-      "categorie": "sport",
-      "couleur": "jaune",
+      "produit": "Little People - La Ferme Grange et Silo Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "ukulélé",
-      "categorie": "musique",
-      "couleur": "vert",
+      "produit": "Porteur moto de course SUN and SPORT",
+      "categorie": "véhicule",
+      "marque": "SUN and SPORT",
+      "prix": 44.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "briques de construction pour créer une cabane",
+      "produit": "72154 - LEGO Pokémon - Poké Ball Moments culte de Dresseur LEGO",
       "categorie": "construction",
-      "nombrePieces": 850,
+      "marque": "LEGO",
+      "prix": 239.99,
+      "devise": "EUR",
+      "reference": "72154",
       "priorite": 3
     },
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
-      "nombreExperiences": 8,
+      "produit": "Dobble Kpop Demon Hunters Asmodée",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 16.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

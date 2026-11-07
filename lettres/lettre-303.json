@@ -7,13 +7,19 @@
   "ecole": "École des Chartrons",
   "souhaits": [
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
-      "couleur": "jaune"
+      "produit": "Studio de mode lumineux Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 24.99,
+      "devise": "EUR"
     },
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature"
+      "produit": "LEGO® Creator 31170 Animaux sauvages : le flamant rose",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 20.99,
+      "devise": "EUR",
+      "ageRecommande": 8
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes."

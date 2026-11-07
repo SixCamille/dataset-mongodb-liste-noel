@@ -7,14 +7,15 @@
   "ecole": "École des Sapins",
   "souhaits": [
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
+      "produit": "Atelier bougies sables Sentosphere",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true,
+      "produit": "Figurine 11 cm et buggy - Spider-Man Brand New Day Hasbro",
+      "categorie": "figurine et collection",
       "priorite": 2
     }
   ]

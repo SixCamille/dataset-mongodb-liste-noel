@@ -7,24 +7,31 @@
   "ecole": "École Émile-Zola",
   "souhaits": [
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx"
+      "produit": "Mâche-Mots Enfants Contre Parents Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming"
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49,
-      "couleur": "rouge"
+      "produit": "Figurine Mega Mutators MrBeast - Panthère Moose Toys",
+      "categorie": "figurine et collection",
+      "marque": "Moose Toys",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature"
+      "produit": "Grand Garage avec petites voitures Smoby",
+      "categorie": "véhicule",
+      "marque": "Smoby",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus"
+      "produit": "71524 - Playmobil Dinos - Explorateur avec moto et tyrannosaure PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71524"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes."

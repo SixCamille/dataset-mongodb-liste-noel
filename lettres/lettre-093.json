@@ -7,28 +7,35 @@
   "ecole": "École des Terreaux",
   "souhaits": [
     {
-      "produit": "cabane de jardin en toile",
-      "categorie": "plein air",
-      "couleur": "bois naturel"
+      "produit": "Bumper Drone Lite Flybotic Flybotic",
+      "categorie": "véhicule"
     },
     {
-      "produit": "garage avec petites voitures",
-      "categorie": "imaginaire",
-      "nombreNiveaux": 4,
-      "couleur": "jaune"
-    },
-    {
-      "produit": "robot solaire à monter",
+      "produit": "71865 - LEGO® Ninjago - Le combat du dragon de glace de Zane LEGO",
       "categorie": "construction",
-      "alimentation": "solaire"
+      "marque": "LEGO",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71865"
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche"
+      "produit": "Play-Doh Donut Drop Shop Play Doh",
+      "categorie": "imaginaire",
+      "marque": "Play-Doh",
+      "prix": 22.99,
+      "devise": "EUR"
     },
     {
-      "produit": "microphone de karaoké",
-      "categorie": "musique"
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters Mira",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Hot dog drop - Jeu de réflèxe Jazwares",
+      "categorie": "jeu de société"
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis."

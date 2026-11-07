@@ -7,26 +7,29 @@
   "ecole": "École des Chalets",
   "souhaits": [
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
-      "matiere": "bois",
+      "produit": "Jeu d'ambiance Gigamic Machu Pichu",
+      "categorie": "jeu de société",
+      "marque": "Gigamic",
+      "ageRecommande": 8,
       "priorite": 1
     },
     {
-      "produit": "roman d'aventures dans l'espace",
-      "categorie": "livre",
-      "format": "broché",
+      "produit": "Circuit Ultimate Garage T-Rex Hot Wheels Mattel",
+      "categorie": "véhicule",
       "priorite": 2
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur",
+      "produit": "72423 - LEGO® Shrek - Shrek, l’Âne et le Chat Potté LEGO",
+      "categorie": "construction",
+      "reference": "72423",
       "priorite": 3
     },
     {
-      "produit": "jeu coopératif de sauvetage",
-      "categorie": "jeu de société",
+      "produit": "Coffret baladeur musical et console interactive - Bluey VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 36.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

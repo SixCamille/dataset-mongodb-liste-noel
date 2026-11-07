@@ -7,25 +7,34 @@
   "ecole": "École de la Guillotière",
   "souhaits": [
     {
-      "produit": "tablette lumineuse de dessin",
-      "categorie": "numérique",
-      "format": "A4",
+      "produit": "Coffret Mini Brands Kawaii Kitchen (modèles aléatoires)Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "microphone de karaoké",
-      "categorie": "musique",
+      "produit": "Mon bébé koala - Little Live Pets Moose Toys",
+      "categorie": "peluche",
+      "marque": "Moose Toys",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "couleur": "jaune",
+      "produit": "Piscine à balles Sophie la Girafe Vulli",
+      "categorie": "plein air et nature",
+      "prix": 35.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "encyclopédie des volcans",
-      "categorie": "livre",
+      "produit": "Gecko Phosphorescent Radiocommandé Hex Bots Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 26.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

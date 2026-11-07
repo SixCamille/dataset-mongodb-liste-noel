@@ -7,8 +7,10 @@
   "ecole": "École du Moulin-à-Vent",
   "souhaits": [
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
+      "produit": "Coffret tête à coiffer Wildstar - L'école Des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

@@ -7,8 +7,10 @@
   "ecole": "École Anatole-France",
   "souhaits": [
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
+      "produit": "Télescope super HD Microplanet",
+      "categorie": "imaginaire",
+      "prix": 79.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

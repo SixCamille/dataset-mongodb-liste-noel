@@ -7,9 +7,10 @@
   "ecole": "École du Vieux-Marché",
   "souhaits": [
     {
-      "produit": "figurines de dinosaures",
-      "categorie": "imaginaire",
-      "couleur": "noir"
+      "produit": "Projecter de dessin - La Reine des Neiges AS Company",
+      "categorie": "créatif",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."

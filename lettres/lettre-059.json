@@ -7,33 +7,38 @@
   "ecole": "École de Lodi",
   "souhaits": [
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx",
+      "produit": "Voiture télécommandée 4x4 rapide et tout-terrain Motor & Co R/C",
+      "categorie": "véhicule",
       "priorite": 1
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "taille": "32 cm",
+      "produit": "71857 - Playmobil Volkswagen T1 Combi PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "reference": "71857",
       "priorite": 2
     },
     {
-      "produit": "set de calligraphie",
-      "categorie": "créatif",
-      "niveau": "débutant",
-      "couleur": "bleu",
+      "produit": "Calendrier de l'Avent Deluxe Littlest Pet Shop 2026 Bandai",
+      "categorie": "imaginaire",
+      "marque": "Bandai",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "sac à dos de randonnée",
-      "categorie": "plein air",
-      "capacite": "18 L",
+      "produit": "Livre interactif de comptines Fisher Price",
+      "categorie": "électronique",
+      "marque": "Fisher Price",
+      "prix": 16.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "briques de construction pour créer une cabane",
-      "categorie": "construction",
+      "produit": "Trottinette 3 Roues Pliable Disney Minnie STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

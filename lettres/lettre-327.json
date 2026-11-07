@@ -7,29 +7,40 @@
   "ecole": "École Jean-Macé",
   "souhaits": [
     {
-      "produit": "cabane de jardin en toile",
-      "categorie": "plein air",
-      "nombrePlaces": 3
+      "produit": "Pic Pirate Stitch Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 22.99,
+      "devise": "EUR"
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "couleur": "bois naturel"
+      "produit": "Magi’TV des découvertes VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "boîte de Kapla",
+      "produit": "Coffret sac et poupée Disney Minnie Just Play",
+      "categorie": "poupée",
+      "marque": "Just Play",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "11381 - LEGO® Icons - Jaguar E-Type LEGO",
       "categorie": "construction",
-      "matiere": "bois",
-      "couleur": "rouge"
+      "marque": "LEGO",
+      "prix": 129.99,
+      "devise": "EUR",
+      "reference": "11381"
     },
     {
-      "produit": "garage avec petites voitures",
-      "categorie": "imaginaire"
-    },
-    {
-      "produit": "panier de basket réglable",
-      "categorie": "sport",
-      "usage": "extérieur"
+      "produit": "Cartes-histoires 101Dalmacien conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
+      "prix": 14.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime beaucoup dessiner après l'école."

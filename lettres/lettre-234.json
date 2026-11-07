@@ -7,28 +7,35 @@
   "ecole": "École de la Guillotière",
   "souhaits": [
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true
+      "produit": "Deguisement Pompier + accesoires 3/6 ans - Melissa&Doug Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master"
     },
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature"
+      "produit": "Figurine Funko Pop Animation Delicious in Dungeon Laios with Chase Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     },
     {
-      "produit": "kit de fouilles de fossiles",
-      "categorie": "sciences",
-      "theme": "paléontologie"
-    },
-    {
-      "produit": "LEGO fleurs",
+      "produit": "LEGO® Minecraft® 21588 Le Renard",
       "categorie": "construction",
-      "collection": "botanique"
+      "marque": "LEGO",
+      "prix": 34.99,
+      "devise": "EUR",
+      "ageRecommande": 10
     },
     {
-      "produit": "kit d'observation des insectes",
-      "categorie": "plein air",
-      "loupe": true
+      "produit": "Tablette lumineuse 3 en 1 Professional Studio Buki",
+      "categorie": "électronique",
+      "marque": "Buki"
+    },
+    {
+      "produit": "Panneau de basket électronique mural avec ballon SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT"
     }
   ],
   "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."

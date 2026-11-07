@@ -7,19 +7,23 @@
   "ecole": "École de Wazemmes",
   "souhaits": [
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature"
+      "produit": "Croc' Dentiste Hasbro Gaming",
+      "categorie": "imaginaire",
+      "prix": 21.99,
+      "devise": "EUR"
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "matiere": "bois",
-      "couleur": "bleu"
+      "produit": "KPop Demon Hunters - Poupée chantante Zoey Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 36.99,
+      "devise": "EUR"
     },
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "boitier": "antichoc"
+      "produit": "Coffret de maquillage Make-up artiste Miss Fashion",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis."

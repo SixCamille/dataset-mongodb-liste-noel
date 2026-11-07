@@ -7,25 +7,33 @@
   "ecole": "École du Vieux-Lille",
   "souhaits": [
     {
-      "produit": "raquette de badminton",
-      "categorie": "sport",
-      "niveau": "débutant"
+      "produit": "Blokus classic Mattel Games",
+      "categorie": "imaginaire",
+      "marque": "Mattel",
+      "prix": 26.99,
+      "devise": "EUR"
     },
     {
-      "produit": "encyclopédie des volcans",
-      "categorie": "livre",
-      "theme": "sciences"
+      "produit": "Ordinateur - Tablette P'tit Genius Touch Vert VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49
+      "produit": "LEGO® Botanicals 11508 Marguerites",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 9
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "violet"
+      "produit": "Jumelles vidéo interactives Genius XL VTech",
+      "categorie": "sciences et éducatif",
+      "marque": "VTech",
+      "prix": 69.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."

@@ -7,19 +7,23 @@
   "ecole": "École de la Pointe-Rouge",
   "souhaits": [
     {
-      "produit": "globe terrestre lumineux",
-      "categorie": "sciences",
-      "diametre": "25 cm"
+      "produit": "Cartes-histoires Roi Lion conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6
+      "produit": "Mon bébé koala - Little Live Pets Moose Toys",
+      "categorie": "peluche",
+      "marque": "Moose Toys"
     },
     {
-      "produit": "jeu de cartes rapide",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "3 à 6"
+      "produit": "Bitzee Aquarium Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master",
+      "prix": 34.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis."

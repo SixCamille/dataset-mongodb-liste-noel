@@ -7,20 +7,26 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
+      "produit": "Rush Hour Ravensburger",
+      "categorie": "imaginaire",
+      "marque": "Ravensburger",
+      "prix": 18.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
+      "produit": "Coffret sac et poupée Disney Minnie Just Play",
+      "categorie": "poupée",
+      "marque": "Just Play",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
-      "matiere": "bois",
+      "produit": "Science et Jeu - L'observatoire des insectes Clementoni",
+      "categorie": "jeu de société",
+      "prix": 22.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

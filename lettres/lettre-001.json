@@ -7,22 +7,27 @@
   "ecole": "École de la Roquette",
   "souhaits": [
     {
-      "produit": "marionnettes d'animaux",
+      "produit": "Maman et bébé Scruff A Luvs - Pomponne ton animal Moose Toys",
       "categorie": "imaginaire",
-      "nombreMarionnettes": 6,
+      "marque": "Moose Toys",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "encyclopédie des volcans",
-      "categorie": "livre",
-      "theme": "sciences",
+      "produit": "75460 - LEGO® Star Wars - Le X-Wing Starfighter™ de la Nouvelle République LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 69.99,
+      "devise": "EUR",
+      "reference": "75460",
       "priorite": 2
     },
     {
-      "produit": "raquette de badminton",
-      "categorie": "sport",
-      "niveau": "débutant",
-      "couleur": "rouge",
+      "produit": "Véhicule + Figurine Marcus La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

@@ -7,25 +7,28 @@
   "ecole": "École du Point-du-Jour",
   "souhaits": [
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur",
-      "couleur": "rouge"
+      "produit": "Professional Studio Hair Buki",
+      "categorie": "imaginaire"
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1
+      "produit": "72423 - LEGO® Shrek - Shrek, l’Âne et le Chat Potté LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 119.99,
+      "devise": "EUR",
+      "reference": "72423"
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true
+      "produit": "Circuit de course avec 2 voitures télécommandées Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "taille": "45 cm"
+      "produit": "Mallette artistique Deluxe en bois 180 pièces Creamania art",
+      "categorie": "créatif",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime lire au calme avant de dormir."

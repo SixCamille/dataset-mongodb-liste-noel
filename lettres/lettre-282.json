@@ -7,9 +7,10 @@
   "ecole": "École Pierre-et-Marie-Curie",
   "souhaits": [
     {
-      "produit": "maquette de fusée à assembler",
-      "categorie": "construction",
-      "niveau": "intermédiaire"
+      "produit": "Jeu de stratégie Grandpa becks game Skull King Extension",
+      "categorie": "jeu de société",
+      "prix": 8.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

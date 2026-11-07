@@ -7,20 +7,24 @@
   "ecole": "École des Chartrons",
   "souhaits": [
     {
-      "produit": "déguisement d'astronaute",
+      "produit": "Valentina et Cinder ailes magiques - L'École des Licornes Spin Master",
       "categorie": "imaginaire",
-      "taille": "8 ans",
-      "couleur": "jaune"
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature"
+      "produit": "Le bateau de croisière de Bluey Moose Toys",
+      "categorie": "imaginaire",
+      "marque": "Moose Toys",
+      "prix": 59.99,
+      "devise": "EUR"
     },
     {
-      "produit": "panier de basket réglable",
-      "categorie": "sport",
-      "usage": "extérieur",
-      "couleur": "rose"
+      "produit": "Garage Tower 5 étages avec 10 voitures 75 cm Motor & Co",
+      "categorie": "véhicule",
+      "prix": 49.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'adore observer la nature et fabriquer des objets."

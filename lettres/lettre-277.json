@@ -7,33 +7,40 @@
   "ecole": "École Pierre-et-Marie-Curie",
   "souhaits": [
     {
-      "produit": "kit d'observation des insectes",
-      "categorie": "plein air",
-      "loupe": true,
-      "couleur": "rouge",
+      "produit": "Peluche Ma Loutre Câlins Bonne Nuit Fisher Price Fisher Price",
+      "categorie": "peluche",
       "priorite": 1
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus",
+      "produit": "Talking buzz - Figurine 30cm - Toy story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
+      "produit": "Maxi tapis Aquadoodle arc en ciel fluo Tomy",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "encyclopédie des volcans",
-      "categorie": "livre",
+      "produit": "Qui est-ce ? Édition World Football Stars Winning Moves",
+      "categorie": "sport",
+      "marque": "Winning Moves",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "orange",
+      "produit": "71857 - Playmobil Volkswagen T1 Combi PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 19.99,
+      "devise": "EUR",
+      "reference": "71857",
       "priorite": 5
     }
   ]

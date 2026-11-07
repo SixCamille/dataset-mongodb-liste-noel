@@ -7,15 +7,17 @@
   "ecole": "École des Églantines",
   "souhaits": [
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6,
+      "produit": "Magi’TV des découvertes VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
-      "limiteurVolume": true,
+      "produit": "Coffret Tonieplay Tonies Le grand quiz Disney",
+      "categorie": "livre et audio",
+      "ageRecommande": 5,
       "priorite": 2
     }
   ]

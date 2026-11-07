@@ -7,16 +7,20 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "jeu de construction magnétique",
-      "categorie": "construction",
-      "nombrePieces": 64,
-      "couleur": "bleu",
+      "produit": "Studio de tatouages professionnel Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus",
+      "produit": "Casse-tête Iello Le Coupable est… Carnivore!",
+      "categorie": "puzzle",
+      "marque": "Iello",
+      "prix": 15.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 2
     }
   ]

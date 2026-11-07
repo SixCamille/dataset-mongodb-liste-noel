@@ -7,22 +7,22 @@
   "ecole": "École du Mas-du-Taureau",
   "souhaits": [
     {
-      "produit": "mallette d'aquarelle",
-      "categorie": "créatif",
-      "nombreCouleurs": 24,
+      "produit": "Mirror Mi - Poupée Mannequin Akiko Kittyama 27cm Mga",
+      "categorie": "poupée",
       "priorite": 1
     },
     {
-      "produit": "kit d'observation des insectes",
-      "categorie": "plein air",
-      "loupe": true,
+      "produit": "Trottinette 3 roues pliable Pat'Patrouille STAMP",
+      "categorie": "sport",
       "priorite": 2
     },
     {
-      "produit": "boîte de Kapla",
+      "produit": "21597 - LEGO® Minecraft - La station de Ghast LEGO",
       "categorie": "construction",
-      "matiere": "bois",
-      "couleur": "jaune",
+      "marque": "LEGO",
+      "prix": 99.99,
+      "devise": "EUR",
+      "reference": "21597",
       "priorite": 3
     }
   ],

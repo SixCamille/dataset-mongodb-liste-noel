@@ -7,18 +7,23 @@
   "ecole": "École des Marronniers",
   "souhaits": [
     {
-      "produit": "télescope d'initiation",
-      "categorie": "sciences"
+      "produit": "Lit superposé en bois 50 cm LOVE BEBE",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5"
+      "produit": "Poupée Gabby A Fonctions Fairylandia - Gabby et la Maison Magique Spin Master",
+      "categorie": "poupée",
+      "marque": "Spin Master"
     },
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "couleur": "noir"
+      "produit": "Jeu d'ambiance Gigamic Machu Pichu",
+      "categorie": "jeu de société",
+      "marque": "Gigamic",
+      "prix": 13.99,
+      "devise": "EUR",
+      "ageRecommande": 8
     }
   ],
   "commentaire": "J'adore observer la nature et fabriquer des objets."

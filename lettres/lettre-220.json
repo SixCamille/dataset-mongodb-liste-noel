@@ -7,34 +7,39 @@
   "ecole": "École des Chalets",
   "souhaits": [
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
-      "couleur": "vert",
+      "produit": "Tamagotchi Paradise - Frozen Bandai",
+      "categorie": "figurine et collection",
+      "marque": "Bandai",
       "priorite": 1
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x",
+      "produit": "Circuit à billes magnétiques Marble Rush - Dino Adventures Magnetic Set XL400E VTech",
+      "categorie": "construction",
+      "marque": "VTech",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "couleur": "violet",
+      "produit": "Coffret créatif Aqua Gelz Deluxe Simba Dickie",
+      "categorie": "créatif",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé",
-      "couleur": "violet",
+      "produit": "Music’Kid Karaoké bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique",
+      "produit": "Voitures majorette Golf GTI Majorette",
+      "categorie": "véhicule",
+      "prix": 17.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ],

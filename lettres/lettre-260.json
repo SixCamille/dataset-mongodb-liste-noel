@@ -7,19 +7,23 @@
   "ecole": "École de Lodi",
   "souhaits": [
     {
-      "produit": "station météo à construire",
-      "categorie": "sciences",
+      "produit": "Jenga Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
       "priorite": 1
     },
     {
-      "produit": "jeu de mémoire illustré",
+      "produit": "Flip 7 Blackrock",
       "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "prix": 14.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
+      "produit": "Figurine Shadow et moto - Film Sonic 3 Jakks Pacific",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

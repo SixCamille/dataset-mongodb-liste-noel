@@ -7,9 +7,11 @@
   "ecole": "École de Lodi",
   "souhaits": [
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "matiere": "bois",
+      "produit": "71530 - Playmobil Pirates - Bateau Pirates PLAYMOBIL",
+      "categorie": "construction",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "71530",
       "priorite": 1
     }
   ]

@@ -7,27 +7,31 @@
   "ecole": "École du Point-du-Jour",
   "souhaits": [
     {
-      "produit": "jeu coopératif de sauvetage",
-      "categorie": "jeu de société",
+      "produit": "Chariot garni et caisse enregistreuse Ecoiffier",
+      "categorie": "imaginaire",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
-      "nombreTenues": 5,
+      "produit": "Lolly Dogs - Jeu de société enfant Blue Orange",
+      "categorie": "jeu de société",
       "priorite": 2
     },
     {
-      "produit": "kalimba",
-      "categorie": "musique",
-      "nombreLames": 17,
+      "produit": "Ma peluche parlante à intelligence artificielle Elo Yeno Lexibook",
+      "categorie": "peluche",
+      "marque": "Lexibook",
+      "prix": 99.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu de construction magnétique",
-      "categorie": "construction",
-      "nombrePieces": 64,
-      "couleur": "violet",
+      "produit": "Aquabeads - 35087 - L'Atelier d'initiation Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

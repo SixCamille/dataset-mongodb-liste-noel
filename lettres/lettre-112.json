@@ -7,16 +7,16 @@
   "ecole": "École Saint-Seurin",
   "souhaits": [
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "boitier": "antichoc",
-      "couleur": "bois naturel",
+      "produit": "Bulldozer de sauvetage Ruben La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "recueil de mythologie grecque",
-      "categorie": "livre",
-      "illustrations": true,
+      "produit": "Poupée Rainbow High Pretty in Paris - Bella Parker Mga",
+      "categorie": "poupée",
       "priorite": 2
     }
   ]

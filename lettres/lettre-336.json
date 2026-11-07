@@ -7,33 +7,38 @@
   "ecole": "École des Gantelles",
   "souhaits": [
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "graines": [
-        "basilic",
-        "tomate",
-        "capucine"
-      ],
-      "couleur": "noir"
+      "produit": "Tablette éducative Lillipad Toy Story 5 VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique"
+      "produit": "Voiture radiocommandée Barbie City Mondo Motors",
+      "categorie": "poupée",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "kit d'observation des insectes",
-      "categorie": "plein air",
-      "loupe": true
+      "produit": "Magnéti'book - Les animaux Janod",
+      "categorie": "imaginaire",
+      "marque": "Janod",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus"
+      "produit": "Set de construction CaDA - Bains japonais (1249 pièces)CaDA",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "taille": "32 cm"
+      "produit": "Figurine Tonies Les copains du dodo Doudou Caneton",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     }
   ],
   "commentaire": "Mon activité préférée est de créer avec mes mains."

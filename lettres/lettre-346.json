@@ -7,15 +7,17 @@
   "ecole": "École de la Krutenau",
   "souhaits": [
     {
-      "produit": "jeu coopératif de sauvetage",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "produit": "Voitures majorette Golf GTI Majorette",
+      "categorie": "véhicule",
+      "prix": 17.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
-      "matiere": "bois",
+      "produit": "La magie d'Eric Antoine Oid Magic",
+      "categorie": "imaginaire",
+      "prix": 26.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

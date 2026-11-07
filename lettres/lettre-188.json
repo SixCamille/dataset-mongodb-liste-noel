@@ -7,26 +7,33 @@
   "ecole": "École des Orangers",
   "souhaits": [
     {
-      "produit": "jeu coopératif de sauvetage",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "produit": "Tableau Évolutif 2-en-1 Creamania",
+      "categorie": "imaginaire",
+      "prix": 44.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "figurines de dinosaures",
-      "categorie": "imaginaire",
+      "produit": "Calendrier de l'avent Horse Club Schleich",
+      "categorie": "figurine et collection",
+      "marque": "Schleich",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "kit pour fabriquer des bracelets",
-      "categorie": "créatif",
-      "type": "perles",
+      "produit": "77264 - LEGO® Speed Champions - La Jaguar Project 7 et le Land Rover Defender LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "77264",
       "priorite": 3
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true,
+      "produit": "Dressing Deluxe Style de Barbie Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
       "priorite": 4
     }
   ]

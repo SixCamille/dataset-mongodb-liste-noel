@@ -7,24 +7,27 @@
   "ecole": "École de la Pointe-Rouge",
   "souhaits": [
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm"
+      "produit": "Flip 7 Blackrock",
+      "categorie": "jeu de société"
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6
+      "produit": "Mallette De Construction 793g - Kinetic Sand Spin Master",
+      "categorie": "construction",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur"
+      "produit": "Aquabeads - 31774 - La box Super Mario Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads"
     },
     {
-      "produit": "trottinette",
-      "categorie": "sport",
-      "couleur": "turquoise"
+      "produit": "Rush Hour Ravensburger",
+      "categorie": "imaginaire",
+      "marque": "Ravensburger",
+      "prix": 18.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes."

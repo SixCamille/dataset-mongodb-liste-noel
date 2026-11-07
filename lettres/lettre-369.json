@@ -7,14 +7,19 @@
   "ecole": "École du Vieux-Marché",
   "souhaits": [
     {
-      "produit": "marionnettes d'animaux",
-      "categorie": "imaginaire"
+      "produit": "Sylvanian Families - 5567 - Le cosy cottage Sylvanian Families",
+      "categorie": "imaginaire",
+      "marque": "Sylvanian Families",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "connexion": "USB-C",
-      "couleur": "violet"
+      "produit": "Jeu d’ambiance Asmodee Miams",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 17.99,
+      "devise": "EUR",
+      "ageRecommande": 10
     }
   ],
   "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."

@@ -7,22 +7,25 @@
   "ecole": "École de l'Île-Barbe",
   "souhaits": [
     {
-      "produit": "livre-jeu d'énigmes",
-      "categorie": "livre",
-      "niveau": "8-10 ans",
+      "produit": "Clavier 37 touches rose avec son micro Music Star",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "mallette d'aquarelle",
+      "produit": "Aquabeads - 35087 - L'Atelier d'initiation Aquabeads",
       "categorie": "créatif",
-      "nombreCouleurs": 24,
-      "couleur": "bleu",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
-      "mode": "solo",
+      "produit": "Figurine Funko Pop Movies Fast & Furious Dom Toretto",
+      "categorie": "figurine et collection",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     }
   ]

@@ -7,9 +7,12 @@
   "ecole": "École des Terreaux",
   "souhaits": [
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus",
+      "produit": "LEGO® Minifigures 71053 Série Shrek",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 3.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     }
   ]

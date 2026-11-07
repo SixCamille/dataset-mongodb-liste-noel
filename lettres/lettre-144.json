@@ -7,18 +7,17 @@
   "ecole": "École Jules-Guesde",
   "souhaits": [
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "taille": "30 cm"
+      "produit": "Jeu d’ambiance Blackrock Games Dingo Disc Edition 2025",
+      "categorie": "jeu de société",
+      "marque": "Blackrock Games",
+      "ageRecommande": 5
     },
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ]
+      "produit": "72011 – Playmobil – Fusée d’exploration sur Mars ESA PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 49.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

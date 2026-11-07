@@ -7,16 +7,18 @@
   "ecole": "École de la Pointe-Rouge",
   "souhaits": [
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé",
-      "couleur": "turquoise",
+      "produit": "Enceinte musicale Bluetooth et lumières groove disco Music Star",
+      "categorie": "électronique",
+      "prix": 69.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "ukulélé",
-      "categorie": "musique",
-      "taille": "soprano",
+      "produit": "Explodapede Centipede Hex Bots Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ],

@@ -7,15 +7,17 @@
   "ecole": "École du Capitole",
   "souhaits": [
     {
-      "produit": "trottinette",
-      "categorie": "sport",
-      "pliable": true,
-      "couleur": "bois naturel",
+      "produit": "Réveil Stitch - Figurine lumineuse Lexibook",
+      "categorie": "figurine et collection",
+      "marque": "Lexibook",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "kit de fouilles de fossiles",
-      "categorie": "sciences",
+      "produit": "Super caserne de pompiers interactive - Tut Tut Bolides Série Pro VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
       "priorite": 2
     }
   ]

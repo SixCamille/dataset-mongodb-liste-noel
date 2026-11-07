@@ -7,28 +7,31 @@
   "ecole": "École du Sanitas",
   "souhaits": [
     {
-      "produit": "roman d'aventures dans l'espace",
-      "categorie": "livre",
-      "format": "broché",
+      "produit": "Coffret de figurines Rumi et Jinu-avec bipa - KPop Demon Hunters Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "cabane de jardin en toile",
-      "categorie": "plein air",
-      "nombrePlaces": 3,
-      "couleur": "noir",
+      "produit": "Talkies Walkies Kidi Talkie Explorer VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x",
+      "produit": "L'atelier des stylos - Harry Potter Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
       "priorite": 3
     },
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 5",
+      "produit": "Drone radiocommandé Air Vision HD Silverlit",
+      "categorie": "véhicule",
+      "marque": "Silverlit",
       "priorite": 4
     }
   ]

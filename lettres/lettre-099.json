@@ -7,17 +7,24 @@
   "ecole": "École de la Roquette",
   "souhaits": [
     {
-      "produit": "cajón compact",
-      "categorie": "musique"
+      "produit": "Je découvre les émotions Nathan Jeux",
+      "categorie": "imaginaire",
+      "marque": "Nathan",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth"
+      "produit": "Déguisement luxe Rumi Gold KPop Demon Hunters - 11/13 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "set de calligraphie",
-      "categorie": "créatif"
+      "produit": "Globe vidéo interactif Genius XL VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 119.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes."

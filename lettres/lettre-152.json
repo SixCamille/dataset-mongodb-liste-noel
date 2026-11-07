@@ -7,31 +7,42 @@
   "ecole": "École Notre-Dame-du-Mont",
   "souhaits": [
     {
-      "produit": "robot solaire à monter",
-      "categorie": "construction",
-      "alimentation": "solaire",
+      "produit": "Mâche-Mots Enfants Contre Parents Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
       "priorite": 1
     },
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
+      "produit": "60497 - LEGO® City - La station de lavage automatique LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "60497",
       "priorite": 2
     },
     {
-      "produit": "station météo à construire",
-      "categorie": "sciences",
+      "produit": "Robot main hydraulique Buki",
+      "categorie": "électronique",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "carnet de dessin à couverture rigide",
-      "categorie": "créatif",
-      "format": "A4",
-      "couleur": "rose",
+      "produit": "Figurine Tonies Cars 2",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 4,
       "priorite": 4
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
+      "produit": "Casque de pompier et accessoires de déguisement Invincible Heroes",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

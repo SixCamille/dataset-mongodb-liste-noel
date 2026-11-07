@@ -7,25 +7,35 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
+      "produit": "Robot dinosaure télécommandé smart - 54 cm Motor & Co R/C",
+      "categorie": "véhicule",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
+      "produit": "10698 - LEGO® Classic - Boîte de briques créatives deluxe LEGO",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "10698",
       "priorite": 2
     },
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
-      "grossissement": "8x",
+      "produit": "Coffret Tonieplay Tonies Le grand quiz Disney",
+      "categorie": "livre et audio",
+      "marque": "Tonies",
+      "prix": 34.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
       "priorite": 3
     },
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 5",
+      "produit": "Centre multisport interactif VTech",
+      "categorie": "sport",
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

@@ -7,14 +7,15 @@
   "ecole": "École Émile-Zola",
   "souhaits": [
     {
-      "produit": "marionnettes d'animaux",
-      "categorie": "imaginaire",
-      "nombreMarionnettes": 6
+      "produit": "Coffret baladeur musical et console interactive - Bluey VTech",
+      "categorie": "électronique",
+      "marque": "VTech"
     },
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "boitier": "antichoc"
+      "produit": "Camion excavatrice avec lumières et sons Motor & Co",
+      "categorie": "véhicule",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime beaucoup dessiner après l'école."

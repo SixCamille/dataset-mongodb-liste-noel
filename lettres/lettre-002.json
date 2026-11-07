@@ -7,33 +7,40 @@
   "ecole": "École du Parc-Impérial",
   "souhaits": [
     {
-      "produit": "globe terrestre lumineux",
-      "categorie": "sciences",
-      "diametre": "25 cm",
+      "produit": "Figurine Disney Grand Jester Mini Stitch et Angel Sachet Mystère 6 Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Disney",
+      "ageRecommande": 6,
       "priorite": 1
     },
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
-      "nombreFeuilles": 100,
-      "couleur": "bois naturel",
+      "produit": "Poupon électronique Stitch - Blond Jakks Pacific",
+      "categorie": "poupée",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "briques de construction pour créer une cabane",
-      "categorie": "construction",
+      "produit": "Ava et Leaf Ailes Magiques - L'école Des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
-      "matiere": "bois",
+      "produit": "Pic'Pirate Gold Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 14.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "garage avec petites voitures",
-      "categorie": "imaginaire",
-      "nombreNiveaux": 4,
+      "produit": "Voiture de course Radiocommandée Tom Race Chicco",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

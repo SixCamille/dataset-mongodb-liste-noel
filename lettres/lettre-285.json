@@ -7,19 +7,24 @@
   "ecole": "École du Chemin-Vert",
   "souhaits": [
     {
-      "produit": "figurines de dinosaures",
-      "categorie": "imaginaire",
-      "nombreFigurines": 12
+      "produit": "Jeu classique Monopoly Refresh",
+      "categorie": "jeu de société",
+      "marque": "Monopoly",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 8
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6
+      "produit": "Grand Garage avec petites voitures Smoby",
+      "categorie": "véhicule",
+      "marque": "Smoby"
     },
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
-      "couleur": "noir"
+      "produit": "Tablette Storio Max XL 2.0 bleue VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 159.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."

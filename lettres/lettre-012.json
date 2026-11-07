@@ -7,14 +7,17 @@
   "ecole": "École des Beaux-Arts",
   "souhaits": [
     {
-      "produit": "kalimba",
-      "categorie": "musique",
-      "nombreLames": 17
+      "produit": "Bourricot Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR"
     },
     {
-      "produit": "jeu de cartes rapide",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "3 à 6"
+      "produit": "Train avec circuit électrique High-Speed Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Mon activité préférée est de créer avec mes mains."

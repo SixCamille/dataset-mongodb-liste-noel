@@ -7,28 +7,36 @@
   "ecole": "École des Beaux-Arts",
   "souhaits": [
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1
+      "produit": "Poupon Bébé Calin Margaux Forêt 30cm Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "carnet de dessin à couverture rigide",
+      "produit": "Studio créations Slimy Stitch Lexibook",
       "categorie": "créatif",
-      "format": "A4"
+      "marque": "Lexibook",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters S2 Zoey",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique"
+      "produit": "Circuit Pat'Patrouille 2,9m - Carrera Go Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "cabane de jardin en toile",
-      "categorie": "plein air",
-      "nombrePlaces": 3
+      "produit": "Table de nursery avec accessoires Ecoiffier",
+      "categorie": "imaginaire"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes."

@@ -7,19 +7,27 @@
   "ecole": "École des Sapins",
   "souhaits": [
     {
-      "produit": "jeu de parcours écologique",
+      "produit": "Jeu de stratégie Asmodee Take Time",
       "categorie": "jeu de société",
-      "theme": "nature"
+      "marque": "Asmodée",
+      "prix": 22.99,
+      "devise": "EUR",
+      "ageRecommande": 10
     },
     {
-      "produit": "livre de recettes pour enfants",
-      "categorie": "livre",
-      "niveau": "facile"
+      "produit": "LEGO® Star Wars™ 75449 Pack de combat Le Siège de Mandalore",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     },
     {
-      "produit": "figurines de dinosaures",
+      "produit": "Métier à tisser Loop de doo Goliath",
       "categorie": "imaginaire",
-      "couleur": "rouge"
+      "marque": "Goliath",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes."

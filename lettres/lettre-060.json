@@ -7,20 +7,24 @@
   "ecole": "École des Bourroches",
   "souhaits": [
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois"
+      "produit": "Triominos original Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath"
     },
     {
-      "produit": "jumelles compactes",
-      "categorie": "plein air",
-      "grossissement": "8x",
-      "couleur": "orange"
+      "produit": "Figurine Funko Bitty Pop Singles One Piece Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 4.48,
+      "devise": "EUR",
+      "ageRecommande": 6
     },
     {
-      "produit": "ukulélé",
-      "categorie": "musique",
-      "taille": "soprano"
+      "produit": "Poupon Rose - Nouveau-né réaliste Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 99.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

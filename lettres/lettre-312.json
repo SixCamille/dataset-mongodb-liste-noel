@@ -7,15 +7,14 @@
   "ecole": "École des Marronniers",
   "souhaits": [
     {
-      "produit": "tablette lumineuse de dessin",
-      "categorie": "numérique",
-      "format": "A4",
-      "couleur": "vert"
+      "produit": "Slime Experience LAB So Slime Canal Toys",
+      "categorie": "créatif",
+      "prix": 36.99,
+      "devise": "EUR"
     },
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé"
+      "produit": "Poupée Lolly princesse et son carrosse enchanté Lolly",
+      "categorie": "poupée"
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes."

@@ -7,10 +7,10 @@
   "ecole": "École des Prébendes",
   "souhaits": [
     {
-      "produit": "kalimba",
-      "categorie": "musique",
-      "nombreLames": 17,
-      "couleur": "noir"
+      "produit": "Coffret de 10 véhicules Fast & Furious - Hot Wheels Silver Series Mattel",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime beaucoup dessiner après l'école."

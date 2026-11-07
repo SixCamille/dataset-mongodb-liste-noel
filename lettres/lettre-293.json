@@ -7,31 +7,42 @@
   "ecole": "École des Chartrons",
   "souhaits": [
     {
-      "produit": "livre-jeu d'énigmes",
-      "categorie": "livre",
+      "produit": "BattleCave Lion de Glace - Eldrador Schleich",
+      "categorie": "figurine et collection",
+      "marque": "Schleich",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "tablette lumineuse de dessin",
-      "categorie": "numérique",
-      "format": "A4",
-      "couleur": "turquoise",
+      "produit": "72161 - LEGO® Pokémon - SMART Play : Recherche de Mew fabuleux en drone LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 44.99,
+      "devise": "EUR",
+      "reference": "72161",
       "priorite": 2
     },
     {
-      "produit": "marionnettes d'animaux",
-      "categorie": "imaginaire",
+      "produit": "Jeu de stratégie Asmodee Zenith Secret Agents",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 5.49,
+      "devise": "EUR",
+      "ageRecommande": 9,
       "priorite": 3
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
+      "produit": "Coffret So Slime Yummy Slime Mixer Bonus Canal Toys",
+      "categorie": "créatif",
+      "marque": "Canal Toys",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "rollers",
-      "categorie": "sport",
-      "pointure": 37,
+      "produit": "Je découvre les émotions Nathan Jeux",
+      "categorie": "imaginaire",
       "priorite": 5
     }
   ]

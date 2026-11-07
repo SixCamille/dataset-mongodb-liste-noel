@@ -7,15 +7,19 @@
   "ecole": "École des Battières",
   "souhaits": [
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth",
-      "couleur": "jaune",
+      "produit": "Jeu de stratégie Asmodee Zenith Secret Agents",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 5.49,
+      "devise": "EUR",
+      "ageRecommande": 9,
       "priorite": 1
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
+      "produit": "Cartes-histoires Roi Lion conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "prix": 14.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

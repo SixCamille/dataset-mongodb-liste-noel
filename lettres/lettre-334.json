@@ -7,33 +7,40 @@
   "ecole": "École de Montferrand",
   "souhaits": [
     {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "taille": "45 cm",
+      "produit": "Pack Lunii Baladeur interactif avec coque de protection nomade",
+      "categorie": "électronique",
+      "marque": "Lunii",
+      "ageRecommande": 7,
       "priorite": 1
     },
     {
-      "produit": "télescope d'initiation",
-      "categorie": "sciences",
-      "diametre": "70 mm",
+      "produit": "Pack Bluey figurines et véhicules Moose Toys",
+      "categorie": "véhicule",
+      "marque": "Moose Toys",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6,
+      "produit": "Le bateau de croisière de Bluey Moose Toys",
+      "categorie": "imaginaire",
+      "marque": "Moose Toys",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "boitier": "antichoc",
+      "produit": "Coffret So Slime Yummy Slime Mixer Bonus Canal Toys",
+      "categorie": "créatif",
+      "marque": "Canal Toys",
       "priorite": 4
     },
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
-      "format": "album",
+      "produit": "Monster High Moonspell Magic - Poupée Willow Thorne Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 31.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

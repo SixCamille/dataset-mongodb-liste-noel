@@ -7,14 +7,18 @@
   "ecole": "École des Balmes",
   "souhaits": [
     {
-      "produit": "peluche pieuvre réversible",
-      "categorie": "peluche",
+      "produit": "Atelier bougies sables Sentosphere",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6,
+      "produit": "Métier à tisser Loop de doo Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

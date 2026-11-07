@@ -7,13 +7,17 @@
   "ecole": "École du Clos-Saint-Lambert",
   "souhaits": [
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
-      "nombreTenues": 5
+      "produit": "Pack de 2 véhicules La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "jeu coopératif de sauvetage",
-      "categorie": "jeu de société"
+      "produit": "Tapple GP Toys",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

@@ -7,28 +7,30 @@
   "ecole": "École Émile-Zola",
   "souhaits": [
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
-      "nombreExperiences": 8,
+      "produit": "Hérisson en Action Balles et Cavale Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
       "priorite": 1
     },
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 5",
+      "produit": "Labo balles rebondissantes Buki",
+      "categorie": "sciences et éducatif",
+      "marque": "Buki",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "vélo",
-      "categorie": "sport",
-      "tailleRoues": "24 pouces",
+      "produit": "LEGO® Editions Sports 43020 Trophée officiel de la Coupe du monde de la FIFA",
+      "categorie": "construction",
+      "ageRecommande": 12,
       "priorite": 3
     },
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx",
-      "couleur": "noir",
+      "produit": "Super Mario Football Striker - Babyfoot miniature Epoch Games",
+      "categorie": "sport",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

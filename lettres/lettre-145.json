@@ -7,36 +7,39 @@
   "ecole": "École de la Krutenau",
   "souhaits": [
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
-      "mode": "solo",
+      "produit": "Coffret multi-jeux Ludi",
+      "categorie": "imaginaire",
+      "marque": "Ludi",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "kalimba",
-      "categorie": "musique",
-      "nombreLames": 17,
+      "produit": "Train traditionnel à vapeur Motor & Co",
+      "categorie": "véhicule",
       "priorite": 2
     },
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "graines": [
-        "basilic",
-        "tomate",
-        "capucine"
-      ],
+      "produit": "Tut Tut Bolides Bluey – Super marchand de glaces interactif VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 41.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "figurines de dinosaures",
-      "categorie": "imaginaire",
-      "nombreFigurines": 12,
+      "produit": "75646 - LEGO One Piece - Le Navire de la Marine de Garp LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 149.99,
+      "devise": "EUR",
+      "reference": "75646",
       "priorite": 4
     },
     {
-      "produit": "maquette de fusée à assembler",
-      "categorie": "construction",
+      "produit": "Monster High Moonspell Magic - Poupée Claire de Luna Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
       "priorite": 5
     }
   ],

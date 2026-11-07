@@ -7,29 +7,36 @@
   "ecole": "École du Chemin-Vert",
   "souhaits": [
     {
-      "produit": "garage avec petites voitures",
+      "produit": "Mon casier magic locker - Reveal violet - Kidisecrets VTech",
       "categorie": "imaginaire",
-      "nombreNiveaux": 4,
-      "couleur": "turquoise",
+      "marque": "VTech",
+      "prix": 44.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu de stratégie sur les animaux",
+      "produit": "Jeu d'ambiance Olemains Games DJ Set Quiz Musical",
       "categorie": "jeu de société",
-      "dureePartie": "30 min",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 12,
       "priorite": 2
     },
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "connexion": "USB-C",
+      "produit": "LEGO® Technic 42221 La fusée SLS NASA Artemis",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 47.99,
+      "devise": "EUR",
+      "ageRecommande": 9,
       "priorite": 3
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49,
-      "couleur": "jaune",
+      "produit": "Sylvanian Families - 5567 - Le cosy cottage Sylvanian Families",
+      "categorie": "imaginaire",
+      "marque": "Sylvanian Families",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

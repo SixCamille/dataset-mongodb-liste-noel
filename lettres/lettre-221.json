@@ -7,13 +7,17 @@
   "ecole": "École du Sanitas",
   "souhaits": [
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société",
+      "produit": "6 qui prend Gigamic",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
+      "produit": "Calendrier de l'Avent Pieces & Peace - 24 Puzzles 42 Pièces Pieces & Peace",
+      "categorie": "puzzle",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ],

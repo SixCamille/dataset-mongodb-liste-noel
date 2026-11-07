@@ -7,9 +7,11 @@
   "ecole": "École Jean-Macé",
   "souhaits": [
     {
-      "produit": "carnet de dessin à couverture rigide",
-      "categorie": "créatif",
-      "format": "A4"
+      "produit": "Simon classique Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Mon activité préférée est de créer avec mes mains."

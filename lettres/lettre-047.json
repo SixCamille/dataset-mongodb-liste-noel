@@ -7,26 +7,31 @@
   "ecole": "École des Bateliers",
   "souhaits": [
     {
-      "produit": "sac à dos de randonnée",
-      "categorie": "plein air",
-      "couleur": "rouge",
+      "produit": "Kit entraînement Équipe de France de football Nemo",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
+      "produit": "Voiture radiocommandée Web Crawler - Spidey and His Amazin Friends Jada",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "garage avec petites voitures",
-      "categorie": "imaginaire",
-      "nombreNiveaux": 4,
-      "couleur": "rose",
+      "produit": "Jeu classique Dujardin Miles Bornes Classiques",
+      "categorie": "plein air et nature",
+      "marque": "Dujardin",
+      "ageRecommande": 6,
       "priorite": 4
     }
   ]

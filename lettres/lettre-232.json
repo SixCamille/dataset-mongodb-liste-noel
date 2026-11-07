@@ -7,8 +7,12 @@
   "ecole": "École du Vernay",
   "souhaits": [
     {
-      "produit": "maquette de fusée à assembler",
+      "produit": "21588 - LEGO® Minecraft - Le Renard LEGO",
       "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "21588",
       "priorite": 1
     }
   ],

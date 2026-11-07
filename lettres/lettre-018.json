@@ -7,30 +7,37 @@
   "ecole": "École des Marronniers",
   "souhaits": [
     {
-      "produit": "circuit de billes modulable",
-      "categorie": "construction",
-      "nombrePieces": 120,
-      "couleur": "noir"
-    },
-    {
-      "produit": "coffret de pâte à modeler",
-      "categorie": "créatif",
-      "nombrePots": 12
-    },
-    {
-      "produit": "figurines de dinosaures",
+      "produit": "Mon casier magic locker - Stitch - Kidisecrets VTech",
       "categorie": "imaginaire",
-      "nombreFigurines": 12
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true
+      "produit": "Opération noisettes - Jeu collaboratif Auzou",
+      "categorie": "jeu de société",
+      "prix": 24.99,
+      "devise": "EUR"
     },
     {
-      "produit": "sac à dos de randonnée",
-      "categorie": "plein air",
-      "capacite": "18 L"
+      "produit": "Véhicule + Figurine Ruben La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Lit de poupon en bois avec roues 50 cm LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Appareil photo KidiZoom Duo FX bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 74.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis."

@@ -7,34 +7,41 @@
   "ecole": "École du Rouet",
   "souhaits": [
     {
-      "produit": "cabane de jardin en toile",
-      "categorie": "plein air",
-      "nombrePlaces": 3,
+      "produit": "Réveille pas papa Goliath",
+      "categorie": "imaginaire",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
-      "mode": "solo",
+      "produit": "Poupée Barbie Danseuse Papillon Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx",
-      "couleur": "rose",
+      "produit": "Réveil Stitch - Figurine lumineuse Lexibook",
+      "categorie": "figurine et collection",
+      "marque": "Lexibook",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu de construction magnétique",
-      "categorie": "construction",
-      "nombrePieces": 64,
-      "couleur": "bois naturel",
+      "produit": "Livre interactif de comptines Fisher Price",
+      "categorie": "électronique",
+      "marque": "Fisher Price",
+      "prix": 16.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
+      "produit": "21361 - LEGO® Ideas - Gremlins™ : Gizmo LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "21361",
       "priorite": 5
     }
   ]

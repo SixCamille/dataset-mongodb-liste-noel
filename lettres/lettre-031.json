@@ -7,28 +7,31 @@
   "ecole": "École du Bourg",
   "souhaits": [
     {
-      "produit": "kit pour fabriquer des bracelets",
-      "categorie": "créatif",
-      "type": "perles",
-      "couleur": "bleu",
+      "produit": "Mon arbre à balles multi-activités Fisher Price Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "kit de fouilles de fossiles",
-      "categorie": "sciences",
-      "theme": "paléontologie",
+      "produit": "72123 - Playmobil Barbie - Cabriolet et scooter de mer PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "reference": "72123",
       "priorite": 2
     },
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé",
+      "produit": "Ordinateur - Tablette P'tit Genius Touch rose VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
       "priorite": 3
     },
     {
-      "produit": "peluche panda roux",
-      "categorie": "peluche",
-      "couleur": "noir",
+      "produit": "Voiture télécommandée EXOST 360 Cross Exost",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

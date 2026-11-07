@@ -7,14 +7,15 @@
   "ecole": "École des Gantelles",
   "souhaits": [
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 5"
+      "produit": "Barbie – Licorne Sons et Lumières Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel"
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "matiere": "bois"
+      "produit": "Coffret multi-jeux Ludi",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes."

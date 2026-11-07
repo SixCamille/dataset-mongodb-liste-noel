@@ -7,9 +7,11 @@
   "ecole": "École du Parc-Impérial",
   "souhaits": [
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique"
+      "produit": "72239 - Playmobil Icon Cars - Porsche 911 Turbo PLAYMOBIL",
+      "categorie": "construction",
+      "prix": 19.99,
+      "devise": "EUR",
+      "reference": "72239"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

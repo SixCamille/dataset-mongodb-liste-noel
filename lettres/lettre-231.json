@@ -7,22 +7,29 @@
   "ecole": "École des Prébendes",
   "souhaits": [
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique"
-    },
-    {
-      "produit": "maison de poupées",
+      "produit": "Coffret pinceau magique Color Wonder - Pat'Patrouille Crayola",
       "categorie": "imaginaire",
-      "nombreEtages": 3
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth"
+      "produit": "Barbie – Licorne Sons et Lumières Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "robot solaire à monter",
-      "categorie": "construction"
+      "produit": "Peluche interactive FurReal - Gabby le tigre qui grandit et rugit Just Play",
+      "categorie": "peluche",
+      "marque": "Just Play",
+      "prix": 89.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Qui est-ce ?Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes."

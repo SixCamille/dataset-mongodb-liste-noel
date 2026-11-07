@@ -7,27 +7,34 @@
   "ecole": "École du Colombier",
   "souhaits": [
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
-      "format": "album",
+      "produit": "Poupée Barbie Sirène Bulles Magiques Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "kalimba",
-      "categorie": "musique",
-      "nombreLames": 17,
+      "produit": "Smarty Market Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
       "priorite": 2
     },
     {
-      "produit": "télescope d'initiation",
-      "categorie": "sciences",
-      "diametre": "70 mm",
+      "produit": "Pack 10 figurines Pokémon 5-11cm Jazwares",
+      "categorie": "figurine et collection",
+      "marque": "Jazwares",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "château miniature",
-      "categorie": "imaginaire",
-      "matiere": "bois",
+      "produit": "42704 - LEGO® Friends - Le grand hôtel de Heartlake City LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 134.99,
+      "devise": "EUR",
+      "reference": "42704",
       "priorite": 4
     }
   ]

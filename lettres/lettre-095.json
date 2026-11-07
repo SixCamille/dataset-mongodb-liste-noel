@@ -7,38 +7,39 @@
   "ecole": "École du Parc-Impérial",
   "souhaits": [
     {
-      "produit": "globe terrestre lumineux",
-      "categorie": "sciences",
-      "diametre": "25 cm",
+      "produit": "Boule Plasma 13 cm Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
       "priorite": 1
     },
     {
-      "produit": "trottinette",
-      "categorie": "sport",
-      "pliable": true,
+      "produit": "Pic Pirate Stitch Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 22.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ],
-      "couleur": "bois naturel",
+      "produit": "42221 - LEGO® Technic - La fusée SLS NASA Artemis LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "42221",
       "priorite": 3
     },
     {
-      "produit": "ukulélé",
-      "categorie": "musique",
-      "taille": "soprano",
+      "produit": "Cabriolet Radiocommandé Barbie Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur",
+      "produit": "Voiture radio-commandée Disney Minnie Roadster - Jada Jada",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

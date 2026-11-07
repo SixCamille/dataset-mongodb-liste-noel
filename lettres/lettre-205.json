@@ -7,14 +7,14 @@
   "ecole": "École Saint-Seurin",
   "souhaits": [
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
-      "matiere": "argile",
+      "produit": "Coffret pierres précieuses et cristaux Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
       "priorite": 1
     },
     {
-      "produit": "télescope d'initiation",
-      "categorie": "sciences",
+      "produit": "Double blasters Tactiques Laser X NXT Lansay",
+      "categorie": "imaginaire",
       "priorite": 2
     }
   ]

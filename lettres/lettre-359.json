@@ -7,34 +7,41 @@
   "ecole": "École des Bourroches",
   "souhaits": [
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true,
+      "produit": "Planétarium haute définition Microplanet",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1,
+      "produit": "Voitures majorette Golf GTI Majorette",
+      "categorie": "véhicule",
+      "prix": 17.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "kit pour fabriquer des bracelets",
-      "categorie": "créatif",
-      "type": "perles",
-      "couleur": "bleu",
+      "produit": "Nanoblock robot Goldorak Bandai",
+      "categorie": "électronique",
+      "marque": "Bandai",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu de parcours écologique",
-      "categorie": "jeu de société",
+      "produit": "Figurine Tonies Pokémon Bulbizarre",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
       "priorite": 4
     },
     {
-      "produit": "château miniature",
-      "categorie": "imaginaire",
-      "matiere": "bois",
-      "couleur": "jaune",
+      "produit": "Lit de poupon en bois avec roues 50 cm LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

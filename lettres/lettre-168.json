@@ -7,28 +7,40 @@
   "ecole": "École des Bourroches",
   "souhaits": [
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche"
+      "produit": "Chariot de ménage et aspirateur Funny Home",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth"
+      "produit": "Jeux d’ambiance Ravensburger Strike",
+      "categorie": "jeu de société",
+      "marque": "Ravensburger",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 7
     },
     {
-      "produit": "jeu de stratégie sur les animaux",
-      "categorie": "jeu de société"
+      "produit": "LEGO® ONE PIECE 75638 La bataille d’Arlong Park",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 60.62,
+      "devise": "EUR",
+      "ageRecommande": 9
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "matiere": "bois",
-      "couleur": "vert"
+      "produit": "Cartes-histoires Roi Lion conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus"
+      "produit": "Cage de football pliable 180 cm SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 44.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."

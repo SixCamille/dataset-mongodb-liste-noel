@@ -7,34 +7,43 @@
   "ecole": "École de la Montagne-Sainte-Geneviève",
   "souhaits": [
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x",
+      "produit": "Cabane des découvertes Super Tut Tut VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
       "priorite": 1
     },
     {
-      "produit": "jeu de construction magnétique",
-      "categorie": "construction",
-      "nombrePieces": 64,
-      "couleur": "violet",
+      "produit": "Porteur avec musique Mercedes blanche classe C SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
-      "couleur": "rose",
+      "produit": "Cache-cache Bluey - Jeu de cache-cache interactif Moose Toys",
+      "categorie": "jeu de société",
+      "marque": "Moose Toys",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "ballon de football",
-      "categorie": "sport",
-      "taille": 4,
-      "couleur": "bleu",
+      "produit": "75641 - LEGO One Piece - Le Repaire du Docteur Hiluluk LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "reference": "75641",
       "priorite": 4
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
+      "produit": "Pack 4 figurines Funko Bitty Pop X-Men Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 13.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 5
     }
   ]

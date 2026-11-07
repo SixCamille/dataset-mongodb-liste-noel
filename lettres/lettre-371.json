@@ -7,15 +7,16 @@
   "ecole": "École du Vieux-Lille",
   "souhaits": [
     {
-      "produit": "jeu de mémoire illustré",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "produit": "Domino express racing et Super dealer Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
       "priorite": 1
     },
     {
-      "produit": "maison de poupées",
-      "categorie": "imaginaire",
-      "couleur": "rose",
+      "produit": "Casque de pompier et accessoires de déguisement Invincible Heroes",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

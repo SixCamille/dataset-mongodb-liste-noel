@@ -7,21 +7,27 @@
   "ecole": "École du Vieux-Marché",
   "souhaits": [
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique",
-      "couleur": "violet",
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters Mira",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
+      "produit": "Labyrinthe Junior Pat'Patrouille Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 5",
+      "produit": "Attaque Fantômes GP Toys",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ],

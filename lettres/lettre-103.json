@@ -7,16 +7,18 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth",
+      "produit": "Jeu de stratégie Lumberjacks Alice De l'autre côté du miroir",
+      "categorie": "jeu de société",
+      "marque": "Lumberjacks",
+      "ageRecommande": 10,
       "priorite": 1
     },
     {
-      "produit": "cabane de jardin en toile",
-      "categorie": "plein air",
-      "nombrePlaces": 3,
-      "couleur": "noir",
+      "produit": "Epée Courbe De La Lune De Mira Nerf",
+      "categorie": "déguisement et action",
+      "marque": "Nerf",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

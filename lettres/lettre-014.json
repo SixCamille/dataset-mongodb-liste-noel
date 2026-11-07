@@ -7,10 +7,12 @@
   "ecole": "École Saint-Seurin",
   "souhaits": [
     {
-      "produit": "figurines de dinosaures",
-      "categorie": "imaginaire",
-      "nombreFigurines": 12,
-      "couleur": "turquoise",
+      "produit": "72239 - Playmobil Icon Cars - Porsche 911 Turbo PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 19.99,
+      "devise": "EUR",
+      "reference": "72239",
       "priorite": 1
     }
   ]

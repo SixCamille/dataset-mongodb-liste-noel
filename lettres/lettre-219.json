@@ -7,14 +7,14 @@
   "ecole": "École des Marronniers",
   "souhaits": [
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique"
+      "produit": "Bitzee KPop Demon Hunters Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master"
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois"
+      "produit": "Labo balles rebondissantes Buki",
+      "categorie": "sciences et éducatif",
+      "marque": "Buki"
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes."

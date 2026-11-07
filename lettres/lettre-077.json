@@ -7,33 +7,41 @@
   "ecole": "École de Wazemmes",
   "souhaits": [
     {
-      "produit": "coffre de déguisements",
+      "produit": "Mon Bébé Cabrioles - Lina la Fraise Lansay",
       "categorie": "imaginaire",
-      "nombreTenues": 5,
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif",
-      "nombreFeuilles": 100,
+      "produit": "Caméra interactive Pokémon Brandunit",
+      "categorie": "figurine et collection",
+      "marque": "Pokémon",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "circuit de billes modulable",
-      "categorie": "construction",
-      "couleur": "orange",
+      "produit": "Aquabeads - 35121 - Le kit Manucure Stitch Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu coopératif de sauvetage",
+      "produit": "Jeu classique Monopoly Refresh",
       "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "marque": "Monopoly",
       "priorite": 4
     },
     {
-      "produit": "livre-jeu d'énigmes",
-      "categorie": "livre",
-      "niveau": "8-10 ans",
+      "produit": "LEGO® Creator 31376 L’adorable hamster et la fleur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
       "priorite": 5
     }
   ],

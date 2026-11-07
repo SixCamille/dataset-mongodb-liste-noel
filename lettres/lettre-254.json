@@ -7,26 +7,32 @@
   "ecole": "École du Point-du-Jour",
   "souhaits": [
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5",
+      "produit": "Projecter de dessin - La Reine des Neiges AS Company",
+      "categorie": "créatif",
       "priorite": 1
     },
     {
-      "produit": "jeu de stratégie sur les animaux",
-      "categorie": "jeu de société",
-      "dureePartie": "30 min",
+      "produit": "Micro Kidi SuperStar DJ Studio Rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth",
+      "produit": "Moto Ducati Radiocommandée 1198 Chicco",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters Mira",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 4
     }
   ]

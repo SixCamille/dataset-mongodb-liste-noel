@@ -7,24 +7,29 @@
   "ecole": "École Anatole-France",
   "souhaits": [
     {
-      "produit": "maison de poupées",
-      "categorie": "imaginaire",
-      "couleur": "vert"
-    },
-    {
-      "produit": "jeu de stratégie sur les animaux",
-      "categorie": "jeu de société",
-      "dureePartie": "30 min"
-    },
-    {
-      "produit": "briques de construction pour créer une cabane",
-      "categorie": "construction"
-    },
-    {
-      "produit": "ballon de football",
+      "produit": "Vélo 14'' - Spider-Man Denver",
       "categorie": "sport",
-      "taille": 4,
-      "couleur": "violet"
+      "prix": 149.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "72154 - LEGO Pokémon - Poké Ball Moments culte de Dresseur LEGO",
+      "categorie": "construction",
+      "prix": 239.99,
+      "devise": "EUR",
+      "reference": "72154"
+    },
+    {
+      "produit": "Studio de mode lumineux Canal Toys",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Voiture radiocommandée Sonic Racing Crossworlds Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."

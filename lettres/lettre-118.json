@@ -7,34 +7,44 @@
   "ecole": "École des Prébendes",
   "souhaits": [
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
-      "mode": "solo",
+      "produit": "Batterie 3 tambours bleus avec cymbale et tabouret Music Star",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "boitier": "antichoc",
-      "couleur": "noir",
+      "produit": "Mallette à dessin professionnelle Buki",
+      "categorie": "créatif",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "ballon de football",
-      "categorie": "sport",
+      "produit": "LEGO® Iconic 40822 La camionnette de la citrouille d'Halloween",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 3
     },
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "couleur": "vert",
+      "produit": "Console tv - Leapmove+VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 84.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true,
-      "couleur": "rose",
+      "produit": "Figurine Tonies La maison de Gabby Marine",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 5
     }
   ]

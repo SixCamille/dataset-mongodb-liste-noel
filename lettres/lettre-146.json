@@ -7,16 +7,18 @@
   "ecole": "École des Battières",
   "souhaits": [
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "boitier": "antichoc",
-      "couleur": "bois naturel",
+      "produit": "Grand manège équestre - Horse Club Schleich",
+      "categorie": "figurine et collection",
+      "prix": 99.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "peluche renard",
+      "produit": "Peluche interactive - Ourson 1, 2, 3 Suis-moi VTech",
       "categorie": "peluche",
-      "taille": "35 cm",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

@@ -7,33 +7,38 @@
   "ecole": "École du Chemin-Vert",
   "souhaits": [
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "couleur": "orange",
+      "produit": "Murder Phone Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu de cartes rapide",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "3 à 6",
+      "produit": "Figurine Funko Pop Animation Jujutsu Kaisen Satoru Gojo jeune Exclusivité Fnac",
+      "categorie": "figurine et collection",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 2
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x",
+      "produit": "Jeu d'enquête Gameflow Mon Puzzle Aventure Petits Détectives",
+      "categorie": "puzzle",
+      "marque": "Gameflow",
+      "ageRecommande": 5,
       "priorite": 3
     },
     {
-      "produit": "coffret de pâte à modeler",
-      "categorie": "créatif",
-      "couleur": "violet",
+      "produit": "Camion dinosaur escape avec remorques et dinosaures Invincible Heroes",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur",
+      "produit": "Figurine électronique 36 cm - Spider-Man Brand New Day Hasbro",
+      "categorie": "électronique",
       "priorite": 5
     }
   ]

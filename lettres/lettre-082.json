@@ -7,9 +7,11 @@
   "ecole": "École du Jardin-des-Plantes",
   "souhaits": [
     {
-      "produit": "livre-jeu d'énigmes",
-      "categorie": "livre",
-      "niveau": "8-10 ans",
+      "produit": "Mon journal intime - Sally Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

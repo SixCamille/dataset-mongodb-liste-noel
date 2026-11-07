@@ -7,35 +7,43 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
-      "matiere": "argile",
+      "produit": "72154 - LEGO Pokémon - Poké Ball Moments culte de Dresseur LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 239.99,
+      "devise": "EUR",
+      "reference": "72154",
       "priorite": 1
     },
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
+      "produit": "Maison et jardin en fête Bluey Moose Toys",
+      "categorie": "plein air et nature",
+      "marque": "Moose Toys",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x",
+      "produit": "Simon classique Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ],
+      "produit": "Jumelles vidéo interactives Genius XL VTech",
+      "categorie": "sciences et éducatif",
+      "marque": "VTech",
+      "prix": 69.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "figurines de dinosaures",
-      "categorie": "imaginaire",
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters S2 Zoey",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "ageRecommande": 6,
       "priorite": 5
     }
   ]

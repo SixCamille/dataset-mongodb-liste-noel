@@ -7,21 +7,28 @@
   "ecole": "École des Chartrons",
   "souhaits": [
     {
-      "produit": "marionnettes d'animaux",
-      "categorie": "imaginaire",
-      "nombreMarionnettes": 6,
+      "produit": "Figurine Funko Pop Animation Yu-Gi-Oh Blue-Eyes White Dragon Card",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     },
     {
-      "produit": "globe terrestre lumineux",
-      "categorie": "sciences",
-      "diametre": "25 cm",
+      "produit": "Cristaux et pierres précieuses Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "sac à dos de randonnée",
-      "categorie": "plein air",
-      "capacite": "18 L",
+      "produit": "Pack Lunii Baladeur interactif avec coque de protection nomade",
+      "categorie": "électronique",
+      "prix": 99.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
       "priorite": 3
     }
   ]

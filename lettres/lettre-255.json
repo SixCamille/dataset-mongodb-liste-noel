@@ -7,12 +7,17 @@
   "ecole": "École Notre-Dame-du-Mont",
   "souhaits": [
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature"
+      "produit": "Peluche Ma Loutre Câlins Bonne Nuit Fisher Price Fisher Price",
+      "categorie": "peluche",
+      "marque": "Fisher Price",
+      "prix": 32.99,
+      "devise": "EUR"
     },
     {
-      "produit": "harmonica",
-      "categorie": "musique"
+      "produit": "Set de construction CaDA - Bains japonais (1249 pièces)CaDA",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille.",

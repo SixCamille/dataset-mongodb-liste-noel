@@ -7,29 +7,34 @@
   "ecole": "École Jules-Guesde",
   "souhaits": [
     {
-      "produit": "cabane de jardin en toile",
-      "categorie": "plein air",
-      "nombrePlaces": 3,
-      "couleur": "jaune"
-    },
-    {
-      "produit": "tablette lumineuse de dessin",
-      "categorie": "numérique"
-    },
-    {
-      "produit": "jeu de construction magnétique",
+      "produit": "75460 - LEGO® Star Wars - Le X-Wing Starfighter™ de la Nouvelle République LEGO",
       "categorie": "construction",
-      "nombrePieces": 64
+      "marque": "LEGO",
+      "prix": 69.99,
+      "devise": "EUR",
+      "reference": "75460"
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49
+      "produit": "Jeu Mito Permis de tricher - jeu de cartes et d'ambiance Gigamic",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois"
+      "produit": "Etabli de bricolage avec 55 pièces incluses Funny Home",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Poupée Lolly princesse et son carrosse enchanté Lolly",
+      "categorie": "poupée",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action"
     }
   ],
   "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."

@@ -7,34 +7,39 @@
   "ecole": "École de Wazemmes",
   "souhaits": [
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
-      "theme": "faune mondiale",
+      "produit": "Mon Bébé Cabrioles - Lina la Fraise Lansay",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "métier à tisser pour débutant",
-      "categorie": "créatif",
-      "matiere": "bois",
+      "produit": "LEGO® City 60488 Le food-truck de frites",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "ageRecommande": 5,
       "priorite": 2
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49,
+      "produit": "Pack Pat'Patrouilleur avec figurines et véhicules - La Pat'Patrouille Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 89.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu de mémoire illustré",
+      "produit": "Jeu Bingo Deluxe en bois avec boulier en métal Zig Zag jeux action",
       "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "LEGO fleurs",
-      "categorie": "construction",
-      "collection": "botanique",
-      "couleur": "rouge",
+      "produit": "Déguisement luxe Rumi Gold KPop Demon Hunters - 9/10 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ]

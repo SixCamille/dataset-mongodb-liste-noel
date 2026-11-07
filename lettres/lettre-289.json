@@ -7,9 +7,12 @@
   "ecole": "École Michel-Servet",
   "souhaits": [
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "couleur": "bleu",
+      "produit": "Jeu classique Dujardin Miles Bornes Classiques",
+      "categorie": "plein air et nature",
+      "marque": "Dujardin",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     }
   ],

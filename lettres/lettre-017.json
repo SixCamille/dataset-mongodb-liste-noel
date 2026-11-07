@@ -7,22 +7,26 @@
   "ecole": "École des Arceaux",
   "souhaits": [
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique",
+      "produit": "Figurine Funko Pop Animation Delicious in Dungeon Laios with Chase Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "garage avec petites voitures",
+      "produit": "Rubik's cube 3x3 advanced Rubik",
       "categorie": "imaginaire",
-      "nombreNiveaux": 4,
-      "couleur": "vert",
+      "prix": 9.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
-      "matiere": "argile",
+      "produit": "KPop Demon Hunters - Poupée chantante Zoey Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 36.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ],

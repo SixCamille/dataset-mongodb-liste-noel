@@ -7,27 +7,33 @@
   "ecole": "École du Moulin-à-Vent",
   "souhaits": [
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49,
-      "couleur": "orange",
+      "produit": "Studio à porte-clés DIY 3 en 1 Style for Ever Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu de construction magnétique",
-      "categorie": "construction",
-      "nombrePieces": 64,
-      "couleur": "bleu",
+      "produit": "Lolly Dogs - Jeu de société enfant Blue Orange",
+      "categorie": "jeu de société",
+      "prix": 22.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
+      "produit": "Poupon Lila Chérie Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 64.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "figurines de dinosaures",
-      "categorie": "imaginaire",
+      "produit": "Coffret 20 jeux éducatifs 3 à 6 ans avec stylo interactif Zig Zag Educatif",
+      "categorie": "créatif",
+      "prix": 16.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

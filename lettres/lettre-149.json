@@ -7,21 +7,28 @@
   "ecole": "École Jules-Guesde",
   "souhaits": [
     {
-      "produit": "jeu de logique en bois",
-      "categorie": "jeu de société",
-      "mode": "solo",
+      "produit": "Bazar bizarre Gigamic",
+      "categorie": "imaginaire",
+      "prix": 16.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "maquette de fusée à assembler",
+      "produit": "71649 - Playmobil My Life - Assistante maternelle et bébés PLAYMOBIL",
       "categorie": "construction",
-      "niveau": "intermédiaire",
+      "marque": "PLAYMOBIL",
+      "prix": 24.99,
+      "devise": "EUR",
+      "reference": "71649",
       "priorite": 2
     },
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
-      "nombreTenues": 5,
+      "produit": "Figurine Funko Pop Games Astro Bot",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     }
   ]

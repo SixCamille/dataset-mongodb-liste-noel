@@ -7,9 +7,11 @@
   "ecole": "École des Arènes",
   "souhaits": [
     {
-      "produit": "coffre de déguisements",
+      "produit": "Studio professionnel bougies Buki",
       "categorie": "imaginaire",
-      "nombreTenues": 5
+      "marque": "Buki",
+      "prix": 24.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime beaucoup dessiner après l'école."

@@ -7,9 +7,11 @@
   "ecole": "École du Capitole",
   "souhaits": [
     {
-      "produit": "sac à dos de randonnée",
-      "categorie": "plein air",
-      "capacite": "18 L"
+      "produit": "LEGO® Ninjago Destiny's Bounty Adventures Asmodée",
+      "categorie": "construction",
+      "marque": "Asmodée",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Mon activité préférée est de créer avec mes mains."

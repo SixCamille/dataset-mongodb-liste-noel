@@ -7,28 +7,37 @@
   "ecole": "École du Moulin-à-Vent",
   "souhaits": [
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm"
+      "produit": "Kinetic Sand - Coffret Chateau et son bac - Sable magique à modeler Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "panier de basket réglable",
+      "produit": "Figurine Funko Pop Supreme Toy Story 5 Atlas",
+      "categorie": "figurine et collection",
+      "prix": 24.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Circuit à billes magnétiques Marble Rush - Dino Adventures Magnetic Set XL400E VTech",
+      "categorie": "construction",
+      "marque": "VTech"
+    },
+    {
+      "produit": "Appareil photo avec impression instantanée - KidiZoom Print Cam VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 64.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Panneau de basket électronique mural avec ballon SUN and SPORT",
       "categorie": "sport",
-      "usage": "extérieur"
-    },
-    {
-      "produit": "kalimba",
-      "categorie": "musique",
-      "nombreLames": 17
-    },
-    {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6
-    },
-    {
-      "produit": "kit pour fabriquer des bracelets",
-      "categorie": "créatif"
+      "marque": "SUN and SPORT",
+      "prix": 24.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Mon activité préférée est de créer avec mes mains."

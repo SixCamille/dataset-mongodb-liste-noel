@@ -7,8 +7,12 @@
   "ecole": "École de Montferrand",
   "souhaits": [
     {
-      "produit": "jeu de cartes rapide",
-      "categorie": "jeu de société"
+      "produit": "Figurine Funko Pop Games Pokémon Charmeleon Reptincel Glutexo",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

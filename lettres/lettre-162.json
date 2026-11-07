@@ -7,13 +7,16 @@
   "ecole": "École Notre-Dame-du-Mont",
   "souhaits": [
     {
-      "produit": "déguisement d'astronaute",
+      "produit": "Sylvanian Families - 5743 - La crèche ensoleillée Sylvanian Families",
       "categorie": "imaginaire",
-      "taille": "10 ans"
+      "marque": "Sylvanian Families",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "set de calligraphie",
-      "categorie": "créatif"
+      "produit": "Figurine Mega Mutators MrBeast - Panthère Moose Toys",
+      "categorie": "figurine et collection",
+      "marque": "Moose Toys"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

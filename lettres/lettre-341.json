@@ -7,8 +7,12 @@
   "ecole": "École des Bateliers",
   "souhaits": [
     {
-      "produit": "globe terrestre lumineux",
-      "categorie": "sciences",
+      "produit": "76478 - LEGO® Harry Potter - Book Nook : le bureau de Dumbledore LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 119.99,
+      "devise": "EUR",
+      "reference": "76478",
       "priorite": 1
     }
   ],

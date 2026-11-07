@@ -7,28 +7,35 @@
   "ecole": "École des Marronniers",
   "souhaits": [
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé",
-      "couleur": "orange",
+      "produit": "Pack Bluey figurines et véhicules Moose Toys",
+      "categorie": "véhicule",
+      "marque": "Moose Toys",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société",
+      "produit": "Atelier Gravure Professional Studio Buki",
+      "categorie": "créatif",
+      "marque": "Buki",
+      "prix": 36.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
-      "matiere": "argile",
+      "produit": "Combi Poussette + Landau Rose Maxi Cosi Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 52.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "robot solaire à monter",
+      "produit": "71838 - PLAYMOBIL - Maison de fée avec licorne dorée PLAYMOBIL",
       "categorie": "construction",
-      "alimentation": "solaire",
-      "couleur": "orange",
+      "prix": 45.99,
+      "devise": "EUR",
+      "reference": "71838",
       "priorite": 4
     }
   ]

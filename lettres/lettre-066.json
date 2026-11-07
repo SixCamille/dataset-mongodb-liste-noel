@@ -7,9 +7,10 @@
   "ecole": "École des Balmes",
   "souhaits": [
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
-      "limiteurVolume": true
+      "produit": "Jeu de construction Jekca - Chat roux 25cm Jekca",
+      "categorie": "construction",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je rêve de découvrir les étoiles et les planètes."

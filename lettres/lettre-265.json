@@ -7,29 +7,35 @@
   "ecole": "École des Volontaires",
   "souhaits": [
     {
-      "produit": "LEGO fleurs",
-      "categorie": "construction",
-      "collection": "botanique",
-      "couleur": "violet",
+      "produit": "Jenga Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 16.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
+      "produit": "Coffret sac et poupée Disney Minnie Just Play",
+      "categorie": "poupée",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "coffre de déguisements",
-      "categorie": "imaginaire",
-      "nombreTenues": 5,
+      "produit": "LEGO® City 60456 La course-poursuite en bateau de police",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     },
     {
-      "produit": "coffret de pâte à modeler",
+      "produit": "L'atelier des stylos - Harry Potter Clementoni",
       "categorie": "créatif",
-      "nombrePots": 12,
-      "couleur": "violet",
+      "marque": "Clementoni",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

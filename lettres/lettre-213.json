@@ -7,25 +7,30 @@
   "ecole": "École des Beaux-Arts",
   "souhaits": [
     {
-      "produit": "télescope d'initiation",
-      "categorie": "sciences",
-      "diametre": "70 mm"
+      "produit": "Cartes-histoires Winnie L'ourson conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "robot solaire à monter",
-      "categorie": "construction",
-      "couleur": "vert"
+      "produit": "Monopoly : KPop Demon Hunters Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth",
-      "couleur": "bleu"
+      "produit": "Pack tir électronique XShot – Cibles interactives et 2 blasters Fury 4 Zuru",
+      "categorie": "électronique",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "taille": "45 cm"
+      "produit": "Valentina et Cinder ailes magiques - L'École des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master"
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis."

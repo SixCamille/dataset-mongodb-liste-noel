@@ -7,15 +7,19 @@
   "ecole": "École Émile-Zola",
   "souhaits": [
     {
-      "produit": "château miniature",
+      "produit": "Trio, le méga T-Rex SOS - Switch & Go Combo VTech",
       "categorie": "imaginaire",
-      "matiere": "bois",
-      "couleur": "noir",
+      "prix": 44.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "trottinette",
-      "categorie": "sport",
+      "produit": "Figurine Funko Pop Animation Jujutsu Kaisen Rika",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 2
     }
   ]

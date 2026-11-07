@@ -7,29 +7,35 @@
   "ecole": "École du Rouet",
   "souhaits": [
     {
-      "produit": "maquette de fusée à assembler",
+      "produit": "LEGO® Ninjago® 71864 Véhicules combinables de Kai et Cole",
       "categorie": "construction",
-      "niveau": "intermédiaire",
-      "couleur": "noir",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
       "priorite": 1
     },
     {
-      "produit": "microphone de karaoké",
-      "categorie": "musique",
-      "connexion": "Bluetooth",
+      "produit": "La Maison Magique - Gabby et la Maison Magique Le Film Spin Master",
+      "categorie": "imaginaire",
+      "prix": 71.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "métier à tisser pour débutant",
-      "categorie": "créatif",
-      "matiere": "bois",
+      "produit": "Figurine Funko Mystery Mini My Little Pony Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     },
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "taille": "32 cm",
-      "couleur": "bois naturel",
+      "produit": "Trottinette 3 roues pliable Pat'Patrouille STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

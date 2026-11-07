@@ -7,25 +7,34 @@
   "ecole": "École Paul-Bert",
   "souhaits": [
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
-      "matiere": "argile"
+      "produit": "La Bonne Paye Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR"
     },
     {
-      "produit": "jeu de logique en bois",
+      "produit": "71530 - Playmobil Pirates - Bateau Pirates PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "71530"
+    },
+    {
+      "produit": "Jeu de stratégie Lumberjacks Alice De l'autre côté du miroir",
       "categorie": "jeu de société",
-      "mode": "solo"
+      "marque": "Lumberjacks",
+      "prix": 17.99,
+      "devise": "EUR"
     },
     {
-      "produit": "cerf-volant",
-      "categorie": "plein air",
-      "forme": "delta"
-    },
-    {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "taille": "32 cm",
-      "couleur": "orange"
+      "produit": "Figurine Funko Mystery Mini My Little Pony Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     }
   ],
   "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement."

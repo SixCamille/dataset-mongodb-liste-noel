@@ -7,22 +7,27 @@
   "ecole": "École du Parc-Impérial",
   "souhaits": [
     {
-      "produit": "déguisement d'astronaute",
+      "produit": "Etal du marché Ecoiffier",
       "categorie": "imaginaire",
-      "taille": "8 ans",
+      "prix": 32.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5",
+      "produit": "Coffret Gui Gui Deluxe Fruity Glow édition - Embellis ton Slime (modèle aléatoire)Moose Toys",
+      "categorie": "créatif",
+      "marque": "Moose Toys",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
-      "couleur": "vert",
+      "produit": "Figurine Funko Pop Marvel X-Men 97 Storm",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     }
   ]

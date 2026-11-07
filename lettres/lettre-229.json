@@ -7,36 +7,35 @@
   "ecole": "École de la Guillotière",
   "souhaits": [
     {
-      "produit": "LEGO fleurs",
-      "categorie": "construction",
-      "collection": "botanique",
+      "produit": "Porteur John Deere Forestier Bruder",
+      "categorie": "imaginaire",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "graines": [
-        "basilic",
-        "tomate",
-        "capucine"
-      ],
+      "produit": "Figurine Tonies Cars 2",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 4,
       "priorite": 2
     },
     {
-      "produit": "jeu coopératif de sauvetage",
+      "produit": "Croque Carotte Lapins Pailletés - Edition limitée Ravensburger",
       "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "marque": "Ravensburger",
+      "prix": 20.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ],
-      "couleur": "bleu",
+      "produit": "Maxi grue filoguidée Superstar",
+      "categorie": "véhicule",
+      "marque": "Superstar",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

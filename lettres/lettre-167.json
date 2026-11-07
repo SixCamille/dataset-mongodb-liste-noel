@@ -7,20 +7,24 @@
   "ecole": "École du Clos-Saint-Lambert",
   "souhaits": [
     {
-      "produit": "télescope d'initiation",
-      "categorie": "sciences",
+      "produit": "21361 - LEGO® Ideas - Gremlins™ : Gizmo LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 99.99,
+      "devise": "EUR",
+      "reference": "21361",
       "priorite": 1
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
+      "produit": "Flipper de table Minecraft - Arcade Pinball Toopiz",
+      "categorie": "imaginaire",
       "priorite": 2
     },
     {
-      "produit": "métier à tisser pour débutant",
-      "categorie": "créatif",
-      "matiere": "bois",
+      "produit": "Voiture radiocommandée EXOST 360 Aquacross Exost",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

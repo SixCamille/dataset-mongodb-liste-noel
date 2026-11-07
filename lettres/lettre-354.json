@@ -7,23 +7,29 @@
   "ecole": "École des Bourroches",
   "souhaits": [
     {
-      "produit": "robot solaire à monter",
-      "categorie": "construction",
-      "alimentation": "solaire"
+      "produit": "Slime Experience LAB So Slime Canal Toys",
+      "categorie": "créatif",
+      "marque": "Canal Toys",
+      "prix": 36.99,
+      "devise": "EUR"
     },
     {
-      "produit": "raquette de badminton",
-      "categorie": "sport"
+      "produit": "Poussette en métal avec poupon souple - Collection Teddy Bear LOVE BEBE",
+      "categorie": "poupée"
     },
     {
-      "produit": "petit clavier électronique",
-      "categorie": "musique",
-      "nombreTouches": 49
+      "produit": "Mini Brands Magic Cook Kitchen Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
-      "theme": "faune mondiale"
+      "produit": "Véhicule + Figurine Stella La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."

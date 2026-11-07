@@ -7,22 +7,28 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
-      "theme": "faune mondiale",
+      "produit": "Réveille pas papa Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "peluche panda roux",
-      "categorie": "peluche",
-      "taille": "40 cm",
+      "produit": "Jeu d'adresse Tour de Contrôle - Pat' Patrouille Spin Master",
+      "categorie": "jeu de société",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "raquette de badminton",
-      "categorie": "sport",
-      "niveau": "débutant",
-      "couleur": "bois naturel",
+      "produit": "Figurine Funko Pop Animation K-Pop Demon Hunters Mira",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 22.9,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     }
   ]

@@ -7,26 +7,35 @@
   "ecole": "École du Clos-Saint-Lambert",
   "souhaits": [
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature"
+      "produit": "Blaster à fléchettes Ragefire - X-Shot Insanity Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "jeu de parcours écologique",
+      "produit": "Jeu d'ambiance Gigamic Machu Pichu",
       "categorie": "jeu de société"
     },
     {
-      "produit": "vélo",
-      "categorie": "sport",
-      "tailleRoues": "24 pouces"
+      "produit": "Véhicule + Figurine Rocky La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "cerf-volant",
-      "categorie": "plein air",
-      "forme": "delta"
+      "produit": "Projecter de dessin - La Reine des Neiges AS Company",
+      "categorie": "créatif",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre"
+      "produit": "43022 - LEGO® Editions Formula 1 - Scuderia Ferrari HP Casque de Lewis Hamilton LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 79.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."

@@ -7,9 +7,12 @@
   "ecole": "École Paul-Bert",
   "souhaits": [
     {
-      "produit": "garage avec petites voitures",
-      "categorie": "imaginaire",
-      "nombreNiveaux": 4,
+      "produit": "72129 - Playmobil I Love Horses - Véhicule avec remorque à chevaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 44.99,
+      "devise": "EUR",
+      "reference": "72129",
       "priorite": 1
     }
   ]

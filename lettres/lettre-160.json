@@ -7,21 +7,26 @@
   "ecole": "École de Wazemmes",
   "souhaits": [
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "couleur": "bois naturel",
+      "produit": "La Bonne Paye Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "couleur": "turquoise",
+      "produit": "Jeu d'enquête Gameflow Mon Puzzle Aventure Petits Détectives",
+      "categorie": "puzzle",
+      "marque": "Gameflow",
+      "ageRecommande": 5,
       "priorite": 2
     },
     {
-      "produit": "skateboard",
-      "categorie": "sport",
-      "longueur": "79 cm",
+      "produit": "Mon ordinateur/tablette éducatif - Pat'Patrouille VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

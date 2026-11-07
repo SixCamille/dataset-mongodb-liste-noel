@@ -7,31 +7,38 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "microphone de karaoké",
-      "categorie": "musique",
-      "connexion": "Bluetooth",
-      "couleur": "bois naturel"
+      "produit": "Mon Bébé Cabrioles - Lina la Fraise Lansay",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
     },
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx",
-      "couleur": "rouge"
+      "produit": "Jeu de tir électronique Laser shoot Megableu",
+      "categorie": "jeu de société",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche panda roux",
-      "categorie": "peluche",
-      "taille": "40 cm"
-    },
-    {
-      "produit": "LEGO fleurs",
+      "produit": "71649 - Playmobil My Life - Assistante maternelle et bébés PLAYMOBIL",
       "categorie": "construction",
-      "collection": "botanique"
+      "marque": "PLAYMOBIL",
+      "prix": 24.99,
+      "devise": "EUR",
+      "reference": "71649"
     },
     {
-      "produit": "livre de recettes pour enfants",
-      "categorie": "livre",
-      "niveau": "facile"
+      "produit": "Poupon électronique Stitch - Blond Jakks Pacific",
+      "categorie": "poupée",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Disney Grand Jester Mini Stitch et Angel Sachet Mystère 6 Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Disney",
+      "prix": 3.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

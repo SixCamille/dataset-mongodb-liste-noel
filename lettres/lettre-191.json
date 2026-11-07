@@ -7,9 +7,11 @@
   "ecole": "École des Terreaux",
   "souhaits": [
     {
-      "produit": "télescope d'initiation",
-      "categorie": "sciences",
-      "diametre": "70 mm",
+      "produit": "Zébulon, mon compagnon glouton VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

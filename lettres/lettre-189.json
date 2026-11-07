@@ -7,9 +7,10 @@
   "ecole": "École Pierre-et-Marie-Curie",
   "souhaits": [
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x"
+      "produit": "Planétarium haute définition Microplanet",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

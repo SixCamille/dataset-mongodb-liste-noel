@@ -7,33 +7,37 @@
   "ecole": "École de Montferrand",
   "souhaits": [
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences"
+      "produit": "10357 - LEGO® Icons - Shelby Cobra 427 S/C LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "10357"
     },
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ]
+      "produit": "Monster High Moonspell Magic - Poupée Carina Song Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 31.99,
+      "devise": "EUR"
     },
     {
-      "produit": "kit de poterie autodurcissante",
-      "categorie": "créatif",
-      "matiere": "argile"
+      "produit": "Coffret de figurines Rumi et Jinu-avec bipa - KPop Demon Hunters Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 49.99,
+      "devise": "EUR"
     },
     {
-      "produit": "skateboard",
-      "categorie": "sport",
-      "longueur": "79 cm",
-      "couleur": "violet"
+      "produit": "Music’Kid Karaoké bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "livre-jeu d'énigmes",
-      "categorie": "livre",
-      "niveau": "8-10 ans"
+      "produit": "Tractopelle Claas et remorque Falk",
+      "categorie": "imaginaire",
+      "prix": 159.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances."

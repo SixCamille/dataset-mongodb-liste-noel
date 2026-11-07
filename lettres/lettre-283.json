@@ -7,21 +7,26 @@
   "ecole": "École des Olivettes",
   "souhaits": [
     {
-      "produit": "sac à dos de randonnée",
-      "categorie": "plein air",
+      "produit": "Jeu de construction Jekca - Chat roux 25cm Jekca",
+      "categorie": "construction",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu d'enquête familial",
+      "produit": "Archéo - Jeu de coopération Gigamic",
       "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 5",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "lampe de lecture rechargeable",
-      "categorie": "numérique",
-      "connexion": "USB-C",
-      "couleur": "rose",
+      "produit": "Pack 4 figurines Funko Bitty Pop X-Men Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 13.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 3
     }
   ]

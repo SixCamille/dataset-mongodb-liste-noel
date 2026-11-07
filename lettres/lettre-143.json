@@ -7,35 +7,45 @@
   "ecole": "École Anatole-France",
   "souhaits": [
     {
-      "produit": "jeu de stratégie sur les animaux",
-      "categorie": "jeu de société",
-      "dureePartie": "30 min",
+      "produit": "LEGO® City 60456 La course-poursuite en bateau de police",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     },
     {
-      "produit": "boîte de Kapla",
-      "categorie": "construction",
-      "matiere": "bois",
-      "couleur": "bleu",
+      "produit": "Pixelo Phospho 2D Lansay",
+      "categorie": "imaginaire",
+      "prix": 21.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus",
+      "produit": "Pack Lunii Baladeur interactif avec coque de protection nomade",
+      "categorie": "électronique",
+      "marque": "Lunii",
+      "prix": 99.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
       "priorite": 3
     },
     {
-      "produit": "château miniature",
-      "categorie": "imaginaire",
-      "couleur": "noir",
+      "produit": "Jeu de stratégie Asmodee Zenith Secret Agents",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 5.49,
+      "devise": "EUR",
+      "ageRecommande": 9,
       "priorite": 4
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "rouge",
+      "produit": "Circuit Hypersphere Crash Hot Wheels Mattel",
+      "categorie": "véhicule",
+      "marque": "Mattel",
+      "prix": 49.99,
+      "devise": "EUR",
       "priorite": 5
     }
   ],

@@ -7,17 +7,23 @@
   "ecole": "École des Chalets",
   "souhaits": [
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences"
-    },
-    {
-      "produit": "kit de poterie autodurcissante",
+      "produit": "Coffret créatif Aqua Gelz Deluxe Simba Dickie",
       "categorie": "créatif",
-      "matiere": "argile"
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche"
+      "produit": "71681 - Playmobil Junior - Arche de Noé PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71681"
+    },
+    {
+      "produit": "Voiture Radio Commandée Metal Fury 2.4 - 4Speed Silverlit",
+      "categorie": "véhicule",
+      "marque": "Silverlit"
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille."

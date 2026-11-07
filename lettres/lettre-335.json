@@ -7,21 +7,26 @@
   "ecole": "École Jules-Guesde",
   "souhaits": [
     {
-      "produit": "peluche panda roux",
-      "categorie": "peluche",
-      "taille": "40 cm",
-      "couleur": "violet",
+      "produit": "Triominos Junior Bluey Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 25.49,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "jeu de mémoire illustré",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "produit": "42238 - LEGO Technic - La Moto Ducati Desmo450 MX Factory LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "42238",
       "priorite": 2
     },
     {
-      "produit": "ballon de football",
-      "categorie": "sport",
+      "produit": "Cartes-histoires 101Dalmacien conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
       "priorite": 3
     }
   ]

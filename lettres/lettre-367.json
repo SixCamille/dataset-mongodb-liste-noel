@@ -7,22 +7,25 @@
   "ecole": "École Léon-Jouhaux",
   "souhaits": [
     {
-      "produit": "jeu de parcours écologique",
-      "categorie": "jeu de société",
-      "theme": "nature",
+      "produit": "LEGO® Spidey 11206 Spidey sur sa moto contre Rhino",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
+      "produit": "Figurine Tonies Pokémon Pikachu",
+      "categorie": "figurine et collection",
+      "ageRecommande": 5,
       "priorite": 2
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true,
-      "couleur": "violet",
+      "produit": "Barbie - Camping-Car de Rêve Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 89.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

@@ -7,15 +7,17 @@
   "ecole": "École Paul-Bert",
   "souhaits": [
     {
-      "produit": "atlas illustré des animaux",
-      "categorie": "livre",
-      "theme": "faune mondiale",
+      "produit": "L'atelier des stylos - Harry Potter Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "rollers",
-      "categorie": "sport",
-      "pointure": 37,
+      "produit": "Pistolet XSHOT Hyper Gel Trace Fire + 2500 pastilles Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
       "priorite": 2
     }
   ]

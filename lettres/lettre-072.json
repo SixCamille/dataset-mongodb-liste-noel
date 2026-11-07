@@ -7,25 +7,31 @@
   "ecole": "École du Vieux-Lille",
   "souhaits": [
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
-      "format": "album"
+      "produit": "Studio de Scrapbooking Pro 4 en 1 Style 4 Ever Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 24.99,
+      "devise": "EUR"
     },
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique",
-      "alarmeProgressive": true
-    },
-    {
-      "produit": "mallette d'aquarelle",
-      "categorie": "créatif",
-      "nombreCouleurs": 24
-    },
-    {
-      "produit": "circuit de billes modulable",
+      "produit": "75455 - LEGO® Star Wars - Boba Fett LEGO",
       "categorie": "construction",
-      "nombrePieces": 120,
-      "couleur": "orange"
+      "marque": "LEGO",
+      "prix": 159.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Funko Pop Games Pokémon Charmeleon Reptincel Glutexo",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Bitzee Aquarium Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master"
     }
   ],
   "commentaire": "J'aime lire au calme avant de dormir."

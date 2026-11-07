@@ -7,23 +7,27 @@
   "ecole": "École des Prébendes",
   "souhaits": [
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche"
+      "produit": "Puzzle 3D K-Pop Demon Hunters Basket Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
+      "prix": 21.99,
+      "devise": "EUR"
     },
     {
-      "produit": "mallette d'aquarelle",
-      "categorie": "créatif",
-      "nombreCouleurs": 24,
-      "couleur": "noir"
+      "produit": "LEGO® Minifigures 71053 Série Shrek",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 3.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     },
     {
-      "produit": "montre numérique éducative",
-      "categorie": "numérique",
-      "fonctions": [
-        "heure",
-        "chronomètre",
-        "alarme"
-      ]
+      "produit": "Jeu d'ambiance Ludistri Haïku",
+      "categorie": "jeu de société",
+      "marque": "Ludistri",
+      "prix": 22.99,
+      "devise": "EUR",
+      "ageRecommande": 8
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis."

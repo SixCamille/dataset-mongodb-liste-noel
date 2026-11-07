@@ -7,28 +7,34 @@
   "ecole": "École des Églantines",
   "souhaits": [
     {
-      "produit": "trottinette",
-      "categorie": "sport"
+      "produit": "Mini Brands Magic Cook Kitchen Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru"
     },
     {
-      "produit": "jeu d'enquête familial",
-      "categorie": "jeu de société"
+      "produit": "Camion de chantier télécommandé Volvo pelleteuse 60 cm Motor & Co R/C",
+      "categorie": "véhicule",
+      "prix": 69.99,
+      "devise": "EUR"
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "matiere": "bois"
+      "produit": "Figurine Tonies Pokémon Salameche",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "hamac pour enfant",
-      "categorie": "plein air",
-      "usage": "extérieur"
+      "produit": "Pili pili - Jeu de bluff Pixie Games",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "taille": "30 cm",
-      "couleur": "bois naturel"
+      "produit": "42238 - LEGO Technic - La Moto Ducati Desmo450 MX Factory LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "42238"
     }
   ],
   "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."

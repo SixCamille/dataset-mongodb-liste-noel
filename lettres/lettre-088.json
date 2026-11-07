@@ -7,27 +7,30 @@
   "ecole": "École Michel-Servet",
   "souhaits": [
     {
-      "produit": "boîte de Kapla",
-      "categorie": "construction",
+      "produit": "Pack de lanceur Victor -Beyblade X Hasbro",
+      "categorie": "figurine et collection",
       "priorite": 1
     },
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "couleur": "violet",
+      "produit": "71524 - Playmobil Dinos - Explorateur avec moto et tyrannosaure PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71524",
       "priorite": 2
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6,
-      "couleur": "bois naturel",
+      "produit": "Flipper électronique Sonic Toopiz",
+      "categorie": "électronique",
       "priorite": 3
     },
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique",
+      "produit": "Grenouille lumineuse roulante Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price",
+      "prix": 27.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ],

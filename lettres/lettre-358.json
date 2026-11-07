@@ -7,20 +7,24 @@
   "ecole": "École de Lodi",
   "souhaits": [
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
+      "produit": "Coussin d'activités 2 en 1 Cosy Play Sophie la Girafe Vulli",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "taille": "30 cm",
+      "produit": "43022 - LEGO® Editions Formula 1 - Scuderia Ferrari HP Casque de Lewis Hamilton LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "43022",
       "priorite": 2
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1,
+      "produit": "Voiture télécommandée Lamborghini Aventador 47 cm 1/10ème Motor & Co R/C",
+      "categorie": "véhicule",
+      "prix": 69.99,
+      "devise": "EUR",
       "priorite": 3
     }
   ]

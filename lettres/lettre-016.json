@@ -7,10 +7,10 @@
   "ecole": "École des Arènes",
   "souhaits": [
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique",
-      "couleur": "rouge",
+      "produit": "Maxi puzzle éducatif en bois chiffres et lettres WOOD N PLAY",
+      "categorie": "puzzle",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ]

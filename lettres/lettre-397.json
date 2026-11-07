@@ -7,29 +7,35 @@
   "ecole": "École Saint-Leu",
   "souhaits": [
     {
-      "produit": "boussole d'exploration",
-      "categorie": "plein air",
-      "boitier": "antichoc",
-      "couleur": "rouge",
+      "produit": "71530 - Playmobil Pirates - Bateau Pirates PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "71530",
       "priorite": 1
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "vert",
+      "produit": "Détecteur de métaux expert Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "rollers",
-      "categorie": "sport",
-      "pointure": 40,
+      "produit": "Talkies-Walkies interactifs - Spidey VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "déguisement d'astronaute",
-      "categorie": "imaginaire",
-      "taille": "12 ans",
+      "produit": "Dobble Kpop Demon Hunters Asmodée",
+      "categorie": "jeu de société",
+      "prix": 16.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

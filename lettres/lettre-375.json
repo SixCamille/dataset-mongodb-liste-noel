@@ -7,8 +7,10 @@
   "ecole": "École Pierre-et-Marie-Curie",
   "souhaits": [
     {
-      "produit": "réveil avec simulateur d'aube",
-      "categorie": "numérique"
+      "produit": "Chariot de course avec siège bébé LOVE BEBE",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aimerais organiser des parties avec toute ma famille."

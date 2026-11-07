@@ -7,14 +7,13 @@
   "ecole": "École Émile-Zola",
   "souhaits": [
     {
-      "produit": "appareil photo instantané pour enfant",
-      "categorie": "numérique",
-      "resolution": "12 Mpx"
+      "produit": "Blaster à fléchettes Ragefire - X-Shot Insanity Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru"
     },
     {
-      "produit": "presse à fleurs",
-      "categorie": "nature",
-      "format": "A5"
+      "produit": "Robot dinosaure télécommandé smart - 54 cm Motor & Co R/C",
+      "categorie": "véhicule"
     }
   ],
   "commentaire": "Mon activité préférée est de créer avec mes mains."

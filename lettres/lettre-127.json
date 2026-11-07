@@ -7,32 +7,40 @@
   "ecole": "École des Chalets",
   "souhaits": [
     {
-      "produit": "kit pour fabriquer des bracelets",
-      "categorie": "créatif",
-      "type": "perles",
+      "produit": "Triominos Junior Bluey Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 25.49,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1,
+      "produit": "Figurine Funko Pop Marvel X-Men 97 Storm",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 2
     },
     {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "taille": "45 cm",
+      "produit": "Mallette De Construction 793g - Kinetic Sand Spin Master",
+      "categorie": "construction",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu coopératif de sauvetage",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "2 à 4",
+      "produit": "Poupée Rainbow High Pretty in Paris - Violet Willow Mga",
+      "categorie": "poupée",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 4
     },
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
+      "produit": "Voiture de police télécommandée Motor & Co R/C",
+      "categorie": "véhicule",
       "priorite": 5
     }
   ]

@@ -7,10 +7,9 @@
   "ecole": "École des Sapins",
   "souhaits": [
     {
-      "produit": "figurines de dinosaures",
+      "produit": "Mon premier aspirateur d'éveil Fisher Price Fisher Price",
       "categorie": "imaginaire",
-      "nombreFigurines": 12,
-      "couleur": "bois naturel",
+      "marque": "Fisher Price",
       "priorite": 1
     }
   ]

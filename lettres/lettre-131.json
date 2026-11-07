@@ -7,26 +7,30 @@
   "ecole": "École de la Guillotière",
   "souhaits": [
     {
-      "produit": "kit de fouilles de fossiles",
-      "categorie": "sciences",
+      "produit": "BattleCave Lion de Glace - Eldrador Schleich",
+      "categorie": "figurine et collection",
+      "marque": "Schleich",
       "priorite": 1
     },
     {
-      "produit": "boîte de Kapla",
-      "categorie": "construction",
-      "matiere": "bois",
+      "produit": "Poupée Barbie Danseuse Papillon Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "ballon de football",
-      "categorie": "sport",
-      "taille": 4,
+      "produit": "Aquabeads - 31774 - La box Super Mario Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
       "priorite": 3
     },
     {
-      "produit": "jeu de cartes rapide",
-      "categorie": "jeu de société",
-      "nombreJoueurs": "3 à 6",
+      "produit": "Miniverse Make It Mini Real Music Vinyles Mga",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

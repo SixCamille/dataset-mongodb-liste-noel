@@ -7,26 +7,33 @@
   "ecole": "École Anatole-France",
   "souhaits": [
     {
-      "produit": "raquette de badminton",
-      "categorie": "sport",
-      "niveau": "débutant",
+      "produit": "Tablette lumineuse 3 en 1 Professional Studio Buki",
+      "categorie": "électronique",
+      "marque": "Buki",
       "priorite": 1
     },
     {
-      "produit": "marionnettes d'animaux",
+      "produit": "Barbecue et plancha grill - Smoby Smoby",
       "categorie": "imaginaire",
-      "nombreMarionnettes": 6,
+      "marque": "Smoby",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "tablette lumineuse de dessin",
-      "categorie": "numérique",
+      "produit": "Conteuse gramophone et 126 disques - Quelle histoire Joyeuse",
+      "categorie": "livre et audio",
+      "prix": 47.49,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "bande dessinée humoristique",
-      "categorie": "livre",
-      "format": "album",
+      "produit": "43022 - LEGO® Editions Formula 1 - Scuderia Ferrari HP Casque de Lewis Hamilton LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "43022",
       "priorite": 4
     }
   ]

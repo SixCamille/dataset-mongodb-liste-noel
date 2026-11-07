@@ -7,20 +7,24 @@
   "ecole": "École des Églantines",
   "souhaits": [
     {
-      "produit": "set de calligraphie",
-      "categorie": "créatif",
-      "niveau": "débutant"
+      "produit": "Trottinette 3 roues pliable Pat'Patrouille STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus"
+      "produit": "Pic'Pirate Gold Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 14.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche panda roux",
-      "categorie": "peluche",
-      "taille": "40 cm",
-      "couleur": "turquoise"
+      "produit": "Tut Tut Bolides Bluey – Super marchand de glaces interactif VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 41.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime lire au calme avant de dormir."

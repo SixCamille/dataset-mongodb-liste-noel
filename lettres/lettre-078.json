@@ -7,13 +7,18 @@
   "ecole": "École Léon-Jouhaux",
   "souhaits": [
     {
-      "produit": "château miniature",
-      "categorie": "imaginaire"
+      "produit": "Labyrinthe Junior Pat'Patrouille Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé"
+      "produit": "Mon journal intime Gabby et la maison magique - KidiSecrets VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 29.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime beaucoup dessiner après l'école."

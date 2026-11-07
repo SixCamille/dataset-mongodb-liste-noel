@@ -7,14 +7,20 @@
   "ecole": "École du Rouet",
   "souhaits": [
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x",
+      "produit": "71856 - PLAYMOBIL - Ferrari 250 GTO PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 19.99,
+      "devise": "EUR",
+      "reference": "71856",
       "priorite": 1
     },
     {
-      "produit": "garage avec petites voitures",
-      "categorie": "imaginaire",
+      "produit": "Circuit Ultimate Garage T-Rex Hot Wheels Mattel",
+      "categorie": "véhicule",
+      "marque": "Mattel",
+      "prix": 129.99,
+      "devise": "EUR",
       "priorite": 2
     }
   ]

@@ -7,19 +7,25 @@
   "ecole": "École des Bateliers",
   "souhaits": [
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
-      "ageConseille": "10 ans et plus"
+      "produit": "LEGO® City 60498 Le tracteur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 15.99,
+      "devise": "EUR",
+      "ageRecommande": 6
     },
     {
-      "produit": "skateboard",
-      "categorie": "sport"
+      "produit": "Télescope super HD Microplanet",
+      "categorie": "imaginaire",
+      "prix": 79.99,
+      "devise": "EUR"
     },
     {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "taille": "45 cm",
-      "couleur": "noir"
+      "produit": "Hot dog drop - Jeu de réflèxe Jazwares",
+      "categorie": "jeu de société",
+      "marque": "Jazwares",
+      "prix": 24.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "J'aime lire au calme avant de dormir."

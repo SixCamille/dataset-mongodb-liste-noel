@@ -7,13 +7,10 @@
   "ecole": "École du Capitole",
   "souhaits": [
     {
-      "produit": "kit de jardinage pour balcon",
-      "categorie": "nature",
-      "graines": [
-        "basilic",
-        "tomate",
-        "capucine"
-      ],
+      "produit": "Grand pack 300 planchettes en bois naturel et couleur WOOD N PLAY",
+      "categorie": "plein air et nature",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 1
     }
   ],

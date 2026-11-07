@@ -7,26 +7,29 @@
   "ecole": "École du Bourg",
   "souhaits": [
     {
-      "produit": "livre-jeu d'énigmes",
-      "categorie": "livre",
-      "niveau": "8-10 ans"
+      "produit": "75455 - LEGO® Star Wars - Boba Fett LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 159.99,
+      "devise": "EUR",
+      "reference": "75455"
     },
     {
-      "produit": "garage avec petites voitures",
+      "produit": "Play-Doh Donut Drop Shop Play Doh",
       "categorie": "imaginaire",
-      "nombreNiveaux": 4
+      "marque": "Play-Doh",
+      "prix": 22.99,
+      "devise": "EUR"
     },
     {
-      "produit": "hôtel à insectes à assembler",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "vert"
+      "produit": "Calendrier de l'Avent Pieces & Peace - 24 Puzzles 42 Pièces Pieces & Peace",
+      "categorie": "puzzle",
+      "prix": 34.99,
+      "devise": "EUR"
     },
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "matiere": "bois",
-      "couleur": "rouge"
+      "produit": "Jeu de tir électronique Laser shoot Megableu",
+      "categorie": "jeu de société"
     }
   ],
   "commentaire": "J'aime inventer des histoires et jouer avec mes amis."

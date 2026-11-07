@@ -7,13 +7,18 @@
   "ecole": "École du Sanitas",
   "souhaits": [
     {
-      "produit": "coffret d'origami",
-      "categorie": "créatif"
+      "produit": "Figurine Woody Course Effrénée Toy Story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 39.99,
+      "devise": "EUR"
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1
+      "produit": "Jeu de stratégie Asmodee Carcassonne Big Box",
+      "categorie": "jeu de société",
+      "prix": 63.99,
+      "devise": "EUR",
+      "ageRecommande": 7
     }
   ],
   "commentaire": "Je partagerai mes jeux avec mon frère et mes copains."

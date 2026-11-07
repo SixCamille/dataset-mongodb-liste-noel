@@ -7,30 +7,29 @@
   "ecole": "École de l'Île-Barbe",
   "souhaits": [
     {
-      "produit": "peluche pieuvre réversible",
-      "categorie": "peluche",
-      "taille": "20 cm",
-      "couleur": "violet",
+      "produit": "Voiture Radio Commandée Metal Fury 2.4 - 4Speed Silverlit",
+      "categorie": "véhicule",
+      "marque": "Silverlit",
       "priorite": 1
     },
     {
-      "produit": "terrarium végétal",
-      "categorie": "nature",
-      "type": "fermé",
-      "couleur": "bois naturel",
+      "produit": "Hot dog drop - Jeu de réflèxe Jazwares",
+      "categorie": "jeu de société",
+      "marque": "Jazwares",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "jeu de construction magnétique",
-      "categorie": "construction",
-      "nombrePieces": 64,
-      "couleur": "rose",
+      "produit": "Kit entraînement Équipe de France de football Nemo",
+      "categorie": "sport",
       "priorite": 3
     },
     {
-      "produit": "kit d'observation des insectes",
-      "categorie": "plein air",
-      "loupe": true,
+      "produit": "Figurine Funko Pop Marvel X-Men 97 Storm",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "ageRecommande": 6,
       "priorite": 4
     }
   ]

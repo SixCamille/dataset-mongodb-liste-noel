@@ -7,20 +7,21 @@
   "ecole": "École du Faubourg-de-Hem",
   "souhaits": [
     {
-      "produit": "peluche loutre",
-      "categorie": "peluche",
-      "taille": "32 cm"
+      "produit": "Figurine Jessie avec Jimmy Dean Toy Story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel"
     },
     {
-      "produit": "mini-serre d'observation",
-      "categorie": "nature",
-      "nombrePots": 6,
-      "couleur": "vert"
+      "produit": "Circuit de voitures Glow Racer 375 rails à assembler Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
     },
     {
-      "produit": "marionnettes d'animaux",
-      "categorie": "imaginaire",
-      "nombreMarionnettes": 6
+      "produit": "Grand pack 300 planchettes en bois naturel et couleur WOOD N PLAY",
+      "categorie": "plein air et nature",
+      "prix": 39.99,
+      "devise": "EUR"
     }
   ],
   "commentaire": "Je voudrais construire plein de choses différentes."

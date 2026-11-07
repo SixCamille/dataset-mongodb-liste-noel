@@ -7,8 +7,12 @@
   "ecole": "École des Arènes",
   "souhaits": [
     {
-      "produit": "marionnettes d'animaux",
-      "categorie": "imaginaire",
+      "produit": "LEGO® Star Wars™ 75449 Pack de combat Le Siège de Mandalore",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
       "priorite": 1
     }
   ]

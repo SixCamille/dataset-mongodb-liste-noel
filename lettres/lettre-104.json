@@ -7,26 +7,33 @@
   "ecole": "École de la Montagne-Sainte-Geneviève",
   "souhaits": [
     {
-      "produit": "marionnettes d'animaux",
-      "categorie": "imaginaire",
+      "produit": "Lecteur de carte électronique avec CB et téléphone Funny Home",
+      "categorie": "électronique",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "cerf-volant",
-      "categorie": "plein air",
-      "forme": "delta",
+      "produit": "Ma serre botanique High Tech Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "microscope pour débutant",
-      "categorie": "sciences",
-      "grossissementMax": "400x",
+      "produit": "Qui est-ce ?Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
       "priorite": 3
     },
     {
-      "produit": "manga jeunesse",
-      "categorie": "livre",
-      "tome": 1,
+      "produit": "Figurine Tonies Pokémon Carapuce",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
       "priorite": 4
     }
   ]

@@ -7,32 +7,36 @@
   "ecole": "École de Montferrand",
   "souhaits": [
     {
-      "produit": "jeu de parcours écologique",
-      "categorie": "jeu de société",
+      "produit": "Super Mario Football Striker - Babyfoot miniature Epoch Games",
+      "categorie": "sport",
+      "prix": 39.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "laboratoire de cristaux",
-      "categorie": "sciences",
-      "nombreExperiences": 8,
+      "produit": "Coffret figurines de combat Invincible Heroes",
+      "categorie": "figurine et collection",
+      "prix": 24.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "LEGO fleurs",
-      "categorie": "construction",
-      "collection": "botanique",
+      "produit": "Coffret de 10 véhicules Fast & Furious - Hot Wheels Silver Series Mattel",
+      "categorie": "véhicule",
+      "marque": "Mattel",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "peluche dragon",
-      "categorie": "peluche",
-      "taille": "45 cm",
+      "produit": "Bateau de pirates - 15 accessoires Invincible Heroes",
+      "categorie": "imaginaire",
       "priorite": 4
     },
     {
-      "produit": "métier à tisser pour débutant",
-      "categorie": "créatif",
-      "couleur": "turquoise",
+      "produit": "Monopoly Formula 1 Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
       "priorite": 5
     }
   ]

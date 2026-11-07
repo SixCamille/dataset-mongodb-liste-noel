@@ -7,26 +7,32 @@
   "ecole": "École des Sapins",
   "souhaits": [
     {
-      "produit": "coffret d'expériences de chimie",
-      "categorie": "sciences",
+      "produit": "Kidi Guitare superstar VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 59.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "trottinette",
-      "categorie": "sport",
+      "produit": "Mon bébé koala - Little Live Pets Moose Toys",
+      "categorie": "peluche",
+      "marque": "Moose Toys",
+      "prix": 34.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth",
+      "produit": "Coffret de maquillage Make-up artiste Miss Fashion",
+      "categorie": "créatif",
       "priorite": 3
     },
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
-      "limiteurVolume": true,
-      "couleur": "noir",
+      "produit": "Barbie – Licorne Sons et Lumières Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

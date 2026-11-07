@@ -7,29 +7,32 @@
   "ecole": "École du Clos-Chauveau",
   "souhaits": [
     {
-      "produit": "panier de basket réglable",
-      "categorie": "sport",
-      "usage": "extérieur",
-      "couleur": "jaune",
+      "produit": "L'atelier de mode - Kpop Demon Hunters Clementoni",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "enceinte portable",
-      "categorie": "numérique",
-      "connexion": "Bluetooth",
+      "produit": "Chariot à outils Mecanics Ecoiffier",
+      "categorie": "imaginaire",
+      "prix": 27.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "casque audio pour enfant",
-      "categorie": "musique",
-      "limiteurVolume": true,
-      "couleur": "noir",
+      "produit": "Télescope Vidéo interactif - Genius XL VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 119.99,
+      "devise": "EUR",
       "priorite": 3
     },
     {
-      "produit": "jeu de cartes rapide",
+      "produit": "Mon premier jeu d'échecs Wilson Jeux",
       "categorie": "jeu de société",
-      "nombreJoueurs": "3 à 6",
+      "prix": 26.99,
+      "devise": "EUR",
       "priorite": 4
     }
   ]

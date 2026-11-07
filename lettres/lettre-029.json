@@ -7,29 +7,27 @@
   "ecole": "École des Chalets",
   "souhaits": [
     {
-      "produit": "cajón compact",
-      "categorie": "musique",
-      "couleur": "rose",
+      "produit": "Cuisine évolutive Tefal - Smoby Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
       "priorite": 1
     },
     {
-      "produit": "coffret d'origami",
+      "produit": "L'atelier des bracelets Shiny Pop Lansay",
       "categorie": "créatif",
-      "nombreFeuilles": 100,
-      "couleur": "vert",
+      "prix": 29.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "peluche axolotl",
-      "categorie": "peluche",
-      "taille": "30 cm",
+      "produit": "Siège auto cosy pour poupon LOVE BEBE",
+      "categorie": "poupée",
       "priorite": 3
     },
     {
-      "produit": "nichoir à oiseaux à peindre",
-      "categorie": "nature",
-      "matiere": "bois",
-      "couleur": "turquoise",
+      "produit": "Monopoly : KPop Demon Hunters Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
       "priorite": 4
     }
   ],

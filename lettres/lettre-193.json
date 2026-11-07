@@ -7,34 +7,42 @@
   "ecole": "École du Parc-Impérial",
   "souhaits": [
     {
-      "produit": "métier à tisser pour débutant",
-      "categorie": "créatif",
-      "couleur": "bois naturel",
+      "produit": "Mallette de 100 jeux en bois Zig Zag classic",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
       "priorite": 1
     },
     {
-      "produit": "peluche renard",
-      "categorie": "peluche",
-      "taille": "35 cm",
+      "produit": "21368 - LEGO® Ideas - Peanuts : la niche de Snoopy LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 79.99,
+      "devise": "EUR",
       "priorite": 2
     },
     {
-      "produit": "tablette lumineuse de dessin",
-      "categorie": "numérique",
-      "format": "A4",
-      "couleur": "rose",
+      "produit": "Jeu de stratégie Blue Orange Got Five !",
+      "categorie": "jeu de société",
+      "marque": "Blue Orange",
+      "prix": 22.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 3
     },
     {
-      "produit": "globe terrestre lumineux",
-      "categorie": "sciences",
+      "produit": "Porteur électronique rose Baby Smile",
+      "categorie": "électronique",
+      "marque": "Baby Smile",
       "priorite": 4
     },
     {
-      "produit": "vélo",
-      "categorie": "sport",
-      "tailleRoues": "24 pouces",
-      "couleur": "bois naturel",
+      "produit": "Jeu classique Ravensburger Brilliant",
+      "categorie": "imaginaire",
+      "marque": "Ravensburger",
+      "prix": 12.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
       "priorite": 5
     }
   ]

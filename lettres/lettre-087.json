@@ -7,15 +7,19 @@
   "ecole": "École du Jardin-des-Plantes",
   "souhaits": [
     {
-      "produit": "circuit de billes modulable",
-      "categorie": "construction",
-      "nombrePieces": 120
+      "produit": "Coffret Rainbocorns Wild Heart et Axolotlcorn (modèles aléatoires)Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 19.99,
+      "devise": "EUR"
     },
     {
-      "produit": "corde à sauter avec compteur",
-      "categorie": "sport",
-      "compteur": "numérique",
-      "couleur": "bleu"
+      "produit": "Jeu électronique Vtech Console TV LeapMOVE",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 69.99,
+      "devise": "EUR",
+      "ageRecommande": 4
     }
   ],
   "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
