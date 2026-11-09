@@ -1,0 +1,43 @@
+{
+  "prenom": "Marceau",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Talkies Walkies Kidi Talkie Explorer VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Xoomy Toy Story Ravensburger",
+      "categorie": "imaginaire",
+      "marque": "Ravensburger",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Mallette De Construction 793g - Kinetic Sand Spin Master",
+      "categorie": "construction",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "77262 - LEGO® Speed Champions - La Ford Mustang Hoonicorn V1 de 1965 de Ken Block LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 24.99,
+      "devise": "EUR",
+      "reference": "77262",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

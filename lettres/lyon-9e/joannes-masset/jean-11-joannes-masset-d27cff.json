@@ -1,0 +1,22 @@
+{
+  "prenom": "Jean",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Figurine électronique 36 cm - Spider-Man Brand New Day Hasbro",
+      "categorie": "électronique",
+      "priorite": 1
+    },
+    {
+      "produit": "Cartes-histoires Winnie L'ourson conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

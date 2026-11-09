@@ -1,0 +1,50 @@
+{
+  "prenom": "Charles",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Coffret créatif Aqua Gelz Deluxe Simba Dickie",
+      "categorie": "créatif",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Atelier Gravure Professional Studio Buki",
+      "categorie": "créatif",
+      "marque": "Buki",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Poupée Barbie Danseuse Papillon Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Figurine Funko Pop Movies Fast & Furious Dom Toretto",
+      "categorie": "figurine et collection",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 4
+    },
+    {
+      "produit": "Conteuse d’histoires Yoto Mini",
+      "categorie": "livre et audio",
+      "marque": "Yoto",
+      "prix": 69.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

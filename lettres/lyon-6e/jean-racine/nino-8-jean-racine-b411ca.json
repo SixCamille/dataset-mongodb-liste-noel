@@ -1,0 +1,50 @@
+{
+  "prenom": "Nino",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Circuit Hypersphere Crash Hot Wheels Mattel",
+      "categorie": "véhicule",
+      "marque": "Mattel",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Camion dinosaur escape avec remorques et dinosaures Invincible Heroes",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Voitures majorette Golf GTI Majorette",
+      "categorie": "véhicule",
+      "prix": 17.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Qui est-ce ? Édition World Football Stars Winning Moves",
+      "categorie": "sport",
+      "marque": "Winning Moves",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "72160 - Playmobil Country - Grande ferme et étable PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 89.99,
+      "devise": "EUR",
+      "reference": "72160",
+      "priorite": 5
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 6e"
+}

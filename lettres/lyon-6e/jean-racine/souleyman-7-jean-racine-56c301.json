@@ -1,0 +1,23 @@
+{
+  "prenom": "Souleyman",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Aquabeads - 35087 - L'Atelier d'initiation Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Barbie – Licorne Sons et Lumières Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 6e"
+}

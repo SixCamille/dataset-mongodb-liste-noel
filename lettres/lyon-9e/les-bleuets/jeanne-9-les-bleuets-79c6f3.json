@@ -1,0 +1,32 @@
+{
+  "prenom": "Jeanne",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "MagiBook Starter Pack vert VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "43022 - LEGO® Editions Formula 1 - Scuderia Ferrari HP Casque de Lewis Hamilton LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "43022",
+      "priorite": 2
+    },
+    {
+      "produit": "Set de construction CaDA - Bains japonais (1249 pièces)CaDA",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,47 @@
+{
+  "prenom": "Talia",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Talkies-Walkies interactifs - Spidey VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "priorite": 1
+    },
+    {
+      "produit": "Enceinte musicale Bluetooth et lumières groove disco Music Star",
+      "categorie": "électronique",
+      "prix": 69.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "72161 - LEGO® Pokémon - SMART Play : Recherche de Mew fabuleux en drone LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 44.99,
+      "devise": "EUR",
+      "reference": "72161",
+      "priorite": 3
+    },
+    {
+      "produit": "Coffret de figurines Rumi et Jinu-avec bipa - KPop Demon Hunters Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Etabli de bricolage avec 55 pièces incluses Funny Home",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

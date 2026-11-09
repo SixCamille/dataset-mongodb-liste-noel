@@ -1,0 +1,37 @@
+{
+  "prenom": "Zélie",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Mon casier magic locker - Reveal violet - Kidisecrets VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 44.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coussin d'activités 2 en 1 Cosy Play Sophie la Girafe Vulli",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Super Mario Adventure Game Dx Epoch Games",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Sylvanian Families - 5567 - Le cosy cottage Sylvanian Families",
+      "categorie": "imaginaire",
+      "marque": "Sylvanian Families",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 6e"
+}

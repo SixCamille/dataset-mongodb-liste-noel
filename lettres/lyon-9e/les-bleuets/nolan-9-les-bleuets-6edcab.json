@@ -1,0 +1,41 @@
+{
+  "prenom": "Nolan",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Mon casier magic locker - Stitch - Kidisecrets VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Coffret multi-jeux Ludi",
+      "categorie": "imaginaire",
+      "marque": "Ludi",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "71729 - Playmobil Action Heroes - Voiture police avec sirène et gyrophare PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "reference": "71729",
+      "priorite": 3
+    },
+    {
+      "produit": "Mallette De Construction 793g - Kinetic Sand Spin Master",
+      "categorie": "construction",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

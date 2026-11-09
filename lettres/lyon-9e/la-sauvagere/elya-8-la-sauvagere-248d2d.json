@@ -1,0 +1,27 @@
+{
+  "prenom": "Elya",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Voiture radiocommandée Gabby chat Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "21597 - LEGO® Minecraft - La station de Ghast LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 99.99,
+      "devise": "EUR",
+      "reference": "21597",
+      "priorite": 2
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

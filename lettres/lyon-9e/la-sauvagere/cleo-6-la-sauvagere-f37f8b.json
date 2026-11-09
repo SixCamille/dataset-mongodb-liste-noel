@@ -1,0 +1,39 @@
+{
+  "prenom": "Cléo",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation Jujutsu Kaisen Satoru Gojo jeune Exclusivité Fnac",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® City 60456 La course-poursuite en bateau de police",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "Poupon Luvibubs rose - Kira Moose Toys",
+      "categorie": "poupée",
+      "marque": "Moose Toys",
+      "priorite": 3
+    },
+    {
+      "produit": "Peluche Ma Loutre Câlins Bonne Nuit Fisher Price Fisher Price",
+      "categorie": "peluche",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

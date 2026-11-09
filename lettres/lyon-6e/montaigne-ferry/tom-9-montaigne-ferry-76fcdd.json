@@ -1,0 +1,32 @@
+{
+  "prenom": "Tom",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "XSHOT Insanity Blitz Hammer avec 48 fléchettes Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "71742 - Playmobil My Life - Hôtel des animaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 54.99,
+      "devise": "EUR",
+      "reference": "71742"
+    },
+    {
+      "produit": "10357 - LEGO® Icons - Shelby Cobra 427 S/C LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "10357"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 6e"
+}

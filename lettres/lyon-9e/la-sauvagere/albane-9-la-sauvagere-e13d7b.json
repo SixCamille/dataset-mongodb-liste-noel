@@ -1,0 +1,43 @@
+{
+  "prenom": "Albane",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Lit superposé en bois 50 cm LOVE BEBE",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Télescope super HD Microplanet",
+      "categorie": "imaginaire",
+      "prix": 79.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Deguisement Pompier + accesoires 3/6 ans - Melissa&Doug Spin Master",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "42704 - LEGO® Friends - Le grand hôtel de Heartlake City LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 134.99,
+      "devise": "EUR",
+      "reference": "42704"
+    },
+    {
+      "produit": "43020 - LEGO® Editions Football - Trophée officiel de la Coupe du monde de la FIFA LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "43020"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 9e"
+}

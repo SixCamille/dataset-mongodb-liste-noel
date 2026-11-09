@@ -1,0 +1,31 @@
+{
+  "prenom": "Manon",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Croque Carotte Lapins Pailletés - Edition limitée Ravensburger",
+      "categorie": "jeu de société",
+      "marque": "Ravensburger",
+      "prix": 20.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coffret figurines de combat Invincible Heroes",
+      "categorie": "figurine et collection",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Labo Potions Buki",
+      "categorie": "sciences et éducatif",
+      "marque": "Buki",
+      "prix": 19.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 6e"
+}

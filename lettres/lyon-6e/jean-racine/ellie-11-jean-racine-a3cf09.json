@@ -1,0 +1,27 @@
+{
+  "prenom": "Ellie",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Echiquier électronique et tactile Zig Zag classic",
+      "categorie": "électronique",
+      "prix": 59.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coussin d'activités 2 en 1 Cosy Play Sophie la Girafe Vulli",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 6e"
+}

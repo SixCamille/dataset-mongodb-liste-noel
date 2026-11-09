@@ -1,0 +1,39 @@
+{
+  "prenom": "Léonard",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Tablette lumineuse 3 en 1 Professional Studio Buki",
+      "categorie": "électronique",
+      "marque": "Buki"
+    },
+    {
+      "produit": "Lecteur de carte électronique avec CB et téléphone Funny Home",
+      "categorie": "électronique",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "42238 - LEGO Technic - La Moto Ducati Desmo450 MX Factory LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "42238"
+    },
+    {
+      "produit": "Pack de lanceur Victor -Beyblade X Hasbro",
+      "categorie": "figurine et collection"
+    },
+    {
+      "produit": "Cartes-histoires Roi Lion conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
+      "prix": 14.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 9e"
+}

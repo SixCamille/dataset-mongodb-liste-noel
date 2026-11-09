@@ -1,0 +1,41 @@
+{
+  "prenom": "Clément",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Tablette Storio Max XL 2.0 rose VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 159.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Echiquier électronique et tactile Zig Zag classic",
+      "categorie": "électronique",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "75460 - LEGO® Star Wars - Le X-Wing Starfighter™ de la Nouvelle République LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 69.99,
+      "devise": "EUR",
+      "reference": "75460",
+      "priorite": 3
+    },
+    {
+      "produit": "Conteuse gramophone et 126 disques - Quelle histoire Joyeuse",
+      "categorie": "livre et audio",
+      "prix": 47.49,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

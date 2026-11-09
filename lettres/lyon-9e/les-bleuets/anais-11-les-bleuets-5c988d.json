@@ -1,0 +1,25 @@
+{
+  "prenom": "Anaïs",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Appareil photo KidiZoom Duo FX bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 74.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Maxi tapis Aquadoodle arc en ciel fluo Tomy",
+      "categorie": "imaginaire",
+      "marque": "Tomy",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 9e"
+}

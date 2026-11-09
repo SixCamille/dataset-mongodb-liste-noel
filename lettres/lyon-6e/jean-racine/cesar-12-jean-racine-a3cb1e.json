@@ -1,0 +1,27 @@
+{
+  "prenom": "César",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Pic Pirate Stitch Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 22.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "11513 - LEGO® Botanicals - La Composition Florale Sombre LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 59.99,
+      "devise": "EUR",
+      "reference": "11513",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

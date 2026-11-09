@@ -1,0 +1,46 @@
+{
+  "prenom": "Auguste",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Music’Kid Karaoké bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Appareil photo KidiZoom Duo FX bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 74.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "72154 - LEGO Pokémon - Poké Ball Moments culte de Dresseur LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 239.99,
+      "devise": "EUR",
+      "reference": "72154"
+    },
+    {
+      "produit": "Figurine Funko Pop Animation Delicious in Dungeon Laios with Chase Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Établi Bosch Work-Shop Klein",
+      "categorie": "imaginaire",
+      "prix": 64.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "arrondissement": "Lyon 6e"
+}

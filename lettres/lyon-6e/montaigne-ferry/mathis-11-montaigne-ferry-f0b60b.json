@@ -1,0 +1,47 @@
+{
+  "prenom": "Mathis",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Lecteur de carte électronique avec CB et téléphone Funny Home",
+      "categorie": "électronique",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Ordinateur - Tablette P'tit Genius Touch rose VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "priorite": 2
+    },
+    {
+      "produit": "Appareil photo avec impression instantanée - KidiZoom Print Cam VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 64.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "LEGO® ONE PIECE 75636 Le bar du village de Fuchsia",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 21.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
+      "priorite": 4
+    },
+    {
+      "produit": "Tonies Stitch - Lilo & Stitch Tonies",
+      "categorie": "livre et audio",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

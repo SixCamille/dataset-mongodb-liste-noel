@@ -1,0 +1,38 @@
+{
+  "prenom": "Fatima",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Calendrier de l'Avent magie Clementoni",
+      "categorie": "imaginaire",
+      "prix": 21.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Pixelo Phospho 2D Lansay",
+      "categorie": "imaginaire",
+      "prix": 21.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "71749 - Playmobil Action Heroes - Pelleteuse mécanique et ouvrier PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 54.99,
+      "devise": "EUR",
+      "reference": "71749"
+    },
+    {
+      "produit": "43022 - LEGO® Editions Formula 1 - Scuderia Ferrari HP Casque de Lewis Hamilton LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 79.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,42 @@
+{
+  "prenom": "Alice",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Studio à porte-clés DIY 3 en 1 Style for Ever Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Mama Tortue surprise Pets Alive Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Set de construction CaDA - Bains japonais (1249 pièces)CaDA",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "71729 - Playmobil Action Heroes - Voiture police avec sirène et gyrophare PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 34.99,
+      "devise": "EUR",
+      "reference": "71729",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

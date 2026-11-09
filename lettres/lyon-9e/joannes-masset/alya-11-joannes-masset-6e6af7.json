@@ -1,0 +1,51 @@
+{
+  "prenom": "Alya",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Globe vidéo interactif Genius XL VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 119.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Pack tir électronique XShot – Cibles interactives et 2 blasters Fury 4 Zuru",
+      "categorie": "électronique",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "LEGO® Creator 31170 Animaux sauvages : le flamant rose",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 20.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
+      "priorite": 3
+    },
+    {
+      "produit": "Tamagotchi Paradise - Frozen Bandai",
+      "categorie": "figurine et collection",
+      "marque": "Bandai",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Spiderman - Panoplie Luxe - 7/8 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets.",
+  "arrondissement": "Lyon 9e"
+}

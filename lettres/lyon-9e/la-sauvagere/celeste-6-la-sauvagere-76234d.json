@@ -1,0 +1,42 @@
+{
+  "prenom": "Céleste",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Games Pokémon Charmeleon Reptincel Glutexo",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "71656 - Playmobil Junior - Ferme avec tracteur et animaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "71656",
+      "priorite": 2
+    },
+    {
+      "produit": "Chariot de course avec siège bébé LOVE BEBE",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Jeu d'enquête Gameflow Mon Puzzle Aventure Petits Détectives",
+      "categorie": "puzzle",
+      "marque": "Gameflow",
+      "ageRecommande": 5,
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

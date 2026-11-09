@@ -1,0 +1,26 @@
+{
+  "prenom": "Roxane",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Micro Kidi SuperStar DJ Studio Rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "SOS Ouistiti - Panique dans l'Arbre Mattel Games",
+      "categorie": "imaginaire",
+      "marque": "Mattel",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

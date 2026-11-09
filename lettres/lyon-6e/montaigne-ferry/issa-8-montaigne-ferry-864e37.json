@@ -1,0 +1,42 @@
+{
+  "prenom": "Issa",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Grand Garage avec petites voitures Smoby",
+      "categorie": "véhicule",
+      "marque": "Smoby",
+      "priorite": 1
+    },
+    {
+      "produit": "Voiture télécommandée EXOST 360 Cross Flash Rose Exost",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Voiture radiocommandée EXOST 360 Aquacross Exost",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Avion militaire sons et lumières - 2 véhicules et figurine soldat Invincible Heroes",
+      "categorie": "véhicule",
+      "priorite": 4
+    },
+    {
+      "produit": "Circuit à billes magnétiques Marble Rush - Dino Adventures Magnetic Set XL400E VTech",
+      "categorie": "construction",
+      "marque": "VTech",
+      "priorite": 5
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 6e"
+}

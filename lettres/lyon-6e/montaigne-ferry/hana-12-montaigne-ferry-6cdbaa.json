@@ -1,0 +1,48 @@
+{
+  "prenom": "Hana",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Jeu d’échecs Harry Potter magnétique pliable Lexibook",
+      "categorie": "jeu de société",
+      "marque": "Lexibook",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Archéo - Jeu de coopération Gigamic",
+      "categorie": "jeu de société",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Jeu Bingo Deluxe en bois avec boulier en métal Zig Zag jeux action",
+      "categorie": "jeu de société",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "BattleCave Lion de Glace - Eldrador Schleich",
+      "categorie": "figurine et collection",
+      "marque": "Schleich",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Chimie sans danger 150 expériences Buki",
+      "categorie": "sciences et éducatif",
+      "marque": "Buki",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

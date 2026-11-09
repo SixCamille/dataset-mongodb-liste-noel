@@ -1,0 +1,42 @@
+{
+  "prenom": "Matéo",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Établi Bosch Work-Shop Klein",
+      "categorie": "imaginaire",
+      "prix": 64.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Coffret Mini Brands Kawaii Kitchen (modèles aléatoires)Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "71744 - Playmobil My Life - Bar à chats PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 24.99,
+      "devise": "EUR",
+      "reference": "71744",
+      "priorite": 3
+    },
+    {
+      "produit": "21368 - LEGO® Ideas - Peanuts : la niche de Snoopy LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 79.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

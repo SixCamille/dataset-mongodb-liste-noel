@@ -1,0 +1,33 @@
+{
+  "prenom": "Paul",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Talkies-walkies vidéo 2-en-1 Com Creator Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "11381 - LEGO® Icons - Jaguar E-Type LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 129.99,
+      "devise": "EUR",
+      "reference": "11381"
+    },
+    {
+      "produit": "Ma fabrique à histoires Lunii Wifi violette Lunii",
+      "categorie": "construction",
+      "marque": "Lunii",
+      "prix": 69.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

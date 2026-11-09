@@ -1,0 +1,25 @@
+{
+  "prenom": "Aymen",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Avion militaire sons et lumières - 2 véhicules et figurine soldat Invincible Heroes",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "LEGO® Ninjago® 71864 Véhicules combinables de Kai et Cole",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 7
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 9e"
+}

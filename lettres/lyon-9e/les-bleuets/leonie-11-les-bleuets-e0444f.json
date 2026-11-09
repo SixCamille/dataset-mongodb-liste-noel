@@ -1,0 +1,43 @@
+{
+  "prenom": "Léonie",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Nanoblock robot Goldorak Bandai",
+      "categorie": "électronique",
+      "marque": "Bandai",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Tablette lumineuse 3 en 1 Professional Studio Buki",
+      "categorie": "électronique",
+      "marque": "Buki",
+      "priorite": 2
+    },
+    {
+      "produit": "42221 - LEGO® Technic - La fusée SLS NASA Artemis LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "42221",
+      "priorite": 3
+    },
+    {
+      "produit": "Figurine 11 cm et buggy - Spider-Man Brand New Day Hasbro",
+      "categorie": "figurine et collection",
+      "priorite": 4
+    },
+    {
+      "produit": "Casque de pompier et accessoires de déguisement Invincible Heroes",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

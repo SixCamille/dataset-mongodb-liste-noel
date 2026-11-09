@@ -1,0 +1,17 @@
+{
+  "prenom": "Gianni",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Super Mario Football Striker - Babyfoot miniature Epoch Games",
+      "categorie": "sport",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

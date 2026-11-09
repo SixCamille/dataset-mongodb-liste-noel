@@ -1,0 +1,33 @@
+{
+  "prenom": "Yassine",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Dobble Kpop Demon Hunters Asmodée",
+      "categorie": "jeu de société",
+      "prix": 16.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Jeu d'ambiance Gigamic Machu Pichu",
+      "categorie": "jeu de société",
+      "marque": "Gigamic",
+      "prix": 13.99,
+      "devise": "EUR",
+      "ageRecommande": 8
+    },
+    {
+      "produit": "LEGO® Botanicals 11508 Marguerites",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 9
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 9e"
+}

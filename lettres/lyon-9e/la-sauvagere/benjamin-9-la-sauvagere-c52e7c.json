@@ -1,0 +1,15 @@
+{
+  "prenom": "Benjamin",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Miniverse Make It Mini Real Brands Distributeur Mga",
+      "categorie": "imaginaire"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

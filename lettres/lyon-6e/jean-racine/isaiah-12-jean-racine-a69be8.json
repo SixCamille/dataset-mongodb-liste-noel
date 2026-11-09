@@ -1,0 +1,50 @@
+{
+  "prenom": "Isaïah",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie Asmodee Zenith Secret Agents",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 5.49,
+      "devise": "EUR",
+      "ageRecommande": 9,
+      "priorite": 1
+    },
+    {
+      "produit": "Archéo - Jeu de coopération Gigamic",
+      "categorie": "jeu de société",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Qui est-ce ?Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "LEGO® Minecraft® 21588 Le Renard",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 34.99,
+      "devise": "EUR",
+      "ageRecommande": 10,
+      "priorite": 4
+    },
+    {
+      "produit": "Maxi puzzle éducatif en bois chiffres et lettres WOOD N PLAY",
+      "categorie": "puzzle",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

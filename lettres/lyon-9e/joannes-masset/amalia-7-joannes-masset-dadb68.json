@@ -1,0 +1,16 @@
+{
+  "prenom": "Amalia",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Coffret de maquillage Make-up artiste Miss Fashion",
+      "categorie": "créatif",
+      "priorite": 1
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école.",
+  "arrondissement": "Lyon 9e"
+}

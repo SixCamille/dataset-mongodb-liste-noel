@@ -1,0 +1,18 @@
+{
+  "prenom": "Evan",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Console tv - Leapmove+VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 84.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,30 @@
+{
+  "prenom": "Thiago",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation One Piece Bon Clay with Chase Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Tour De Contrôle La Pat'Patrouille Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 59.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Croque Carotte Pat'Patrouille Ravensburger",
+      "categorie": "jeu de société",
+      "prix": 27.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 9e"
+}

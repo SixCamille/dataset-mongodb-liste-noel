@@ -1,0 +1,41 @@
+{
+  "prenom": "Cataleya",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Bataille navale électronique Zig Zag jeux action",
+      "categorie": "électronique",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Ninjago Destiny's Bounty Adventures Asmodée",
+      "categorie": "construction",
+      "marque": "Asmodée",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Pack 10 figurines Pokémon 5-11cm Jazwares",
+      "categorie": "figurine et collection",
+      "marque": "Jazwares",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Détecteur de métaux expert Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

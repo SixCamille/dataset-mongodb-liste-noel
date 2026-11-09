@@ -1,0 +1,38 @@
+{
+  "prenom": "Pablo",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Archéo Ludic Proies et Prédateurs Clementoni",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "Bourricot Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "71742 - Playmobil My Life - Hôtel des animaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 54.99,
+      "devise": "EUR",
+      "reference": "71742",
+      "priorite": 3
+    },
+    {
+      "produit": "Circuit à billes Marble Rush - SuperPack : Beginner Set S200 + Basketball Set S500 VTech",
+      "categorie": "construction",
+      "marque": "VTech",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

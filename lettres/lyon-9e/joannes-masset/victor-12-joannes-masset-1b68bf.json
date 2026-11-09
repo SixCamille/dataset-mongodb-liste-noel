@@ -1,0 +1,27 @@
+{
+  "prenom": "Victor",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie The Flying Games Viva Catrina",
+      "categorie": "jeu de société",
+      "marque": "The Flying Games",
+      "prix": 24.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
+      "priorite": 1
+    },
+    {
+      "produit": "Ordinateur éducatif bilingue La Reine Des Neiges Lexibook",
+      "categorie": "sciences et éducatif",
+      "marque": "Lexibook",
+      "prix": 44.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

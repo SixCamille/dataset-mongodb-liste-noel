@@ -1,0 +1,32 @@
+{
+  "prenom": "Adèle",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Voiture radiocommandée Sonic Racing Crossworlds Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Voiture radiocommandée Gabby chat Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Qui est-ce ? Édition World Football Stars Winning Moves",
+      "categorie": "sport",
+      "marque": "Winning Moves",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

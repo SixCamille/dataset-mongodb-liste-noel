@@ -1,0 +1,28 @@
+{
+  "prenom": "Rafaël",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "L'atelier des stylos - Harry Potter Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Monster High Moonspell Magic - Poupée Claire de Luna Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel"
+    },
+    {
+      "produit": "Trottinette 3 roues Spidey and His Amazing Friends Smoby",
+      "categorie": "sport",
+      "marque": "Smoby"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,39 @@
+{
+  "prenom": "Anastasia",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Appareil Photo Instantané Couleur Bleu Photo Creator Canal Toys",
+      "categorie": "électronique",
+      "marque": "Canal Toys",
+      "prix": 89.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "72161 - LEGO® Pokémon - SMART Play : Recherche de Mew fabuleux en drone LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "72161",
+      "priorite": 2
+    },
+    {
+      "produit": "Attaque Fantômes GP Toys",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Conteuse gramophone et 126 disques - Quelle histoire Joyeuse",
+      "categorie": "livre et audio",
+      "prix": 47.49,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,15 @@
+{
+  "prenom": "Héloïse",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Jeu d'ambiance Gigamic Machu Pichu",
+      "categorie": "jeu de société",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,35 @@
+{
+  "prenom": "Malia",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Slime Experience LAB So Slime Canal Toys",
+      "categorie": "créatif",
+      "marque": "Canal Toys",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Coffret sac et poupée Disney Minnie Just Play",
+      "categorie": "poupée",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Carte pour conteuse d'histoire Yoto Petit Ours Brun : Mes premières sorties",
+      "categorie": "livre et audio",
+      "marque": "Yoto",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,17 @@
+{
+  "prenom": "Kassim",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Jeu Mito Permis de tricher - jeu de cartes et d'ambiance Gigamic",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

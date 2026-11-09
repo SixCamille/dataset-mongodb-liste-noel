@@ -1,0 +1,22 @@
+{
+  "prenom": "Esteban",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Mon Bébé Cabrioles - Lina la Fraise Lansay",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Poussette en métal avec poupon souple - Collection Teddy Bear LOVE BEBE",
+      "categorie": "poupée",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

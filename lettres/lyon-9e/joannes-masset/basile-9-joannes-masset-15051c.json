@@ -1,0 +1,42 @@
+{
+  "prenom": "Basile",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Bulldozer de sauvetage Ruben La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Explodapede Centipede Hex Bots Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "21361 - LEGO® Ideas - Gremlins™ : Gizmo LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "21361",
+      "priorite": 3
+    },
+    {
+      "produit": "21588 - LEGO® Minecraft - Le Renard LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "21588",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

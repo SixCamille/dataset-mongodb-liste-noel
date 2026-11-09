@@ -1,0 +1,43 @@
+{
+  "prenom": "Augustin",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Jeu Mito Permis de tricher - jeu de cartes et d'ambiance Gigamic",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Pic'Pirate Gold Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 14.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mission Dragon - Jeu d'action Dujardin",
+      "categorie": "jeu de société",
+      "marque": "Dujardin",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Tamagotchi Paradise - Frozen Bandai",
+      "categorie": "figurine et collection",
+      "marque": "Bandai"
+    },
+    {
+      "produit": "Labyrinthe Pokémon Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 9e"
+}

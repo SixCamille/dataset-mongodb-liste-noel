@@ -1,0 +1,33 @@
+{
+  "prenom": "Kayla",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Cuisto Dingo Goliath",
+      "categorie": "jeu de société",
+      "marque": "Goliath",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Figurine Mega Mutators MrBeast - Panthère Moose Toys",
+      "categorie": "figurine et collection",
+      "marque": "Moose Toys",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "LEGO® Minecraft® 21276 Le Creeper™",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "ageRecommande": 10,
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,39 @@
+{
+  "prenom": "Élise",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Voiture de police télécommandée Motor & Co R/C",
+      "categorie": "véhicule"
+    },
+    {
+      "produit": "Voiture radio-commandée Disney Minnie Roadster - Jada Jada",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Spidey et ses Amis – Pack 4 Véhicules et Figurines Hasbro",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Grand Garage avec petites voitures Smoby",
+      "categorie": "véhicule",
+      "marque": "Smoby"
+    },
+    {
+      "produit": "Trottinette pliable 2 roues - Stitch STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 9e"
+}

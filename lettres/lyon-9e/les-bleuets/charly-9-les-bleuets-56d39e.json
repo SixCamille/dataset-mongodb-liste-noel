@@ -1,0 +1,23 @@
+{
+  "prenom": "Charly",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Hérisson en Action Balles et Cavale Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni"
+    },
+    {
+      "produit": "72239 - Playmobil Icon Cars - Porsche 911 Turbo PLAYMOBIL",
+      "categorie": "construction",
+      "prix": 19.99,
+      "devise": "EUR",
+      "reference": "72239"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 9e"
+}

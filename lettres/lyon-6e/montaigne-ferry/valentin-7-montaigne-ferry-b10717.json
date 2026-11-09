@@ -1,0 +1,39 @@
+{
+  "prenom": "Valentin",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Aquabeads - 35087 - L'Atelier d'initiation Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Barbie – Licorne Sons et Lumières Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Funko Pop Animation Yu-Gi-Oh Blue-Eyes White Dragon Card",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Jeu classique Dujardin Miles Bornes Classiques",
+      "categorie": "plein air et nature",
+      "marque": "Dujardin",
+      "ageRecommande": 6
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 6e"
+}

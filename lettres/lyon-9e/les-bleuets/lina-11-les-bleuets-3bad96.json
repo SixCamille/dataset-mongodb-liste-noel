@@ -1,0 +1,25 @@
+{
+  "prenom": "Lina",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Bitzee Aquarium Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

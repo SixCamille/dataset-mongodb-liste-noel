@@ -1,0 +1,18 @@
+{
+  "prenom": "Maya",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Bitzee KPop Demon Hunters Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

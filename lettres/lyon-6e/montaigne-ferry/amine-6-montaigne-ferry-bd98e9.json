@@ -1,0 +1,25 @@
+{
+  "prenom": "Amine",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Pokémon Bulbizarre",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 1
+    },
+    {
+      "produit": "Porteur électronique rose Baby Smile",
+      "categorie": "électronique",
+      "marque": "Baby Smile",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

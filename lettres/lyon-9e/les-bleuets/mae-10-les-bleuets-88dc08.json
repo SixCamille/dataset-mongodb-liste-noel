@@ -1,0 +1,42 @@
+{
+  "prenom": "Maé",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Studio professionnel bougies Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Sylvanian Families - 5567 - Le cosy cottage Sylvanian Families",
+      "categorie": "imaginaire",
+      "marque": "Sylvanian Families",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Planétarium haute définition Microplanet",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "La Bonne Paye Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école.",
+  "arrondissement": "Lyon 9e"
+}

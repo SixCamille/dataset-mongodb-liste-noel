@@ -1,0 +1,17 @@
+{
+  "prenom": "Jayden",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "L'atelier des stylos - Harry Potter Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
+      "priorite": 1
+    }
+  ],
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 9e"
+}

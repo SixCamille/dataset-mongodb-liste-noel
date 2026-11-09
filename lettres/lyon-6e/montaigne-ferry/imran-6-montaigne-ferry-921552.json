@@ -1,0 +1,38 @@
+{
+  "prenom": "Imrân",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Pokémon Bulbizarre",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "ageRecommande": 5
+    },
+    {
+      "produit": "71649 - Playmobil My Life - Assistante maternelle et bébés PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 24.99,
+      "devise": "EUR",
+      "reference": "71649"
+    },
+    {
+      "produit": "Triominos Junior Pat Patrouille Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 22.49,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Poupon Robin 43 cm boit et fait pipi avec accessoires LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 19.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 6e"
+}

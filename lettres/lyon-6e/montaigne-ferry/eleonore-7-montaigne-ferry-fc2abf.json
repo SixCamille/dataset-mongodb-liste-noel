@@ -1,0 +1,43 @@
+{
+  "prenom": "Eléonore",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "L'atelier des feutres Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni"
+    },
+    {
+      "produit": "Mirror Mi - Poupée Mannequin Akiko Kittyama 27cm Mga",
+      "categorie": "poupée",
+      "prix": 31.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coffret sac et poupée Disney Minnie Just Play",
+      "categorie": "poupée",
+      "marque": "Just Play",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Funko Pop Supreme Toy Story 5 Atlas",
+      "categorie": "figurine et collection",
+      "prix": 24.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Maison et jardin en fête Bluey Moose Toys",
+      "categorie": "plein air et nature",
+      "marque": "Moose Toys",
+      "prix": 49.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 6e"
+}

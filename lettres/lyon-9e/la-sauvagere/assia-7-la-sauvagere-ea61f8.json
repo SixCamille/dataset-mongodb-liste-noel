@@ -1,0 +1,15 @@
+{
+  "prenom": "Assia",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Coffret créatif Aqua Gelz Deluxe Simba Dickie",
+      "categorie": "créatif"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 9e"
+}

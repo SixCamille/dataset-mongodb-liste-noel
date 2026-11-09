@@ -1,0 +1,17 @@
+{
+  "prenom": "Luna",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Voiture radiocommandée Web Crawler - Spidey and His Amazin Friends Jada",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "arrondissement": "Lyon 9e"
+}

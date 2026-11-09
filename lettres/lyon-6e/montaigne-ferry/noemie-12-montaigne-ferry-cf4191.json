@@ -1,0 +1,24 @@
+{
+  "prenom": "Noémie",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Jeu Tonieplay - Monopoly : La Course à l'immobilier Tonies",
+      "categorie": "jeu de société",
+      "marque": "Tonies",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Puzzle 3D K-Pop Demon Hunters Basket Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 6e"
+}

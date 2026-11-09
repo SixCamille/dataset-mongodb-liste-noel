@@ -1,0 +1,16 @@
+{
+  "prenom": "Haroun",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Triominos original Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 9e"
+}

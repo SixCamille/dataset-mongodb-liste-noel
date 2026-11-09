@@ -1,0 +1,22 @@
+{
+  "prenom": "Léon",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Drone radiocommandé Air Vision HD Silverlit",
+      "categorie": "véhicule",
+      "marque": "Silverlit",
+      "priorite": 1
+    },
+    {
+      "produit": "Centre multisport interactif VTech",
+      "categorie": "sport",
+      "marque": "VTech",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

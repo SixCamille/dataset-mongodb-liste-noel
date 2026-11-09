@@ -1,0 +1,29 @@
+{
+  "prenom": "Mohammed",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Blaster à fléchettes Ragefire - X-Shot Insanity Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Puissance 4 Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "priorite": 2
+    },
+    {
+      "produit": "Télescope super HD Microplanet",
+      "categorie": "imaginaire",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

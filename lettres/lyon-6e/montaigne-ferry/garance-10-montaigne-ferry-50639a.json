@@ -1,0 +1,22 @@
+{
+  "prenom": "Garance",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Je découvre les émotions Nathan Jeux",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "Joe le pendu GP Toys",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

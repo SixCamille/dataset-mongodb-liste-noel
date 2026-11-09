@@ -1,0 +1,26 @@
+{
+  "prenom": "Maïa",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Voiture télécommandée EXOST 360 Cross Exost",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Ninjago® 71864 Véhicules combinables de Kai et Cole",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

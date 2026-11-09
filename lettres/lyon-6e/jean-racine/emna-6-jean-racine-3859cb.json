@@ -1,0 +1,17 @@
+{
+  "prenom": "Emna",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Circuit Pat'Patrouille 2,9m - Carrera Go Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 6e"
+}

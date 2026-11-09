@@ -1,0 +1,50 @@
+{
+  "prenom": "Fatoumata",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Games Silent Hill 2 James Sunderland",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® City 60488 Le food-truck de frites",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 2
+    },
+    {
+      "produit": "Mon premier aspirateur d'éveil Fisher Price Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Couffin tressé peluche rose pour poupon de 36 à 42 cm Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "priorite": 4
+    },
+    {
+      "produit": "Labyrinthe Junior Pat'Patrouille Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

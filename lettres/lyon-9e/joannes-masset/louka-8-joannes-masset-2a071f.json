@@ -1,0 +1,45 @@
+{
+  "prenom": "Louka",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Circuit de course avec 2 voitures télécommandées Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Camion de transport man avec plateforme et mini pelleteuse Caterpillar Bruder",
+      "categorie": "véhicule",
+      "priorite": 2
+    },
+    {
+      "produit": "Voiture télécommandée 4x4 rapide et tout-terrain Motor & Co R/C",
+      "categorie": "véhicule",
+      "priorite": 3
+    },
+    {
+      "produit": "Véhicule Chase Tout-terrain Rescue Wheels - La Pat' Patrouille Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "LEGO® Ninjago® 71864 Véhicules combinables de Kai et Cole",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
+      "priorite": 5
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,38 @@
+{
+  "prenom": "Djibril",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Bateau de pirates - 15 accessoires Invincible Heroes",
+      "categorie": "imaginaire"
+    },
+    {
+      "produit": "Calendrier magnétique 71 magnets avec météo et émotions Janod",
+      "categorie": "imaginaire",
+      "marque": "Janod"
+    },
+    {
+      "produit": "Valentina et Cinder ailes magiques - L'École des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Pochette d'Apprentissage Montessori",
+      "categorie": "imaginaire"
+    },
+    {
+      "produit": "Play-Doh Donut Drop Shop Play Doh",
+      "categorie": "imaginaire",
+      "marque": "Play-Doh",
+      "prix": 22.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 9e"
+}

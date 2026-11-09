@@ -1,0 +1,44 @@
+{
+  "prenom": "Giulia",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation Yu-Gi-Oh Blue-Eyes White Dragon Card",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "60457 - LEGO® City Le garage de personnalisation des voitures de police LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "reference": "60457",
+      "priorite": 2
+    },
+    {
+      "produit": "Poupon Luvibubs jaune - Charlie Moose Toys",
+      "categorie": "poupée",
+      "marque": "Moose Toys",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Jeu d'enquête Gameflow Mon Puzzle Aventure Petits Détectives",
+      "categorie": "puzzle",
+      "marque": "Gameflow",
+      "ageRecommande": 5,
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

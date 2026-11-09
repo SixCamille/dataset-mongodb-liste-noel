@@ -1,0 +1,41 @@
+{
+  "prenom": "Noam",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Hot dog drop - Jeu de réflèxe Jazwares",
+      "categorie": "jeu de société"
+    },
+    {
+      "produit": "Jeu d’ambiance Asmodee Miams",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 17.99,
+      "devise": "EUR",
+      "ageRecommande": 10
+    },
+    {
+      "produit": "Flip 7 Blackrock",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine interactive Woody 23 cm Toy Story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Labyrinthe Pokémon Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 9e"
+}

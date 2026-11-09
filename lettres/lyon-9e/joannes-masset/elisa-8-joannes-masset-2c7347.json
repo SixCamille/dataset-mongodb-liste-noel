@@ -1,0 +1,23 @@
+{
+  "prenom": "Elisa",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Circuit Ultimate Garage T-Rex Hot Wheels Mattel",
+      "categorie": "véhicule",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Creator 31377 La tortue et la fleur de nénuphar",
+      "categorie": "construction",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

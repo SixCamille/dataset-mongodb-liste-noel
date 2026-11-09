@@ -1,0 +1,41 @@
+{
+  "prenom": "Kamil",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Moto électrique orange 7V SUN and SPORT",
+      "categorie": "véhicule",
+      "marque": "SUN and SPORT",
+      "prix": 129.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Voitures majorette Golf GTI Majorette",
+      "categorie": "véhicule",
+      "prix": 17.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Moto électrique orange 7V SUN and SPORT",
+      "categorie": "véhicule",
+      "marque": "SUN and SPORT",
+      "prix": 129.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Punching ball et gants de boxe SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

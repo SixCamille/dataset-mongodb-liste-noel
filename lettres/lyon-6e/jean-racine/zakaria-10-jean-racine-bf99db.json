@@ -1,0 +1,41 @@
+{
+  "prenom": "Zakaria",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Ma Première Guitare Confetti Janod",
+      "categorie": "imaginaire",
+      "marque": "Janod",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Studio de tatouages professionnel Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Rush Hour Ravensburger",
+      "categorie": "imaginaire",
+      "marque": "Ravensburger",
+      "priorite": 3
+    },
+    {
+      "produit": "Magi’TV des découvertes VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 6e"
+}

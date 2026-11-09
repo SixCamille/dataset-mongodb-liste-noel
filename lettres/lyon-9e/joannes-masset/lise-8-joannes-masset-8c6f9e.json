@@ -1,0 +1,45 @@
+{
+  "prenom": "Lise",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Pack Bluey figurines et véhicules Moose Toys",
+      "categorie": "véhicule",
+      "marque": "Moose Toys",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Drone radiocommandé Air Vision HD Silverlit",
+      "categorie": "véhicule",
+      "marque": "Silverlit",
+      "prix": 69.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Véhicule + Figurine Zuma La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Jeu de football électronique de table Lexibook",
+      "categorie": "sport",
+      "marque": "Lexibook",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Set de construction Cobi - Avion Rafale C (551 pièces)Cobi",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "arrondissement": "Lyon 9e"
+}

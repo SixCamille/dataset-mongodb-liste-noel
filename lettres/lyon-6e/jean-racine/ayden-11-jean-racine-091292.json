@@ -1,0 +1,18 @@
+{
+  "prenom": "Ayden",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Tut Tut Bolides Bluey – Super marchand de glaces interactif VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 41.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "arrondissement": "Lyon 6e"
+}

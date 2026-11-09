@@ -1,0 +1,18 @@
+{
+  "prenom": "Sophia",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Aquabeads - 31774 - La box Super Mario Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 6e"
+}

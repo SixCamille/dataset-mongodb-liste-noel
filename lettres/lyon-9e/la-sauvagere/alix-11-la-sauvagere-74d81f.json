@@ -1,0 +1,38 @@
+{
+  "prenom": "Alix",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Ordi éducatif bilingue bleu - Genius XL VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "42238 - LEGO Technic - La Moto Ducati Desmo450 MX Factory LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "42238"
+    },
+    {
+      "produit": "Talkie-Walkie Rechargeable - Spider-man Lexibook",
+      "categorie": "imaginaire",
+      "marque": "Lexibook"
+    },
+    {
+      "produit": "Masque Alien Vision et Pistolet Silverlit",
+      "categorie": "déguisement et action",
+      "marque": "Silverlit",
+      "prix": 27.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets.",
+  "arrondissement": "Lyon 9e"
+}

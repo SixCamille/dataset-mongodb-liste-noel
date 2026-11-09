@@ -1,0 +1,21 @@
+{
+  "prenom": "Mathias",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Circuit de voiture de courses First Mario Kart 2,4 m Carrera",
+      "categorie": "véhicule"
+    },
+    {
+      "produit": "Kit entraînement Équipe de France de football Nemo",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets.",
+  "arrondissement": "Lyon 6e"
+}

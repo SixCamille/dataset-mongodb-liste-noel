@@ -1,0 +1,24 @@
+{
+  "prenom": "Matteo",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Cluedo Hasbro Gaming",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "76478 - LEGO® Harry Potter - Book Nook : le bureau de Dumbledore LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 119.99,
+      "devise": "EUR",
+      "reference": "76478",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

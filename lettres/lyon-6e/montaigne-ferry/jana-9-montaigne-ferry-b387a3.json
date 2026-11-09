@@ -1,0 +1,49 @@
+{
+  "prenom": "Jana",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Porteur tractopelle avec remorque Ecoiffier",
+      "categorie": "imaginaire",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Kinetic Sand - Coffret Chateau et son bac - Sable magique à modeler Spin Master",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Calendrier de l'Avent Deluxe Littlest Pet Shop 2026 Bandai",
+      "categorie": "imaginaire",
+      "marque": "Bandai",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Mallette De Construction 793g - Kinetic Sand Spin Master",
+      "categorie": "construction",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "71524 - Playmobil Dinos - Explorateur avec moto et tyrannosaure PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71524",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

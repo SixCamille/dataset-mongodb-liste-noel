@@ -1,0 +1,31 @@
+{
+  "prenom": "Victoire",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Science et Jeu - L'observatoire des insectes Clementoni",
+      "categorie": "jeu de société",
+      "marque": "Clementoni",
+      "prix": 22.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Jumbo Machineder Goldorak (Grendizer)Tamashi",
+      "categorie": "figurine et collection",
+      "prix": 199.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Calendrier de l'Avent Pieces & Peace - 24 Puzzles 42 Pièces Pieces & Peace",
+      "categorie": "puzzle",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

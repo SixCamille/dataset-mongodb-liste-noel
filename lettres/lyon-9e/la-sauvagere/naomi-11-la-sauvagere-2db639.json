@@ -1,0 +1,33 @@
+{
+  "prenom": "Naomi",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Bitzee Aquarium Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Grand manège équestre - Horse Club Schleich",
+      "categorie": "figurine et collection",
+      "prix": 99.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Etabli de bricolage Bricolo - Black+Decker Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 64.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

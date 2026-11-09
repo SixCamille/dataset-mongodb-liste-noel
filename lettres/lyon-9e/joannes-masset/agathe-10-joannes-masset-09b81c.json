@@ -1,0 +1,41 @@
+{
+  "prenom": "Agathe",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Caisse enregistreuse CB Funny Home",
+      "categorie": "imaginaire",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Rubik's cube 3x3 advanced Rubik",
+      "categorie": "imaginaire",
+      "prix": 9.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Ordinateur Stitch Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Clavier 37 touches rose avec son micro Music Star",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Barbecue Party Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "arrondissement": "Lyon 9e"
+}

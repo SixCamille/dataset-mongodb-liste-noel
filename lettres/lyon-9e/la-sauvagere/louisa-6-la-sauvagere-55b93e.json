@@ -1,0 +1,30 @@
+{
+  "prenom": "Louisa",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Figurine Disney Grand Jester Mini Stitch et Angel Sachet Mystère 6 Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Disney",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "Mon Bébé Cabrioles - Lina la Fraise Lansay",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Coffret Tonieplay Tonies Le grand quiz Disney",
+      "categorie": "livre et audio",
+      "ageRecommande": 5,
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

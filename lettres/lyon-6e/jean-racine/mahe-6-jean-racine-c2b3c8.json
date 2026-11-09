@@ -1,0 +1,40 @@
+{
+  "prenom": "Mahé",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Bitty Pop Singles One Piece Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 4.48,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "71656 - Playmobil Junior - Ferme avec tracteur et animaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "71656"
+    },
+    {
+      "produit": "Mon Bébé Cabrioles - Lina la Fraise Lansay",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Livre interactif - Mon Premier Imagier Electronique Bilingue VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 26.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 6e"
+}

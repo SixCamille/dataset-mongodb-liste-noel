@@ -1,0 +1,26 @@
+{
+  "prenom": "Alicia",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Jelly Gelz Lifestyle Deluxe Simba Dickie",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Set avec casque genouillères et coudières - Spider-Man STAMP",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

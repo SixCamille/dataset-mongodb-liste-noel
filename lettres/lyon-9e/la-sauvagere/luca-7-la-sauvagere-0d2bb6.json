@@ -1,0 +1,16 @@
+{
+  "prenom": "Luca",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Aquabeads - 31774 - La box Super Mario Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

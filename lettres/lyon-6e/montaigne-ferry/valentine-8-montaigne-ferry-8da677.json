@@ -1,0 +1,24 @@
+{
+  "prenom": "Valentine",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Véhicule + Figurine Ruben La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "priorite": 1
+    },
+    {
+      "produit": "Qui est-ce ? Édition World Football Stars Winning Moves",
+      "categorie": "sport",
+      "marque": "Winning Moves",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

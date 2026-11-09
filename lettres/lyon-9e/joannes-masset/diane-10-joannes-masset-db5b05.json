@@ -1,0 +1,38 @@
+{
+  "prenom": "Diane",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Marvel Spidey et ses Amis Extraordinaires - QG Rescue-Webs Hasbro",
+      "categorie": "imaginaire",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Kidi Guitare superstar VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 59.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mosaïque DIY Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mâche-Mots Enfants Contre Parents Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 27.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,23 @@
+{
+  "prenom": "Tiago",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Trio, le méga T-Rex SOS - Switch & Go Combo VTech",
+      "categorie": "imaginaire",
+      "prix": 44.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coffret multi-jeux Ludi",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 9e"
+}

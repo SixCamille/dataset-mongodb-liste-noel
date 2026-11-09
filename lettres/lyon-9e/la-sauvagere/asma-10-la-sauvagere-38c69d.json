@@ -1,0 +1,30 @@
+{
+  "prenom": "Asma",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Domino express racing et Super dealer Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "6 qui prend Gigamic",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Etal du marché Ecoiffier",
+      "categorie": "imaginaire",
+      "prix": 32.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "arrondissement": "Lyon 9e"
+}

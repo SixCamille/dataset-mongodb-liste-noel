@@ -1,0 +1,24 @@
+{
+  "prenom": "Océane",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Blokus classic Mattel Games",
+      "categorie": "imaginaire",
+      "marque": "Mattel",
+      "prix": 26.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Lit superposé en bois 50 cm LOVE BEBE",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "arrondissement": "Lyon 9e"
+}

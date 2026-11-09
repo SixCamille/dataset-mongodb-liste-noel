@@ -1,0 +1,47 @@
+{
+  "prenom": "Maylone",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Music’Kid Karaoké bleu VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Bitzee KPop Demon Hunters Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master",
+      "prix": 36.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "LEGO® Iconic 40822 La camionnette de la citrouille d'Halloween",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 8
+    },
+    {
+      "produit": "Caméra interactive Pokémon Brandunit",
+      "categorie": "figurine et collection",
+      "marque": "Pokémon",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Cartes-histoires Winnie L'ourson conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
+      "prix": 14.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 6e"
+}

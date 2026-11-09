@@ -1,0 +1,27 @@
+{
+  "prenom": "Arya",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Mission Dragon - Jeu d'action Dujardin",
+      "categorie": "jeu de société",
+      "marque": "Dujardin",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "LEGO® Speed Champions 77255 Flash McQueen",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 27.99,
+      "devise": "EUR",
+      "ageRecommande": 9
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 6e"
+}

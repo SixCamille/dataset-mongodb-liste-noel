@@ -1,0 +1,43 @@
+{
+  "prenom": "Mattia",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Atelier bougies sables Sentosphere",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "KPop Demon Hunters - Poupée chantante Zoey Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Funko Pop Animation Delicious in Dungeon Laios with Chase Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    },
+    {
+      "produit": "Ramen mystère KPOP Demon Hunters avec peluche 10cm (modèle aléatoire)Jazwares",
+      "categorie": "peluche",
+      "marque": "Jazwares",
+      "prix": 12.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

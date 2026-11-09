@@ -1,0 +1,34 @@
+{
+  "prenom": "Amaury",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Games Pokémon Venusaur Florizarre Bisaflor",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "LEGO® Minifigures 71053 Série Shrek",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 3.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Livre interactif de comptines Fisher Price",
+      "categorie": "électronique",
+      "marque": "Fisher Price",
+      "prix": 16.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 6e"
+}

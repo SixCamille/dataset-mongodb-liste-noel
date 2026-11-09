@@ -1,0 +1,17 @@
+{
+  "prenom": "Abel",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Bateau de pirates - 15 accessoires Invincible Heroes",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école.",
+  "arrondissement": "Lyon 6e"
+}

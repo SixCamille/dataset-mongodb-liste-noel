@@ -1,0 +1,17 @@
+{
+  "prenom": "Joséphine",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Pistolets Laser Tag Battle Pack Sharper Image",
+      "categorie": "imaginaire",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

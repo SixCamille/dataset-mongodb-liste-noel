@@ -1,0 +1,40 @@
+{
+  "prenom": "Amina",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Dessineo Nathan Jeux",
+      "categorie": "créatif",
+      "marque": "Nathan",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Poupée Lolly princesse et son carrosse enchanté Lolly",
+      "categorie": "poupée",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Funko Pop Animation Jujutsu Kaisen Satoru Gojo jeune Exclusivité Fnac",
+      "categorie": "figurine et collection",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    },
+    {
+      "produit": "Ours en peluche geant 1m30 Ami Plush",
+      "categorie": "peluche",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

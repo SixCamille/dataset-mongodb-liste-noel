@@ -1,0 +1,37 @@
+{
+  "prenom": "Anaëlle",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Science et Jeu - L'observatoire des insectes Clementoni",
+      "categorie": "jeu de société",
+      "priorite": 1
+    },
+    {
+      "produit": "Qui est-ce ?Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
+      "priorite": 2
+    },
+    {
+      "produit": "Jeu d'ambiance Ludistri Haïku",
+      "categorie": "jeu de société",
+      "prix": 22.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
+      "priorite": 3
+    },
+    {
+      "produit": "Jumelles vidéo interactives Genius XL VTech",
+      "categorie": "sciences et éducatif",
+      "marque": "VTech",
+      "prix": 69.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

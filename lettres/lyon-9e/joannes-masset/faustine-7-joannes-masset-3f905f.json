@@ -1,0 +1,24 @@
+{
+  "prenom": "Faustine",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Atelier bougies sables Sentosphere",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Monster High Moonspell Magic - Poupée Willow Thorne Mattel",
+      "categorie": "poupée",
+      "prix": 31.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

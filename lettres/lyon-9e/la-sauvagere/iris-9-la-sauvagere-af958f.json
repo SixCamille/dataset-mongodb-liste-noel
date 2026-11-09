@@ -1,0 +1,39 @@
+{
+  "prenom": "Iris",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Kidi Guitare superstar VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Tapple GP Toys",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "71838 - PLAYMOBIL - Maison de fée avec licorne dorée PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "priorite": 3
+    },
+    {
+      "produit": "10698 - LEGO® Classic - Boîte de briques créatives deluxe LEGO",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "10698",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

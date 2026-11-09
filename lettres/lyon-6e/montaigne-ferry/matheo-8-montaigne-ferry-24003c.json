@@ -1,0 +1,25 @@
+{
+  "prenom": "Mathéo",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Voiture radiocommandée Web Crawler - Spidey and His Amazin Friends Jada",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Ninjago® 71864 Véhicules combinables de Kai et Cole",
+      "categorie": "construction",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

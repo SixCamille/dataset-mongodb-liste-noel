@@ -1,0 +1,17 @@
+{
+  "prenom": "Eva",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Figurine électronique 36 cm - Spider-Man Brand New Day Hasbro",
+      "categorie": "électronique",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

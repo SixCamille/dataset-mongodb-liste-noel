@@ -1,0 +1,40 @@
+{
+  "prenom": "Maryam",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Aquabeads - 31774 - La box Super Mario Aquabeads",
+      "categorie": "créatif",
+      "marque": "Aquabeads",
+      "priorite": 1
+    },
+    {
+      "produit": "Mirror Mi - Poupée Mannequin Akiko Kittyama 27cm Mga",
+      "categorie": "poupée",
+      "prix": 31.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Funko Mystery Mini My Little Pony Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    },
+    {
+      "produit": "Maison nature et cuisine d'été - Smoby Life Smoby",
+      "categorie": "plein air et nature",
+      "marque": "Smoby",
+      "prix": 149.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

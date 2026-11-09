@@ -1,0 +1,36 @@
+{
+  "prenom": "Apolline",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Réveille pas papa Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 21.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "42704 - LEGO® Friends - Le grand hôtel de Heartlake City LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 134.99,
+      "devise": "EUR",
+      "reference": "42704",
+      "priorite": 2
+    },
+    {
+      "produit": "71792 - Playmobil Pirates - Port et repaire de pirates avec prisons PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 64.99,
+      "devise": "EUR",
+      "reference": "71792",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

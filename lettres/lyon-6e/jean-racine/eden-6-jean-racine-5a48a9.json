@@ -1,0 +1,27 @@
+{
+  "prenom": "Eden",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters Mira",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "Poupon Bébé Calin Margaux Forêt 30cm Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

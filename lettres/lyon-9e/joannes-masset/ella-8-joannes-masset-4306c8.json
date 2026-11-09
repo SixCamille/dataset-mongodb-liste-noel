@@ -1,0 +1,26 @@
+{
+  "prenom": "Ella",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Moto électrique Honda 6V - Batterie Lithium RUN RUN TOYS",
+      "categorie": "véhicule",
+      "prix": 89.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Creator 31376 L’adorable hamster et la fleur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

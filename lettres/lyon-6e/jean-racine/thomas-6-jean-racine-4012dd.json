@@ -1,0 +1,49 @@
+{
+  "prenom": "Thomas",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Aventure Hot Wheels pour Toniebox",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® City 60498 Le tracteur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 15.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "Dragomino - Mon premier Kingdomino Blue Orange",
+      "categorie": "imaginaire",
+      "prix": 22.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Poupon électronique Stitch - Blond Jakks Pacific",
+      "categorie": "poupée",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Jeu d’ambiance Blackrock Games Dingo Disc Edition 2025",
+      "categorie": "jeu de société",
+      "marque": "Blackrock Games",
+      "ageRecommande": 5,
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

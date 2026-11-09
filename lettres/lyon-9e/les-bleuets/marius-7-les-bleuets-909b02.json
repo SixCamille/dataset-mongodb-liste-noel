@@ -1,0 +1,37 @@
+{
+  "prenom": "Marius",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "L'atelier de mode - Kpop Demon Hunters Clementoni",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Poupée Raiponce aux cheveux magiques Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 27.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Disney Grand Jester Mini Stitch et Angel Sachet Mystère 6 Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Disney",
+      "prix": 3.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Peluche interactive FurReal - Gabby le tigre qui grandit et rugit Just Play",
+      "categorie": "peluche",
+      "marque": "Just Play"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 9e"
+}

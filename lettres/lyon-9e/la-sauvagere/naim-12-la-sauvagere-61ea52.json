@@ -1,0 +1,23 @@
+{
+  "prenom": "Naïm",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie Grandpa becks game Skull King Extension",
+      "categorie": "jeu de société",
+      "ageRecommande": 8,
+      "priorite": 1
+    },
+    {
+      "produit": "Calendrier de l'Avent Pieces & Peace - 24 Puzzles 42 Pièces Pieces & Peace",
+      "categorie": "puzzle",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

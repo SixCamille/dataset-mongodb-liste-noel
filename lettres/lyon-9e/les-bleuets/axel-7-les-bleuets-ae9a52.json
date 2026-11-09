@@ -1,0 +1,25 @@
+{
+  "prenom": "Axel",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Slime Experience LAB So Slime Canal Toys",
+      "categorie": "créatif",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Poupée Barbie Sirène Bulles Magiques Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 21.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

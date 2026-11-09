@@ -1,0 +1,17 @@
+{
+  "prenom": "Ezra",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Studio de mode lumineux Canal Toys",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 6e"
+}

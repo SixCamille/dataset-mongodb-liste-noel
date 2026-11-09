@@ -1,0 +1,18 @@
+{
+  "prenom": "Lino",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Coffret de 4 véhicules lance-disques - Spidey and His Amazing Friends Jazwares",
+      "categorie": "véhicule",
+      "marque": "Jazwares",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

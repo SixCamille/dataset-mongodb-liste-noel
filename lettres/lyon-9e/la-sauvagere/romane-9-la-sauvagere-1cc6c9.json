@@ -1,0 +1,25 @@
+{
+  "prenom": "Romane",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Mélodies des rêves – Voyage sonore Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "72123 - Playmobil Barbie - Cabriolet et scooter de mer PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "reference": "72123",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

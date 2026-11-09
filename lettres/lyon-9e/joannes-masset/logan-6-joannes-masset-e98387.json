@@ -1,0 +1,39 @@
+{
+  "prenom": "Logan",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation K-Pop Demon Hunters Mira",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 22.9,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "LEGO® City 60488 Le food-truck de frites",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "ageRecommande": 5
+    },
+    {
+      "produit": "Maman et bébé Scruff A Luvs - Pomponne ton animal Moose Toys",
+      "categorie": "imaginaire",
+      "marque": "Moose Toys",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mini table de Baby Foot SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 19.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,19 @@
+{
+  "prenom": "Ayline",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Baladeur musical - Music'Kid rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 35.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 6e"
+}

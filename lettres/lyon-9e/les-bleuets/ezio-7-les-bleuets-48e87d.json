@@ -1,0 +1,50 @@
+{
+  "prenom": "Ezio",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Dessineo Nathan Jeux",
+      "categorie": "créatif",
+      "marque": "Nathan",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Voiture radiocommandée Barbie City Mondo Motors",
+      "categorie": "poupée",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Funko Pop Games Silent Hill 2 James Sunderland",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    },
+    {
+      "produit": "Peluche interactive FurReal - Gabby le tigre qui grandit et rugit Just Play",
+      "categorie": "peluche",
+      "marque": "Just Play",
+      "prix": 89.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Carte pour conteuse d'histoire Yoto Petit Ours Brun : Mes premières sorties",
+      "categorie": "livre et audio",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

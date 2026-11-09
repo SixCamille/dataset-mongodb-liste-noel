@@ -1,0 +1,19 @@
+{
+  "prenom": "Tessa",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Projecteur à dessins 2en1 Buki",
+      "categorie": "créatif",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,47 @@
+{
+  "prenom": "Ismaïl",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Coffret tête à coiffer Wildstar - L'école Des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Raiponce et ses cheveux magiques - Diney Jakks Pacific",
+      "categorie": "imaginaire",
+      "priorite": 2
+    },
+    {
+      "produit": "Tractopelle Claas et remorque Falk",
+      "categorie": "imaginaire",
+      "prix": 159.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "75646 - LEGO One Piece - Le Navire de la Marine de Garp LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 149.99,
+      "devise": "EUR",
+      "reference": "75646",
+      "priorite": 4
+    },
+    {
+      "produit": "21588 - LEGO® Minecraft - Le Renard LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

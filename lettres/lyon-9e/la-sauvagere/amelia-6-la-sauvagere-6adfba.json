@@ -1,0 +1,25 @@
+{
+  "prenom": "Amélia",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies La maison de Gabby Marine",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Conteuse Raconte moi une histoire - T'Choupi Dujardin",
+      "categorie": "livre et audio",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

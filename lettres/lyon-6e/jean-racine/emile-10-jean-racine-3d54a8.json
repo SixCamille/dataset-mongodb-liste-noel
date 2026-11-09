@@ -1,0 +1,40 @@
+{
+  "prenom": "Emile",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Shimmer Me Body Art Cool Maker - KPop Demon Hunters Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master"
+    },
+    {
+      "produit": "Tête à coiffer la reine des neiges - Elsa Just Play",
+      "categorie": "imaginaire",
+      "marque": "Just Play"
+    },
+    {
+      "produit": "Métier à tisser Loop de doo Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Jenga Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming"
+    },
+    {
+      "produit": "Le bateau de croisière de Bluey Moose Toys",
+      "categorie": "imaginaire",
+      "marque": "Moose Toys",
+      "prix": 59.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école.",
+  "arrondissement": "Lyon 6e"
+}

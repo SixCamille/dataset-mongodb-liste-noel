@@ -1,0 +1,19 @@
+{
+  "prenom": "Raphaëlle",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Pic Pirate Stitch Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 22.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

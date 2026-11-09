@@ -1,0 +1,35 @@
+{
+  "prenom": "Jasmine",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Camion de transport man avec plateforme et mini pelleteuse Caterpillar Bruder",
+      "categorie": "véhicule",
+      "prix": 64.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Camion excavatrice avec lumières et sons Motor & Co",
+      "categorie": "véhicule",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Train traditionnel à vapeur Motor & Co",
+      "categorie": "véhicule",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Skateboard Spiderman 28x8 STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,38 @@
+{
+  "prenom": "Ilyes",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Robot dinosaure télécommandé smart - 54 cm Motor & Co R/C",
+      "categorie": "véhicule",
+      "priorite": 1
+    },
+    {
+      "produit": "Garage Tower 5 étages avec 10 voitures 75 cm Motor & Co",
+      "categorie": "véhicule",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Voiture radiocommandée Web Crawler - Spidey and His Amazin Friends Jada",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "LEGO® Creator 31376 L’adorable hamster et la fleur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

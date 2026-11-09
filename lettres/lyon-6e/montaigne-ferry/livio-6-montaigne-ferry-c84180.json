@@ -1,0 +1,33 @@
+{
+  "prenom": "Livio",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Les copains du dodo Doudou Caneton",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "Grenouille lumineuse roulante Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price",
+      "prix": 27.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Garage de voitures 2 étages 69 cm avec 4 voitures Baby Smile",
+      "categorie": "véhicule",
+      "marque": "Baby Smile",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

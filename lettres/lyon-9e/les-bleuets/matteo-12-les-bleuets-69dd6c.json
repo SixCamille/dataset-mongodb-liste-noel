@@ -1,0 +1,39 @@
+{
+  "prenom": "Mattéo",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie The Flying Games Viva Catrina",
+      "categorie": "jeu de société",
+      "marque": "The Flying Games",
+      "ageRecommande": 8
+    },
+    {
+      "produit": "Monopoly : KPop Demon Hunters Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coffret réveil lumineux Pikachu + Poké Ball Pokémon Teknofun",
+      "categorie": "figurine et collection",
+      "marque": "Pokémon",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Ordinateur éducatif bilingue La Reine Des Neiges Lexibook",
+      "categorie": "sciences et éducatif",
+      "marque": "Lexibook",
+      "prix": 44.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

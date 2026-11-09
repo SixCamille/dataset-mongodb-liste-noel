@@ -1,0 +1,36 @@
+{
+  "prenom": "Arsène",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Simon classique Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "72129 - Playmobil I Love Horses - Véhicule avec remorque à chevaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 44.99,
+      "devise": "EUR",
+      "reference": "72129",
+      "priorite": 2
+    },
+    {
+      "produit": "42704 - LEGO® Friends - Le grand hôtel de Heartlake City LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 134.99,
+      "devise": "EUR",
+      "reference": "42704",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

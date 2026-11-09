@@ -1,0 +1,46 @@
+{
+  "prenom": "Lya",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Tractopelle à pédales Komastu avec remorque Falk",
+      "categorie": "imaginaire",
+      "prix": 99.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Caméra projecteur 3 en 1 - Video Creator Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 79.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Studio de mode lumineux Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "75641 - LEGO One Piece - Le Repaire du Docteur Hiluluk LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "reference": "75641"
+    },
+    {
+      "produit": "75641 - LEGO One Piece - Le Repaire du Docteur Hiluluk LEGO",
+      "categorie": "construction",
+      "prix": 29.99,
+      "devise": "EUR",
+      "reference": "75641"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 6e"
+}

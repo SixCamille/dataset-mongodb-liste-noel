@@ -1,0 +1,45 @@
+{
+  "prenom": "Andrea",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Mini Brands Magic Cook Kitchen Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Draisienne Biky Cross BERG",
+      "categorie": "imaginaire",
+      "priorite": 2
+    },
+    {
+      "produit": "La magie d'Eric Antoine Oid Magic",
+      "categorie": "imaginaire",
+      "priorite": 3
+    },
+    {
+      "produit": "Mon casier magic locker - Reveal violet - Kidisecrets VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 44.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Têtes brûlées - La Mega Fabrik à Bonbons Tutti Fruti Silverlit",
+      "categorie": "imaginaire",
+      "marque": "Silverlit",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

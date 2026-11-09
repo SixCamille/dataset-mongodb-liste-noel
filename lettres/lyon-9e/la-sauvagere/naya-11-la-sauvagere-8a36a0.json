@@ -1,0 +1,22 @@
+{
+  "prenom": "Naya",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Bitzee KPop Demon Hunters Spin Master",
+      "categorie": "électronique",
+      "marque": "Spin Master"
+    },
+    {
+      "produit": "Cartes-histoires Roi Lion conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "prix": 14.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets.",
+  "arrondissement": "Lyon 9e"
+}

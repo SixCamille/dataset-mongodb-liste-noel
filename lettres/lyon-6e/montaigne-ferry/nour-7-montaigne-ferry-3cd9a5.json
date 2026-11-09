@@ -1,0 +1,41 @@
+{
+  "prenom": "Nour",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Coffret So Slime Yummy Slime Mixer Bonus Canal Toys",
+      "categorie": "créatif",
+      "marque": "Canal Toys",
+      "priorite": 1
+    },
+    {
+      "produit": "Poupée Raiponce aux cheveux magiques Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 27.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Funko Pop Games Pokémon Venusaur Florizarre Bisaflor",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    },
+    {
+      "produit": "Peluche interactive Hedwige Enchantée - Harry Potter Spin Master",
+      "categorie": "peluche",
+      "marque": "Spin Master",
+      "prix": 42.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,35 @@
+{
+  "prenom": "Elio",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Pokémon Bulbizarre",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 1
+    },
+    {
+      "produit": "Coffret pinceau magique Color Wonder - Pat'Patrouille Crayola",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Poupon Luvibubs jaune - Charlie Moose Toys",
+      "categorie": "poupée",
+      "marque": "Moose Toys",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 6e"
+}

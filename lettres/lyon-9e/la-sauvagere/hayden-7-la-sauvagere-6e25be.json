@@ -1,0 +1,42 @@
+{
+  "prenom": "Hayden",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Slime Experience LAB So Slime Canal Toys",
+      "categorie": "créatif",
+      "marque": "Canal Toys",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Rainbow High Hair Studio - Poupée Amaya Raine 27cm Rainbow High",
+      "categorie": "poupée",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters Mira",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    },
+    {
+      "produit": "Maison nature et cuisine d'été - Smoby Life Smoby",
+      "categorie": "plein air et nature",
+      "marque": "Smoby",
+      "prix": 149.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

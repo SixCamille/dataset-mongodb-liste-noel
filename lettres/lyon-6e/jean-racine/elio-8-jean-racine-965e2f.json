@@ -1,0 +1,22 @@
+{
+  "prenom": "Élio",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Tracteur New Holland T5.120 1/16 Bruder",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Jeu de panier de basket - salle d'arcade 145 cm SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 6e"
+}

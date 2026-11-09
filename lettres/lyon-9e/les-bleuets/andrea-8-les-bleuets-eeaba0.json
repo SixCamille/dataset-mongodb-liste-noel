@@ -1,0 +1,31 @@
+{
+  "prenom": "Andréa",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Camion poubelle - 37 cm Motor & Co",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Camion de transport man avec plateforme et mini pelleteuse Caterpillar Bruder",
+      "categorie": "véhicule",
+      "prix": 64.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Porteur avec musique Mercedes blanche classe C SUN and SPORT",
+      "categorie": "sport",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

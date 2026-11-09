@@ -1,0 +1,36 @@
+{
+  "prenom": "Clémence",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Professional Studio Hair Buki",
+      "categorie": "imaginaire"
+    },
+    {
+      "produit": "Barbecue Party Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 22.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "71792 - Playmobil Pirates - Port et repaire de pirates avec prisons PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "reference": "71792"
+    },
+    {
+      "produit": "71750 - Playmobil Action Heroes - Camion grue, ouvrier et accessoires PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71750"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 9e"
+}

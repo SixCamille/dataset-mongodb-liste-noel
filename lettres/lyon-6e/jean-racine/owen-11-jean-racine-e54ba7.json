@@ -1,0 +1,22 @@
+{
+  "prenom": "Owen",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "TECH A BOT - robot programmable Ycoo",
+      "categorie": "électronique",
+      "priorite": 1
+    },
+    {
+      "produit": "Pochette d'Apprentissage Montessori",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

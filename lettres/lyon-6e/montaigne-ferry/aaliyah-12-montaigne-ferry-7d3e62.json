@@ -1,0 +1,18 @@
+{
+  "prenom": "Aaliyah",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Pic'Pirate Gold Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 14.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 6e"
+}

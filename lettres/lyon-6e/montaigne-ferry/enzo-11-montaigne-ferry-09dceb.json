@@ -1,0 +1,31 @@
+{
+  "prenom": "Enzo",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Coffret baladeur musical et console interactive - Bluey VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "priorite": 1
+    },
+    {
+      "produit": "71865 - LEGO® Ninjago - Le combat du dragon de glace de Zane LEGO",
+      "categorie": "construction",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Casque de pompier et accessoires de déguisement Invincible Heroes",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 6e"
+}

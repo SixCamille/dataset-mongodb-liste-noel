@@ -1,0 +1,29 @@
+{
+  "prenom": "Ewen",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Flipper électronique Sonic Toopiz",
+      "categorie": "électronique",
+      "priorite": 1
+    },
+    {
+      "produit": "Battle Bus Fortnite et figurine Jonesy Jazwares",
+      "categorie": "figurine et collection",
+      "marque": "Jazwares",
+      "priorite": 2
+    },
+    {
+      "produit": "Tonies Stitch - Lilo & Stitch Tonies",
+      "categorie": "livre et audio",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

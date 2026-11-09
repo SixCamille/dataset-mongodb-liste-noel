@@ -1,0 +1,30 @@
+{
+  "prenom": "Inaya",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Pili pili - Jeu de bluff Pixie Games",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "BattleCave Lion de Glace - Eldrador Schleich",
+      "categorie": "figurine et collection",
+      "marque": "Schleich",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "76344 - LEGO® Super Heroes - Iron Man Mark 3 Édition Collector LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "76344"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 6e"
+}

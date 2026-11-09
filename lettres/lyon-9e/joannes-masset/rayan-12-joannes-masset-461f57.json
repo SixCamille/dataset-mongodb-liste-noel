@@ -1,0 +1,43 @@
+{
+  "prenom": "Rayan",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Jeu de tir électronique Laser shoot Megableu",
+      "categorie": "jeu de société",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mon jeu Cherche et Trouve des tout-petits Auzou",
+      "categorie": "jeu de société",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Opération noisettes - Jeu collaboratif Auzou",
+      "categorie": "jeu de société",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine interactive Woody 23 cm Toy Story 5 Mattel",
+      "categorie": "figurine et collection",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Labo balles rebondissantes Buki",
+      "categorie": "sciences et éducatif",
+      "marque": "Buki",
+      "prix": 19.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,40 @@
+{
+  "prenom": "Kaïs",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie Asmodee Zenith Secret Agents",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 5.49,
+      "devise": "EUR",
+      "ageRecommande": 9,
+      "priorite": 1
+    },
+    {
+      "produit": "Jeu de stratégie Asmodee Zenith Secret Agents",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 5.49,
+      "devise": "EUR",
+      "ageRecommande": 9,
+      "priorite": 2
+    },
+    {
+      "produit": "Flip 7 Blackrock",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Sabre laser électronique Luke Skywalker - Star Wars Hasbro",
+      "categorie": "électronique",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

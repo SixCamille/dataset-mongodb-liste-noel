@@ -1,0 +1,23 @@
+{
+  "prenom": "Mathys",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Coffret activités d'éveil en bois WOOD N PLAY",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Ordinateur enfant Genio Max rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

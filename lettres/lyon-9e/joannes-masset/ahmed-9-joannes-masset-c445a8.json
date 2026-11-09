@@ -1,0 +1,16 @@
+{
+  "prenom": "Ahmed",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Croc' Dentiste Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

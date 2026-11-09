@@ -1,0 +1,44 @@
+{
+  "prenom": "Théa",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Jeu d'ambiance Big Moustache Vroom Prix Fnac 2026 Jeu de société Famille",
+      "categorie": "jeu de société",
+      "marque": "Big Moustache",
+      "ageRecommande": 8,
+      "priorite": 1
+    },
+    {
+      "produit": "Jeu d’ambiance Smile Life Extension Vie de Luxe",
+      "categorie": "jeu de société",
+      "marque": "Smile Life",
+      "prix": 11.99,
+      "devise": "EUR",
+      "ageRecommande": 12,
+      "priorite": 2
+    },
+    {
+      "produit": "LEGO® Star Wars™ 75426 SMART Play™ : Faucon Millenium",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 99.99,
+      "devise": "EUR",
+      "ageRecommande": 9,
+      "priorite": 3
+    },
+    {
+      "produit": "Casse-tête Iello Le Coupable est… Carnivore!",
+      "categorie": "puzzle",
+      "marque": "Iello",
+      "prix": 15.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

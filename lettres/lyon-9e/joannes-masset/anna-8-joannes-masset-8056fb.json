@@ -1,0 +1,33 @@
+{
+  "prenom": "Anna",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Voiture télécommandée Lamborghini Aventador 47 cm 1/10ème Motor & Co R/C",
+      "categorie": "véhicule",
+      "prix": 69.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Voiture radiocommandée KOKAN 052 Koo",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Punching ball et gants de boxe SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

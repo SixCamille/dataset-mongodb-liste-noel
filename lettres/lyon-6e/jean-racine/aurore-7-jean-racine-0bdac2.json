@@ -1,0 +1,39 @@
+{
+  "prenom": "Aurore",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Coffret de maquillage Make-up artiste Miss Fashion",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Barbie – Licorne Sons et Lumières Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Funko Pop Animation One Piece Bon Clay with Chase Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Mama Surprise Little Live Pets - Chatons Moose Toys",
+      "categorie": "peluche",
+      "marque": "Moose Toys",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école.",
+  "arrondissement": "Lyon 6e"
+}

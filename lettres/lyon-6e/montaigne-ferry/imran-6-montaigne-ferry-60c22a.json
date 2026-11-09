@@ -1,0 +1,27 @@
+{
+  "prenom": "Imran",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Mystery Mini My Little Pony Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "Mon premier Mille Bornes Pat'Patrouille Dujardin",
+      "categorie": "plein air et nature",
+      "marque": "Dujardin",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

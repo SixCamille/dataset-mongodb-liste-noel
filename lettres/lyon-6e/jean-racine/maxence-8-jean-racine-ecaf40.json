@@ -1,0 +1,17 @@
+{
+  "prenom": "Maxence",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Camion de chantier télécommandé Volvo pelleteuse 60 cm Motor & Co R/C",
+      "categorie": "véhicule",
+      "prix": 69.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

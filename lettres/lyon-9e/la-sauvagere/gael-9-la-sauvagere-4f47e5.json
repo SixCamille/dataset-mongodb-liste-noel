@@ -1,0 +1,40 @@
+{
+  "prenom": "Gaël",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Chariot à outils Mecanics Ecoiffier",
+      "categorie": "imaginaire",
+      "prix": 27.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Les cinq rois Gigamic",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "72238 - Playmobil Icon Cars - Mercedes-Benz 300 SL PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 19.99,
+      "devise": "EUR",
+      "reference": "72238",
+      "priorite": 3
+    },
+    {
+      "produit": "Circuit à billes magnétiques Marble Rush - Dino Adventures Magnetic Set XL400E VTech",
+      "categorie": "construction",
+      "marque": "VTech",
+      "priorite": 4
+    }
+  ],
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 9e"
+}

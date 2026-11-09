@@ -1,0 +1,36 @@
+{
+  "prenom": "Amira",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Cristaux et pierres précieuses Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 21.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "71744 - Playmobil My Life - Bar à chats PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 24.99,
+      "devise": "EUR",
+      "reference": "71744",
+      "priorite": 2
+    },
+    {
+      "produit": "43020 - LEGO® Editions Football - Trophée officiel de la Coupe du monde de la FIFA LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 159.99,
+      "devise": "EUR",
+      "reference": "43020",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

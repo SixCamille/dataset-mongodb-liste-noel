@@ -1,0 +1,41 @@
+{
+  "prenom": "Timéo",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Enceinte Bluetooth avec micro - Disco Light Music Star",
+      "categorie": "électronique",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "75460 - LEGO® Star Wars - Le X-Wing Starfighter™ de la Nouvelle République LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 69.99,
+      "devise": "EUR",
+      "reference": "75460",
+      "priorite": 2
+    },
+    {
+      "produit": "Coffret figurines de combat Invincible Heroes",
+      "categorie": "figurine et collection",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Déguisement luxe Rumi Gold KPop Demon Hunters - 11/13 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "arrondissement": "Lyon 6e"
+}

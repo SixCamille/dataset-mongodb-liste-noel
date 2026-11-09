@@ -1,0 +1,35 @@
+{
+  "prenom": "Louis",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Appareil photo numérique Beauty Cam'Canal Toys",
+      "categorie": "électronique",
+      "marque": "Canal Toys",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "75455 - LEGO® Star Wars - Boba Fett LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 159.99,
+      "devise": "EUR",
+      "reference": "75455",
+      "priorite": 2
+    },
+    {
+      "produit": "Cartes-histoires Roi Lion conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

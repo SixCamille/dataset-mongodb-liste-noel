@@ -1,0 +1,23 @@
+{
+  "prenom": "Elina",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Globe vidéo interactif Genius XL VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 119.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Ordinateur Stitch Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 6e"
+}

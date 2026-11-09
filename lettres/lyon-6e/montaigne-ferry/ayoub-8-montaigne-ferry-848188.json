@@ -1,0 +1,28 @@
+{
+  "prenom": "Ayoub",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Shadow et moto - Film Sonic 3 Jakks Pacific",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coffret de 4 véhicules lance-disques - Spidey and His Amazing Friends Jazwares",
+      "categorie": "véhicule",
+      "marque": "Jazwares"
+    },
+    {
+      "produit": "Trottinette pliable 2 roues - Spiderman STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets.",
+  "arrondissement": "Lyon 6e"
+}

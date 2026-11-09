@@ -1,0 +1,34 @@
+{
+  "prenom": "Ilyana",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Qui est-ce ?Hasbro Gaming",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Grand manège équestre - Horse Club Schleich",
+      "categorie": "figurine et collection",
+      "marque": "Schleich",
+      "prix": 99.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Jeu classique Ravensburger Brilliant",
+      "categorie": "imaginaire",
+      "marque": "Ravensburger",
+      "prix": 12.99,
+      "devise": "EUR",
+      "ageRecommande": 8,
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

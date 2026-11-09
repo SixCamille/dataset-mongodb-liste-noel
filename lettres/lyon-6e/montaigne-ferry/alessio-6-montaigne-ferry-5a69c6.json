@@ -1,0 +1,45 @@
+{
+  "prenom": "Alessio",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Bitty Pop Mystery Dragon Ball Z Modèle aléatoire",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 4.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "LEGO® Spidey 11206 Spidey sur sa moto contre Rhino",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 4
+    },
+    {
+      "produit": "Capsule 5 surprises My mini baby Série 2 Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru"
+    },
+    {
+      "produit": "Lit de poupon en bois avec roues 50 cm LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Livre interactif de comptines Fisher Price",
+      "categorie": "électronique",
+      "marque": "Fisher Price",
+      "prix": 16.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 6e"
+}

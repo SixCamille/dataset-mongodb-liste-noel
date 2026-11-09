@@ -1,0 +1,47 @@
+{
+  "prenom": "Youssef",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "J'apprends la musique Diset",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Kidisecrets vidéo fashion - Rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 54.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Table de nursery avec accessoires Ecoiffier",
+      "categorie": "imaginaire",
+      "priorite": 3
+    },
+    {
+      "produit": "43022 - LEGO® Editions Formula 1 - Scuderia Ferrari HP Casque de Lewis Hamilton LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "43022",
+      "priorite": 4
+    },
+    {
+      "produit": "60497 - LEGO® City - La station de lavage automatique LEGO",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "60497",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

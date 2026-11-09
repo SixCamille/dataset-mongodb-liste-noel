@@ -1,0 +1,44 @@
+{
+  "prenom": "Hanna",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation Yu-Gi-Oh Red-Eyes Black Dragon Card",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 18.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "60457 - LEGO® City Le garage de personnalisation des voitures de police LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "reference": "60457",
+      "priorite": 2
+    },
+    {
+      "produit": "Lit de poupon en bois avec roues 50 cm LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Pack Pat'Patrouilleur avec figurines et véhicules - La Pat'Patrouille Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 89.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

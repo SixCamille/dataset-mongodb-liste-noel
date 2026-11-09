@@ -1,0 +1,18 @@
+{
+  "prenom": "Loan",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Shimmer Me Body Art Cool Maker - KPop Demon Hunters Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 24.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 9e"
+}

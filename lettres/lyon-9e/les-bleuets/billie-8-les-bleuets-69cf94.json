@@ -1,0 +1,34 @@
+{
+  "prenom": "Billie",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Figurine Shadow et moto - Film Sonic 3 Jakks Pacific",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Camion transportable avec 10 voitures Motor & Co",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Maxi grue filoguidée Superstar",
+      "categorie": "véhicule",
+      "marque": "Superstar"
+    },
+    {
+      "produit": "Vélo 14'' - Spider-Man Denver",
+      "categorie": "sport",
+      "prix": 149.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 9e"
+}

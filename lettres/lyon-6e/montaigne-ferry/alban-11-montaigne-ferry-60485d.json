@@ -1,0 +1,33 @@
+{
+  "prenom": "Alban",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Télescope Vidéo interactif - Genius XL VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 119.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Creator 31170 Animaux sauvages : le flamant rose",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "ageRecommande": 8,
+      "priorite": 2
+    },
+    {
+      "produit": "Détecteur de métaux expert Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

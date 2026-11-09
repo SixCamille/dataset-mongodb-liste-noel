@@ -1,0 +1,23 @@
+{
+  "prenom": "Jules",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Mini Brands Magic Cook Kitchen Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru"
+    },
+    {
+      "produit": "Ordinateur Stitch Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 9e"
+}

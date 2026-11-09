@@ -1,0 +1,41 @@
+{
+  "prenom": "Kiara",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Robot main hydraulique Buki",
+      "categorie": "électronique",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "72154 - LEGO Pokémon - Poké Ball Moments culte de Dresseur LEGO",
+      "categorie": "construction",
+      "prix": 239.99,
+      "devise": "EUR",
+      "reference": "72154",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Woody Course Effrénée Toy Story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Cartes-histoires Disney Princesses conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

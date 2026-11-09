@@ -1,0 +1,43 @@
+{
+  "prenom": "Lilou",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Tableau Évolutif 2-en-1 Creamania",
+      "categorie": "imaginaire",
+      "prix": 44.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Talkies Walkies Kidi Talkie Explorer VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Double blasters Tactiques Laser X NXT Lansay",
+      "categorie": "imaginaire",
+      "priorite": 3
+    },
+    {
+      "produit": "Etabli de bricolage avec 55 pièces incluses Funny Home",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Coffret pierres précieuses et cristaux Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

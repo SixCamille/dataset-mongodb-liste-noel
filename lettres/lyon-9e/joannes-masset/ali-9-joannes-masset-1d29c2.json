@@ -1,0 +1,23 @@
+{
+  "prenom": "Ali",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Ma serre botanique High Tech Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "72423 - LEGO® Shrek - Shrek, l’Âne et le Chat Potté LEGO",
+      "categorie": "construction",
+      "reference": "72423"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

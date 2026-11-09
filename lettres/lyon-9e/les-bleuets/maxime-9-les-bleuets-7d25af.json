@@ -1,0 +1,49 @@
+{
+  "prenom": "Maxime",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Rubik's cube 3x3 advanced Rubik",
+      "categorie": "imaginaire",
+      "prix": 9.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Cuisine évolutive Tefal - Smoby Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "priorite": 2
+    },
+    {
+      "produit": "Coffret Le Royaume Magique des Licornes - Kinetic Sand - Sable magique à modeler Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "71530 - Playmobil Pirates - Bateau Pirates PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "71530",
+      "priorite": 4
+    },
+    {
+      "produit": "71749 - Playmobil Action Heroes - Pelleteuse mécanique et ouvrier PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 54.99,
+      "devise": "EUR",
+      "reference": "71749",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

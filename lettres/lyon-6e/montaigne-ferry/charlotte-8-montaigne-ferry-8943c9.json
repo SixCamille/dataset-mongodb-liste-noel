@@ -1,0 +1,17 @@
+{
+  "prenom": "Charlotte",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Moto électrique Honda 6V - Batterie Lithium RUN RUN TOYS",
+      "categorie": "véhicule",
+      "prix": 89.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 6e"
+}

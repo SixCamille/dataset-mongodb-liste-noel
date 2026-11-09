@@ -1,0 +1,47 @@
+{
+  "prenom": "Idriss",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Camion de Hulk - Marvel Avengers VenomVersus Hasbro",
+      "categorie": "véhicule",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Drone radiocommandé Air Vision HD Silverlit",
+      "categorie": "véhicule",
+      "marque": "Silverlit",
+      "prix": 69.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Véhicule + Figurine Ruben La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "priorite": 3
+    },
+    {
+      "produit": "Trottinette 3 roues Spidey and His Amazing Friends Smoby",
+      "categorie": "sport",
+      "marque": "Smoby",
+      "prix": 26.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "71838 - PLAYMOBIL - Maison de fée avec licorne dorée PLAYMOBIL",
+      "categorie": "construction",
+      "prix": 45.99,
+      "devise": "EUR",
+      "reference": "71838",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,40 @@
+{
+  "prenom": "Ilyan",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Talkies-Walkies interactifs - Spidey VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® ONE PIECE 75636 Le bar du village de Fuchsia",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "ageRecommande": 8,
+      "priorite": 2
+    },
+    {
+      "produit": "Talking buzz - Figurine 30cm - Toy story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

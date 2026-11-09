@@ -1,0 +1,31 @@
+{
+  "prenom": "Emy",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Enceinte Bluetooth avec micro - Disco Light Music Star",
+      "categorie": "électronique",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "72154 - LEGO Pokémon - Poké Ball Moments culte de Dresseur LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 239.99,
+      "devise": "EUR",
+      "reference": "72154"
+    },
+    {
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 9e"
+}

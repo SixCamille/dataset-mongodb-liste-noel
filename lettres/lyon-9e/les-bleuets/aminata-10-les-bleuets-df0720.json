@@ -1,0 +1,19 @@
+{
+  "prenom": "Aminata",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Studio de mode lumineux Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,23 @@
+{
+  "prenom": "Lisa",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Mon jeu Cherche et Trouve des tout-petits Auzou",
+      "categorie": "jeu de société"
+    },
+    {
+      "produit": "Casse-tête Asmodee Behind",
+      "categorie": "puzzle",
+      "marque": "Asmodée",
+      "prix": 22.99,
+      "devise": "EUR",
+      "ageRecommande": 10
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

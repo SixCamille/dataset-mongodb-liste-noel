@@ -1,0 +1,47 @@
+{
+  "prenom": "Sandro",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Porteur John Deere Forestier Bruder",
+      "categorie": "imaginaire",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Blaster à fléchettes Ragefire - X-Shot Insanity Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "priorite": 2
+    },
+    {
+      "produit": "La Maison Magique - Gabby et la Maison Magique Le Film Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 71.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "72011 – Playmobil – Fusée d’exploration sur Mars ESA PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Set de construction CaDA - Bains japonais (1249 pièces)CaDA",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 6e"
+}

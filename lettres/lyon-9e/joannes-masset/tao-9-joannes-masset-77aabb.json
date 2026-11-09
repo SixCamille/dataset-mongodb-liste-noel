@@ -1,0 +1,45 @@
+{
+  "prenom": "Tao",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Studio de tatouages professionnel Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Détecteur de métaux expert Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 59.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Smarty Market Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby"
+    },
+    {
+      "produit": "71530 - Playmobil Pirates - Bateau Pirates PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "71530"
+    },
+    {
+      "produit": "Circuit à billes magnétiques Marble Rush - Dino Adventures Magnetic Set XL400E VTech",
+      "categorie": "construction",
+      "marque": "VTech",
+      "prix": 59.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

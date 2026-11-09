@@ -1,0 +1,45 @@
+{
+  "prenom": "Eloïse",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Projecter de dessin - La Reine des Neiges AS Company",
+      "categorie": "créatif",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Poupée Ariel transformable Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 27.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Funko Pop Animation Yu-Gi-Oh Red-Eyes Black Dragon Card",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Ramen mystère KPOP Demon Hunters avec peluche 10cm (modèle aléatoire)Jazwares",
+      "categorie": "peluche",
+      "marque": "Jazwares",
+      "prix": 12.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Carte pour conteuse d'histoire Yoto Petit Ours Brun : Mes premières sorties",
+      "categorie": "livre et audio",
+      "marque": "Yoto",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,26 @@
+{
+  "prenom": "Sohan",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Bumper Drone Lite Flybotic Flybotic",
+      "categorie": "véhicule"
+    },
+    {
+      "produit": "Avion militaire sons et lumières - 2 véhicules et figurine soldat Invincible Heroes",
+      "categorie": "véhicule"
+    },
+    {
+      "produit": "Trottinette 3 roues évolutive GO UP Active Light Eco - rose framboise Globber",
+      "categorie": "sport",
+      "marque": "Globber",
+      "prix": 89.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 6e"
+}

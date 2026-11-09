@@ -1,0 +1,47 @@
+{
+  "prenom": "Émile",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters S2 Zoey",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Star Wars™ 75449 Pack de combat Le Siège de Mandalore",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "Tapis magique à eau Baby Smile",
+      "categorie": "imaginaire",
+      "marque": "Baby Smile",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Poupon Bébé Calin Margaux Forêt 30cm Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Trottinette 3 roues pliable Pat'Patrouille STAMP",
+      "categorie": "sport",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

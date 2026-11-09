@@ -1,0 +1,31 @@
+{
+  "prenom": "Maddy",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Sylvanian Families - 5743 - La crèche ensoleillée Sylvanian Families",
+      "categorie": "imaginaire",
+      "marque": "Sylvanian Families",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Maxi tapis Aquadoodle arc en ciel fluo Tomy",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Valentina et Cinder ailes magiques - L'École des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 9e"
+}

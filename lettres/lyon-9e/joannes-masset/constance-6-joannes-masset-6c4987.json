@@ -1,0 +1,34 @@
+{
+  "prenom": "Constance",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Pokémon Salameche",
+      "categorie": "figurine et collection",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 1
+    },
+    {
+      "produit": "Capsule 5 surprises My mini baby Série 2 Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 9.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Peluche Ma Loutre Câlins Bonne Nuit Fisher Price Fisher Price",
+      "categorie": "peluche",
+      "marque": "Fisher Price",
+      "prix": 32.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

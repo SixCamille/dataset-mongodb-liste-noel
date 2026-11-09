@@ -1,0 +1,41 @@
+{
+  "prenom": "Rym",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Studio de tatouages professionnel Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Sylvanian Families - 5743 - La crèche ensoleillée Sylvanian Families",
+      "categorie": "imaginaire",
+      "marque": "Sylvanian Families",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Tresse Rumi KPOP Demon Hunters 40cm Rubie S",
+      "categorie": "imaginaire",
+      "prix": 6.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Mama Tortue surprise Pets Alive Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

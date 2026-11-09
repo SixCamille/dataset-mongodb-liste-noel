@@ -1,0 +1,43 @@
+{
+  "prenom": "Aria",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Voiture de course Radiocommandée Tom Race Chicco",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Véhicule + Figurine Ruben La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule"
+    },
+    {
+      "produit": "Véhicule + Figurine Ruben La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Cage de football pliable 180 cm SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 44.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Pack Lunii Baladeur interactif avec coque de protection nomade",
+      "categorie": "électronique",
+      "marque": "Lunii",
+      "prix": 99.99,
+      "devise": "EUR",
+      "ageRecommande": 7
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 9e"
+}

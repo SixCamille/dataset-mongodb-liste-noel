@@ -1,0 +1,39 @@
+{
+  "prenom": "Noa",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Atelier bougies sables Sentosphere",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "KPop Demon Hunters - Poupée chantante Zoey Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 36.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Figurine Funko Pop Supreme Toy Story 5 Atlas",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 24.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Ma peluche parlante à intelligence artificielle Elo Yeno Lexibook",
+      "categorie": "peluche",
+      "marque": "Lexibook",
+      "prix": 99.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "arrondissement": "Lyon 9e"
+}

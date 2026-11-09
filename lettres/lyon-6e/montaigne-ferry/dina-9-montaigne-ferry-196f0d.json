@@ -1,0 +1,37 @@
+{
+  "prenom": "Dina",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Tronçonneuse Funny Home",
+      "categorie": "imaginaire",
+      "prix": 9.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Tableau tubes - ardoise double face - magnétique / craie - + 80 accessoires inclus - vert Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "11381 - LEGO® Icons - Jaguar E-Type LEGO",
+      "categorie": "construction",
+      "marque": "LEGO"
+    },
+    {
+      "produit": "21597 - LEGO® Minecraft - La station de Ghast LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 99.99,
+      "devise": "EUR",
+      "reference": "21597"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 6e"
+}

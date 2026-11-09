@@ -1,0 +1,49 @@
+{
+  "prenom": "Leya",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Jeu de tir électronique Laser shoot Megableu",
+      "categorie": "jeu de société",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Hot dog drop - Jeu de réflèxe Jazwares",
+      "categorie": "jeu de société",
+      "marque": "Jazwares",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Jeu d'ambiance Gigamic Machu Pichu",
+      "categorie": "jeu de société",
+      "marque": "Gigamic",
+      "ageRecommande": 8,
+      "priorite": 3
+    },
+    {
+      "produit": "Tonies - Pokémon - Bulbizarre Tonies",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "LEGO® Minecraft® 21588 Le Renard",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 34.99,
+      "devise": "EUR",
+      "ageRecommande": 10,
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

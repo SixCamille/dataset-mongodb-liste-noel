@@ -1,0 +1,31 @@
+{
+  "prenom": "Nelya",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Lolly Dogs - Jeu de société enfant Blue Orange",
+      "categorie": "jeu de société",
+      "priorite": 1
+    },
+    {
+      "produit": "Figurine Woody Course Effrénée Toy Story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Labo balles rebondissantes Buki",
+      "categorie": "sciences et éducatif",
+      "marque": "Buki",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

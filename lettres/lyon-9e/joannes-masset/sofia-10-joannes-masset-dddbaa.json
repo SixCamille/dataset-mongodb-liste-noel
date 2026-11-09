@@ -1,0 +1,34 @@
+{
+  "prenom": "Sofia",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "My Mini Pets - Capsule Surprise Série 1 Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 9.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Simon classique Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 21.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Je découvre les émotions Nathan Jeux",
+      "categorie": "imaginaire",
+      "marque": "Nathan",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

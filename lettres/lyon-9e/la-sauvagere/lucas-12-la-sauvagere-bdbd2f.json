@@ -1,0 +1,32 @@
+{
+  "prenom": "Lucas",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Jeu Mito Permis de tricher - jeu de cartes et d'ambiance Gigamic",
+      "categorie": "jeu de société",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Tire sur mon doigt - Jeu d'action Jakks Pacific",
+      "categorie": "jeu de société",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "11504 - LEGO® Botanicals - Les fleurs de lune LEGO",
+      "categorie": "construction",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "11504",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

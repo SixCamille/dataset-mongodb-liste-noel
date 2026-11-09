@@ -1,0 +1,33 @@
+{
+  "prenom": "Sasha",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Tablette éducative Lillipad Toy Story 5 VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Jurassic World - Figurine Carnotaure Attaque Et Morsure Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Skyjo Junior Blackrock",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

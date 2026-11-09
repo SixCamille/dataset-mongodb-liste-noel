@@ -1,0 +1,37 @@
+{
+  "prenom": "Younes",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Barbecue et plancha grill - Smoby Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "72129 - Playmobil I Love Horses - Véhicule avec remorque à chevaux PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 44.99,
+      "devise": "EUR",
+      "reference": "72129",
+      "priorite": 2
+    },
+    {
+      "produit": "43024 - LEGO® Editions Formula 1 - Casque d’Ayrton Senna LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "43024",
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

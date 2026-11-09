@@ -1,0 +1,18 @@
+{
+  "prenom": "Alma",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Etabli de bricolage Bricolo - Black+Decker Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 64.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

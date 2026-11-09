@@ -1,0 +1,18 @@
+{
+  "prenom": "Charlie",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Coffret de 10 véhicules Fast & Furious - Hot Wheels Silver Series Mattel",
+      "categorie": "véhicule",
+      "marque": "Mattel",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,42 @@
+{
+  "prenom": "Juliette",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Coffret Etoilium Etoilium",
+      "categorie": "imaginaire",
+      "prix": 64.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Etal du marché Ecoiffier",
+      "categorie": "imaginaire",
+      "prix": 32.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Ordinateur enfant Genio Max rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech"
+    },
+    {
+      "produit": "Touché-Coulé - Bataille navale Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Kidisecrets vidéo fashion - Rose VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 54.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 6e"
+}

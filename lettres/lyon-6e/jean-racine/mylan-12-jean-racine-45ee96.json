@@ -1,0 +1,38 @@
+{
+  "prenom": "Mylan",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Hot dog drop - Jeu de réflèxe Jazwares",
+      "categorie": "jeu de société",
+      "marque": "Jazwares",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mission Dragon - Jeu d'action Dujardin",
+      "categorie": "jeu de société",
+      "marque": "Dujardin",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coffret figurines de combat Invincible Heroes",
+      "categorie": "figurine et collection",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coffret 4 puzzles d'animaux de la ferme Janod",
+      "categorie": "puzzle",
+      "marque": "Janod",
+      "prix": 18.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 6e"
+}

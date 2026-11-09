@@ -1,0 +1,40 @@
+{
+  "prenom": "Madeleine",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation K-Pop Demon Hunters Rumi",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Star Wars™ 75449 Pack de combat Le Siège de Mandalore",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "Coffret pinceau magique Color Wonder - Pat'Patrouille Crayola",
+      "categorie": "imaginaire",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Conteuse Raconte moi une histoire - T'Choupi Dujardin",
+      "categorie": "livre et audio",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,47 @@
+{
+  "prenom": "Maria",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies La maison de Gabby Fée Minette",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Star Wars™ 75436 Le speeder bike du Mandalorien et Grogu",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 9.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "Chariot de course avec siège bébé LOVE BEBE",
+      "categorie": "imaginaire",
+      "priorite": 3
+    },
+    {
+      "produit": "Siège auto cosy pour poupon LOVE BEBE",
+      "categorie": "poupée",
+      "priorite": 4
+    },
+    {
+      "produit": "Jeu d'enquête Gameflow Mon Puzzle Aventure Petits Détectives",
+      "categorie": "puzzle",
+      "marque": "Gameflow",
+      "prix": 17.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

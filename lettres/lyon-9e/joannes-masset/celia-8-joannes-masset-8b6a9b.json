@@ -1,0 +1,31 @@
+{
+  "prenom": "Célia",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Voiture radiocommandée Sonic Racing Crossworlds Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Camion dinosaur escape avec remorques et dinosaures Invincible Heroes",
+      "categorie": "véhicule",
+      "priorite": 2
+    },
+    {
+      "produit": "LEGO® Creator 31376 L’adorable hamster et la fleur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR",
+      "ageRecommande": 7,
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

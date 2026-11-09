@@ -1,0 +1,35 @@
+{
+  "prenom": "Zoé",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Mini machine à grappin avec lumières et sons Zig Zag jeux action",
+      "categorie": "imaginaire"
+    },
+    {
+      "produit": "Croc' Dentiste Hasbro Gaming",
+      "categorie": "imaginaire",
+      "prix": 21.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Ordinateur enfant Genio Max VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 149.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Chasse Taupes Mattel Games",
+      "categorie": "imaginaire",
+      "marque": "Mattel",
+      "prix": 22.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "arrondissement": "Lyon 6e"
+}

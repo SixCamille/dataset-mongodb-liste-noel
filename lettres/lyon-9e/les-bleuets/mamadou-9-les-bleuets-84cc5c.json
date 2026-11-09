@@ -1,0 +1,46 @@
+{
+  "prenom": "Mamadou",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Domino express racing et Super dealer Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Play-Doh Donut Drop Shop Play Doh",
+      "categorie": "imaginaire",
+      "marque": "Play-Doh",
+      "prix": 22.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Sylvanian - Le château des fées de la forêt Sylvanian Families",
+      "categorie": "imaginaire",
+      "marque": "Sylvanian Families",
+      "prix": 79.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "LEGO® Spidey 11206 Spidey sur sa moto contre Rhino",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 7.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Circuit à billes Marble Rush - SuperPack : Beginner Set S200 + Basketball Set S500 VTech",
+      "categorie": "construction",
+      "marque": "VTech",
+      "prix": 32.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 9e"
+}

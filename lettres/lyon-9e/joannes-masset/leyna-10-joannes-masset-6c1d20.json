@@ -1,0 +1,29 @@
+{
+  "prenom": "Leyna",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Deguisement Pompier + accesoires 3/6 ans - Melissa&Doug Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Super caserne de pompiers interactive - Tut Tut Bolides Série Pro VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech"
+    },
+    {
+      "produit": "Porteur John Deere Forestier Bruder",
+      "categorie": "imaginaire",
+      "prix": 59.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime lire au calme avant de dormir.",
+  "arrondissement": "Lyon 9e"
+}

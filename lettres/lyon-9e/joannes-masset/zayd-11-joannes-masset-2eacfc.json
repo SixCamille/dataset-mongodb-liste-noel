@@ -1,0 +1,16 @@
+{
+  "prenom": "Zayd",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Ordinateur - Tablette P'tit Genius Touch rose VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

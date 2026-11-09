@@ -1,0 +1,24 @@
+{
+  "prenom": "Selma",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Le bateau de croisière de Bluey Moose Toys",
+      "categorie": "imaginaire",
+      "marque": "Moose Toys",
+      "prix": 59.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Tête à coiffer 4 en 1 Bella Parker Rainbow High Mga",
+      "categorie": "imaginaire",
+      "prix": 39.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 9e"
+}

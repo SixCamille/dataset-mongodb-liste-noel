@@ -1,0 +1,47 @@
+{
+  "prenom": "Lana",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Coffret créatif Aqua Gelz Deluxe Simba Dickie",
+      "categorie": "créatif",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Poupée Chantante Elsa Sons et Lumières La Reine des Neiges Mattel",
+      "categorie": "poupée",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Poupée Ève cheveux de rêve 36cm Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "priorite": 3
+    },
+    {
+      "produit": "Figurine Funko Pop Marvel X-Men 97 Storm",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "ageRecommande": 6,
+      "priorite": 4
+    },
+    {
+      "produit": "Jeu classique Hasbro Puissance 4",
+      "categorie": "imaginaire",
+      "marque": "Hasbro",
+      "prix": 11.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 5
+    }
+  ],
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 6e"
+}

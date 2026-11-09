@@ -1,0 +1,15 @@
+{
+  "prenom": "Alba",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Poupée Rainbow High Junior Bestie Babysitter - Amaya Raine Mga",
+      "categorie": "poupée",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

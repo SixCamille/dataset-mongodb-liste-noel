@@ -1,0 +1,37 @@
+{
+  "prenom": "Théo",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Avion télécommandé Sonic Evo - Flybotic Flybotic",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "Lit superposé en bois 50 cm LOVE BEBE",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Réveil Kid'Sleep Essential Pabobo",
+      "categorie": "imaginaire",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Calendrier de l’Avent - La Pat' Patrouille Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

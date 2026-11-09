@@ -1,0 +1,44 @@
+{
+  "prenom": "Aïcha",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Studio de Scrapbooking Pro 4 en 1 Style 4 Ever Canal Toys",
+      "categorie": "imaginaire",
+      "marque": "Canal Toys",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Studio professionnel bougies Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki",
+      "prix": 24.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Boule Plasma 13 cm Buki",
+      "categorie": "imaginaire",
+      "marque": "Buki"
+    },
+    {
+      "produit": "Circuit à billes magnétiques Marble Rush - Dino Adventures Magnetic Set XL400E VTech",
+      "categorie": "construction",
+      "prix": 59.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "77264 - LEGO® Speed Champions - La Jaguar Project 7 et le Land Rover Defender LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "77264"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 6e"
+}

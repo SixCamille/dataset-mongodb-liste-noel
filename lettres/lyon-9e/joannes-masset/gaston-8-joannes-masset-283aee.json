@@ -1,0 +1,27 @@
+{
+  "prenom": "Gaston",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Voiture télécommandée Lamborghini Aventador 47 cm 1/10ème Motor & Co R/C",
+      "categorie": "véhicule",
+      "priorite": 1
+    },
+    {
+      "produit": "Figurine Shadow et moto - Film Sonic 3 Jakks Pacific",
+      "categorie": "véhicule",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Kit entraînement Équipe de France de football Nemo",
+      "categorie": "sport",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

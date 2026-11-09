@@ -1,0 +1,19 @@
+{
+  "prenom": "Hector",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Pack de 2 véhicules La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 6e"
+}

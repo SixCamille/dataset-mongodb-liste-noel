@@ -1,0 +1,44 @@
+{
+  "prenom": "Emma",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Mon journal intime - Sally Clementoni",
+      "categorie": "imaginaire",
+      "marque": "Clementoni",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Talkie-Walkie Rechargeable - Spider-man Lexibook",
+      "categorie": "imaginaire",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Je découvre les émotions Nathan Jeux",
+      "categorie": "imaginaire",
+      "marque": "Nathan",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "77984 - LEGO® Jurassic World - Jurassic Park Jeep Wrangler LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "77984"
+    },
+    {
+      "produit": "72160 - Playmobil Country - Grande ferme et étable PLAYMOBIL",
+      "categorie": "construction",
+      "prix": 89.99,
+      "devise": "EUR",
+      "reference": "72160"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,33 @@
+{
+  "prenom": "Aliya",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Pic Pirate Buzz l’Éclair Toy Story Tomy",
+      "categorie": "jeu de société",
+      "marque": "Tomy",
+      "prix": 22.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Jurassic World - Figurine Carnotaure Attaque Et Morsure Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Labyrinthe Pokémon Ravensburger",
+      "categorie": "puzzle",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

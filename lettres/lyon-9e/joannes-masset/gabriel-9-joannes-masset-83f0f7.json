@@ -1,0 +1,46 @@
+{
+  "prenom": "Gabriel",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Coffret Licorne Et Poupee Glacier Et Layla - L'école Des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "prix": 54.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Tête à coiffer la reine des neiges - Elsa Just Play",
+      "categorie": "imaginaire",
+      "marque": "Just Play",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Joe le pendu GP Toys",
+      "categorie": "imaginaire",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Baril 100 blocs de construction WOOD N PLAY",
+      "categorie": "construction",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Jeu de construction Jekca - Chat roux 25cm Jekca",
+      "categorie": "construction",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

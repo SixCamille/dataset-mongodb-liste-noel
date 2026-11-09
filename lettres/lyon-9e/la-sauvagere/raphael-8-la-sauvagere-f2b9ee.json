@@ -1,0 +1,37 @@
+{
+  "prenom": "Raphaël",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Maxi grue filoguidée Superstar",
+      "categorie": "véhicule",
+      "marque": "Superstar",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Garage Tower 5 étages avec 10 voitures 75 cm Motor & Co",
+      "categorie": "véhicule",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Moto Ducati Radiocommandée 1198 Chicco",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Porteur avec musique Mercedes blanche classe C SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets.",
+  "arrondissement": "Lyon 9e"
+}

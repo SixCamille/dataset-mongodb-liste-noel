@@ -1,0 +1,21 @@
+{
+  "prenom": "Maïssa",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Centre d'activités Blopens Stitch et Angel Lansay",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "Circuit Spidey and friends - Zone de construction Chaos Jazwares",
+      "categorie": "construction",
+      "marque": "Jazwares",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

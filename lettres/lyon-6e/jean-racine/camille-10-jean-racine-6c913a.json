@@ -1,0 +1,25 @@
+{
+  "prenom": "Camille",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Ecurie Magique - L'Ecole des Licornes Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 62.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Porteur John Deere Forestier Bruder",
+      "categorie": "imaginaire",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

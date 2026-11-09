@@ -1,0 +1,35 @@
+{
+  "prenom": "Ruben",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie Iello Agent Avenue",
+      "categorie": "jeu de société",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 8
+    },
+    {
+      "produit": "Jeu pêche à la ligne Zig Zag jeux action",
+      "categorie": "jeu de société",
+      "prix": 11.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Coffret de figurines Rumi et Jinu-avec bipa - KPop Demon Hunters Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Calendrier de l'Avent Pieces & Peace - 24 Puzzles 42 Pièces Pieces & Peace",
+      "categorie": "puzzle"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,38 @@
+{
+  "prenom": "Louison",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Arbre magique des Klorofil et 2 personnages Vulli",
+      "categorie": "imaginaire",
+      "priorite": 1
+    },
+    {
+      "produit": "Murder Phone Spin Master",
+      "categorie": "imaginaire",
+      "marque": "Spin Master",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Batterie 3 tambours bleus avec cymbale et tabouret Music Star",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Le Crunchinator - Crunch Labs Moose Toys",
+      "categorie": "imaginaire",
+      "marque": "Moose Toys",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

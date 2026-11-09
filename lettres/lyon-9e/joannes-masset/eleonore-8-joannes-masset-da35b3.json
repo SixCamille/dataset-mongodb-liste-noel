@@ -1,0 +1,17 @@
+{
+  "prenom": "Éléonore",
+  "sexe": "F",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Circuit de course avec 2 voitures télécommandées Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,41 @@
+{
+  "prenom": "Jennah",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Jeu d’ambiance Asmodee Miams",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 17.99,
+      "devise": "EUR",
+      "ageRecommande": 10,
+      "priorite": 1
+    },
+    {
+      "produit": "Flip 7 Blackrock",
+      "categorie": "jeu de société",
+      "priorite": 2
+    },
+    {
+      "produit": "Talking buzz - Figurine 30cm - Toy story 5 Mattel",
+      "categorie": "figurine et collection",
+      "marque": "Mattel",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "LEGO® Speed Champions 77256 La machine à remonter le temps de Retour vers le futur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 27.99,
+      "devise": "EUR",
+      "ageRecommande": 9,
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

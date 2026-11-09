@@ -1,0 +1,24 @@
+{
+  "prenom": "Olivia",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Tête à coiffer 4 en 1 Bella Parker Rainbow High Mga",
+      "categorie": "imaginaire",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "43296 - LEGO® Disney - Stitch et Scrump LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "reference": "43296",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,27 @@
+{
+  "prenom": "Esmée",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Tablette éducative Lillipad Toy Story 5 VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Tonies Stitch - Lilo & Stitch Tonies",
+      "categorie": "livre et audio",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets.",
+  "arrondissement": "Lyon 9e"
+}

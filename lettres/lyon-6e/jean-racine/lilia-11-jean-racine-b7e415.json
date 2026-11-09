@@ -1,0 +1,48 @@
+{
+  "prenom": "Lilia",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Appareil photo numérique Beauty Cam'Canal Toys",
+      "categorie": "électronique",
+      "marque": "Canal Toys",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Tut Tut Bolides Bluey – Super marchand de glaces interactif VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 41.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "LEGO® Ninjago Destiny's Bounty Adventures Asmodée",
+      "categorie": "construction",
+      "marque": "Asmodée",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Pack de 7 figurines 30 cm - Marvel Avengers Titan Hero Series Hasbro",
+      "categorie": "figurine et collection",
+      "prix": 59.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Pochette d'Apprentissage Montessori",
+      "categorie": "imaginaire",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

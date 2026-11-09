@@ -1,0 +1,30 @@
+{
+  "prenom": "Oscar",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Circuit de voitures Glow Racer 375 rails à assembler Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Robot dinosaure télécommandé smart - 54 cm Motor & Co R/C",
+      "categorie": "véhicule",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Jeu de stratégie Asmodee Carcassonne Big Box",
+      "categorie": "jeu de société",
+      "prix": 63.99,
+      "devise": "EUR",
+      "ageRecommande": 7
+    }
+  ],
+  "commentaire": "J'adore observer la nature et fabriquer des objets.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,48 @@
+{
+  "prenom": "Liam",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Pin Pon !Djeco",
+      "categorie": "imaginaire",
+      "marque": "Djeco",
+      "prix": 17.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Pistolet XSHOT Hyper Gel Trace Fire + 2500 pastilles Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 44.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Coffret activités d'éveil en bois WOOD N PLAY",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "71857 - Playmobil Volkswagen T1 Combi PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "reference": "71857",
+      "priorite": 4
+    },
+    {
+      "produit": "Circuit Spidey and friends - Zone de construction Chaos Jazwares",
+      "categorie": "construction",
+      "marque": "Jazwares",
+      "prix": 44.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

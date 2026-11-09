@@ -1,0 +1,31 @@
+{
+  "prenom": "Ana",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Dékal Gigamic",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Magi’TV des découvertes VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Chariot de ménage Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 44.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 6e"
+}

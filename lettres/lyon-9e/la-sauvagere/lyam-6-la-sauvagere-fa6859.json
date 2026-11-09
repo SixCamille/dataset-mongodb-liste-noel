@@ -1,0 +1,33 @@
+{
+  "prenom": "Lyam",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Movies Fast & Furious Dom Toretto",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "Baby Walker 3 en 1 + Poupon Smoby",
+      "categorie": "poupée",
+      "marque": "Smoby",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Mon bébé koala - Little Live Pets Moose Toys",
+      "categorie": "peluche",
+      "marque": "Moose Toys",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,18 @@
+{
+  "prenom": "Hugo",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "L'atelier des stylos - Harry Potter Clementoni",
+      "categorie": "créatif",
+      "marque": "Clementoni",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

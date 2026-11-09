@@ -1,0 +1,17 @@
+{
+  "prenom": "Martin",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie Grandpa becks game Skull King Extension",
+      "categorie": "jeu de société",
+      "prix": 8.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 9e"
+}

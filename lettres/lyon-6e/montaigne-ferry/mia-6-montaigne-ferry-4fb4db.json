@@ -1,0 +1,17 @@
+{
+  "prenom": "Mia",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Jeu d'enquête Gameflow Mon Puzzle Aventure Petits Détectives",
+      "categorie": "puzzle",
+      "marque": "Gameflow",
+      "ageRecommande": 5,
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,18 @@
+{
+  "prenom": "Eliot",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Coffret Mini Brands Kawaii Kitchen (modèles aléatoires)Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

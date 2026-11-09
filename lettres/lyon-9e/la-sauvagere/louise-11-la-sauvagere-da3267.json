@@ -1,0 +1,29 @@
+{
+  "prenom": "Louise",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Coffret baladeur musical et console interactive - Bluey VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Fusée spatiale 5 en 1 interactive 40 cm avec figurines Invincible Heroes",
+      "categorie": "figurine et collection",
+      "priorite": 2
+    },
+    {
+      "produit": "Cartes-histoires 101Dalmacien conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

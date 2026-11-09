@@ -1,0 +1,31 @@
+{
+  "prenom": "Capucine",
+  "sexe": "F",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Jeu d’ambiance Asmodee Dnup",
+      "categorie": "jeu de société",
+      "prix": 11.99,
+      "devise": "EUR",
+      "ageRecommande": 8
+    },
+    {
+      "produit": "BattleCave Lion de Glace - Eldrador Schleich",
+      "categorie": "figurine et collection",
+      "marque": "Schleich"
+    },
+    {
+      "produit": "Image†www.fnac.com",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 39.99,
+      "devise": "EUR",
+      "ageRecommande": 10
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

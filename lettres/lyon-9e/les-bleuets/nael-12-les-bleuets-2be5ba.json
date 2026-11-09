@@ -1,0 +1,28 @@
+{
+  "prenom": "Naël",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie Lumberjacks Alice De l'autre côté du miroir",
+      "categorie": "jeu de société",
+      "marque": "Lumberjacks",
+      "prix": 17.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Technic 42221 La fusée SLS NASA Artemis",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 47.99,
+      "devise": "EUR",
+      "ageRecommande": 9,
+      "priorite": 2
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 9e"
+}

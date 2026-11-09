@@ -1,0 +1,47 @@
+{
+  "prenom": "Lorenzo",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Pokémon Pikachu",
+      "categorie": "figurine et collection",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® City 60488 Le food-truck de frites",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 2
+    },
+    {
+      "produit": "Quartier Général Dino Mobile - La Pat'Patrouille Le Film Spin Master",
+      "categorie": "imaginaire",
+      "priorite": 3
+    },
+    {
+      "produit": "Poupon Robin 43 cm boit et fait pipi avec accessoires LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Colorino Ravensburger",
+      "categorie": "jeu de société",
+      "marque": "Ravensburger",
+      "prix": 21.99,
+      "devise": "EUR",
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

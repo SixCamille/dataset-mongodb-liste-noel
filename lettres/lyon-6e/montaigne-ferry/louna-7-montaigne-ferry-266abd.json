@@ -1,0 +1,25 @@
+{
+  "prenom": "Louna",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Atelier Gravure Professional Studio Buki",
+      "categorie": "créatif",
+      "marque": "Buki",
+      "prix": 36.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Poupée Barbie Danseuse Papillon Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 24.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Mon activité préférée est de créer avec mes mains.",
+  "arrondissement": "Lyon 6e"
+}

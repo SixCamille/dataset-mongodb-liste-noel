@@ -1,0 +1,26 @@
+{
+  "prenom": "Elias",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Jeu Bingo Deluxe en bois avec boulier en métal Zig Zag jeux action",
+      "categorie": "jeu de société",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Minecraft® 21588 Le Renard",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 34.99,
+      "devise": "EUR",
+      "ageRecommande": 10,
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

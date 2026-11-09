@@ -1,0 +1,30 @@
+{
+  "prenom": "Rafael",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Jeu de stratégie Les Tontons Joueurs Hisse et Oh",
+      "categorie": "jeu de société",
+      "prix": 11.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "11513 - LEGO® Botanicals - La Composition Florale Sombre LEGO",
+      "categorie": "construction",
+      "prix": 59.99,
+      "devise": "EUR",
+      "reference": "11513",
+      "priorite": 2
+    },
+    {
+      "produit": "Labo Potions Buki",
+      "categorie": "sciences et éducatif",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

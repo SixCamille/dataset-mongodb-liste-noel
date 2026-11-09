@@ -1,0 +1,51 @@
+{
+  "prenom": "Milann",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "L'atelier des bracelets Shiny Pop Lansay",
+      "categorie": "créatif",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "KPop Demon Hunters - Poupée chantante Zoey Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 36.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Funko Pop Marvel X-Men 97 Storm",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    },
+    {
+      "produit": "Ma peluche parlante à intelligence artificielle Elo Yeno Lexibook",
+      "categorie": "peluche",
+      "marque": "Lexibook",
+      "prix": 99.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "Jeu classique Dujardin Miles Bornes Classiques",
+      "categorie": "plein air et nature",
+      "marque": "Dujardin",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 5
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

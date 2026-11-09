@@ -1,0 +1,36 @@
+{
+  "prenom": "Nora",
+  "sexe": "F",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Tut Tut Bolides Bluey – Super marchand de glaces interactif VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Ninjago Destiny's Bounty Adventures Asmodée",
+      "categorie": "construction",
+      "marque": "Asmodée",
+      "priorite": 2
+    },
+    {
+      "produit": "Coffret réveil lumineux Pikachu + Poké Ball Pokémon Teknofun",
+      "categorie": "figurine et collection",
+      "marque": "Pokémon",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Mâche-Mots Enfants Contre Parents Hasbro Gaming",
+      "categorie": "imaginaire",
+      "marque": "Hasbro Gaming",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

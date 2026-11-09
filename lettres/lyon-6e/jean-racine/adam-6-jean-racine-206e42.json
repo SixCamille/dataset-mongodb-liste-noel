@@ -1,0 +1,45 @@
+{
+  "prenom": "Adam",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation Jujutsu Kaisen Rika",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "LEGO® City 60498 Le tracteur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 15.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Little People - La Ferme Grange et Silo Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price",
+      "prix": 49.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Chaise haute poupon en bois 60 cm LOVE BEBE",
+      "categorie": "poupée"
+    },
+    {
+      "produit": "Baby-foot 2 en 1 SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime inventer des histoires et jouer avec mes amis.",
+  "arrondissement": "Lyon 6e"
+}

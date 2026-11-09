@@ -1,0 +1,41 @@
+{
+  "prenom": "Léo",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Jeu d’échecs Harry Potter magnétique pliable Lexibook",
+      "categorie": "jeu de société",
+      "marque": "Lexibook",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Monopoly : KPop Demon Hunters Hasbro Gaming",
+      "categorie": "jeu de société",
+      "marque": "Hasbro Gaming",
+      "priorite": 2
+    },
+    {
+      "produit": "LEGO® ONE PIECE 75638 La bataille d’Arlong Park",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 60.62,
+      "devise": "EUR",
+      "ageRecommande": 9,
+      "priorite": 3
+    },
+    {
+      "produit": "Jumelles vidéo interactives Genius XL VTech",
+      "categorie": "sciences et éducatif",
+      "marque": "VTech",
+      "prix": 69.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

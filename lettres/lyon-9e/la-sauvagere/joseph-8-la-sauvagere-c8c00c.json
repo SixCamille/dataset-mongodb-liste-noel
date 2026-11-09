@@ -1,0 +1,17 @@
+{
+  "prenom": "Joseph",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Train avec circuit électrique High-Speed Motor & Co Race",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,26 @@
+{
+  "prenom": "Ethan",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Coffret de 10 véhicules Fast & Furious - Hot Wheels Silver Series Mattel",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "21349 - Le chat bicolore - LEGO® Ideas LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 99.99,
+      "devise": "EUR",
+      "reference": "21349",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

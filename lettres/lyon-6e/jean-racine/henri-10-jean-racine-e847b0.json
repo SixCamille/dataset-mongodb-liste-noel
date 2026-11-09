@@ -1,0 +1,31 @@
+{
+  "prenom": "Henri",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Tronçonneuse Funny Home",
+      "categorie": "imaginaire",
+      "prix": 9.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Tractopelle à pédales Komastu avec remorque Falk",
+      "categorie": "imaginaire",
+      "prix": 99.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Draisienne Biky Cross BERG",
+      "categorie": "imaginaire",
+      "prix": 109.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

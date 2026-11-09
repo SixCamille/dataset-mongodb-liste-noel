@@ -1,0 +1,17 @@
+{
+  "prenom": "Mariam",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Super Mario Football Striker - Babyfoot miniature Epoch Games",
+      "categorie": "sport",
+      "prix": 39.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "arrondissement": "Lyon 9e"
+}

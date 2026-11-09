@@ -1,0 +1,25 @@
+{
+  "prenom": "Achille",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Skyjo Junior Blackrock",
+      "categorie": "imaginaire",
+      "prix": 14.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "71530 - Playmobil Pirates - Bateau Pirates PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 79.99,
+      "devise": "EUR",
+      "reference": "71530"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 6e"
+}

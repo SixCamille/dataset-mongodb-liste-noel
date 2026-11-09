@@ -1,0 +1,43 @@
+{
+  "prenom": "Hafsa",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Pokémon Pikachu",
+      "categorie": "figurine et collection",
+      "ageRecommande": 5
+    },
+    {
+      "produit": "LEGO® City 60498 Le tracteur",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Mon coffret 7 jeux T'choupi Nathan Jeux",
+      "categorie": "imaginaire",
+      "marque": "Nathan",
+      "prix": 22.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Poupon Bébé Calin Margaux Forêt 30cm Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 39.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Mon ordinateur/tablette éducatif - Pat'Patrouille VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aimerais organiser des parties avec toute ma famille.",
+  "arrondissement": "Lyon 6e"
+}

@@ -1,0 +1,41 @@
+{
+  "prenom": "Nathanaël",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Le Yacht De Minnie Just Play",
+      "categorie": "imaginaire",
+      "marque": "Just Play",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Cabane des découvertes Super Tut Tut VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "priorite": 2
+    },
+    {
+      "produit": "71838 - PLAYMOBIL - Maison de fée avec licorne dorée PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 45.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "72423 - LEGO® Shrek - Shrek, l’Âne et le Chat Potté LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 119.99,
+      "devise": "EUR",
+      "reference": "72423",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

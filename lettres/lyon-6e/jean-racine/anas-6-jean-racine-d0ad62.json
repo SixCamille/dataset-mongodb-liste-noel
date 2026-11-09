@@ -1,0 +1,28 @@
+{
+  "prenom": "Anas",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "71681 - Playmobil Junior - Arche de Noé PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71681",
+      "priorite": 1
+    },
+    {
+      "produit": "Jeu électronique Vtech Console TV LeapMOVE",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 69.99,
+      "devise": "EUR",
+      "ageRecommande": 4,
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

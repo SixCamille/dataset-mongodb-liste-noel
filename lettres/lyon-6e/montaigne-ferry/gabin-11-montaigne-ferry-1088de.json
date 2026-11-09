@@ -1,0 +1,23 @@
+{
+  "prenom": "Gabin",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Cube interactif multi-activités VTech",
+      "categorie": "électronique",
+      "marque": "VTech"
+    },
+    {
+      "produit": "Mama Tortue surprise Pets Alive Zuru",
+      "categorie": "imaginaire",
+      "marque": "Zuru",
+      "prix": 19.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 6e"
+}

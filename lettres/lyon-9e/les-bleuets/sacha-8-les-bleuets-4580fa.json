@@ -1,0 +1,30 @@
+{
+  "prenom": "Sacha",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Train traditionnel à vapeur Motor & Co",
+      "categorie": "véhicule"
+    },
+    {
+      "produit": "Trottinette 3 roues Spidey and His Amazing Friends Smoby",
+      "categorie": "sport",
+      "marque": "Smoby",
+      "prix": 26.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Pack Lunii Baladeur interactif avec coque de protection nomade",
+      "categorie": "électronique",
+      "marque": "Lunii",
+      "prix": 99.99,
+      "devise": "EUR",
+      "ageRecommande": 7
+    }
+  ],
+  "commentaire": "Je voudrais construire plein de choses différentes.",
+  "arrondissement": "Lyon 9e"
+}

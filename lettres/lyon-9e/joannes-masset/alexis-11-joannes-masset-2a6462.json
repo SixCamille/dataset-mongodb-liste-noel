@@ -1,0 +1,35 @@
+{
+  "prenom": "Alexis",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Tut Tut Bolides Bluey – Super marchand de glaces interactif VTech",
+      "categorie": "électronique",
+      "marque": "VTech",
+      "prix": 41.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "75455 - LEGO® Star Wars - Boba Fett LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 159.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "BattleCave Lion de Glace - Eldrador Schleich",
+      "categorie": "figurine et collection",
+      "marque": "Schleich"
+    },
+    {
+      "produit": "Cartes-histoires 101Dalmacien conteur Disney Plus Clementoni",
+      "categorie": "livre et audio",
+      "marque": "Clementoni"
+    }
+  ],
+  "commentaire": "J'aime les animaux, surtout ceux que l'on voit rarement.",
+  "arrondissement": "Lyon 9e"
+}

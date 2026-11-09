@@ -1,0 +1,17 @@
+{
+  "prenom": "Daniel",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Buki Watch - Montre connectée pour enfants Buki",
+      "categorie": "électronique",
+      "prix": 79.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

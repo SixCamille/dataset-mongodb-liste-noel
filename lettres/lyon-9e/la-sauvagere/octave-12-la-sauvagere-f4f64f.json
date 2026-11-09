@@ -1,0 +1,39 @@
+{
+  "prenom": "Octave",
+  "sexe": "M",
+  "age": 12,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Jeu d'ambiance Ludistri Haïku",
+      "categorie": "jeu de société",
+      "marque": "Ludistri",
+      "prix": 22.99,
+      "devise": "EUR",
+      "ageRecommande": 8
+    },
+    {
+      "produit": "Dobble Kpop Demon Hunters Asmodée",
+      "categorie": "jeu de société",
+      "marque": "Asmodée",
+      "prix": 16.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Tonies - Pokémon - Bulbizarre Tonies",
+      "categorie": "figurine et collection",
+      "marque": "Tonies"
+    },
+    {
+      "produit": "Puzzle 3D K-Pop Demon Hunters Basket Ravensburger",
+      "categorie": "puzzle",
+      "marque": "Ravensburger",
+      "prix": 21.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

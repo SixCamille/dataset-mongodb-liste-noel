@@ -1,0 +1,26 @@
+{
+  "prenom": "Hortense",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Bazar bizarre Gigamic",
+      "categorie": "imaginaire",
+      "prix": 16.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "43020 - LEGO® Editions Football - Trophée officiel de la Coupe du monde de la FIFA LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 159.99,
+      "devise": "EUR",
+      "reference": "43020",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

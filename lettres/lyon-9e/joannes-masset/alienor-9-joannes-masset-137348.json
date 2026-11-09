@@ -1,0 +1,51 @@
+{
+  "prenom": "Aliénor",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Le Loto des odeurs Sentosphere",
+      "categorie": "imaginaire",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Scrabble Junior Mattel Games",
+      "categorie": "imaginaire",
+      "marque": "Mattel",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Combi Poussette + Landau Rose Maxi Cosi Smoby",
+      "categorie": "imaginaire",
+      "marque": "Smoby",
+      "prix": 52.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Circuit à billes Marble Rush - SuperPack : Beginner Set S200 + Basketball Set S500 VTech",
+      "categorie": "construction",
+      "marque": "VTech",
+      "prix": 32.99,
+      "devise": "EUR",
+      "priorite": 4
+    },
+    {
+      "produit": "60497 - LEGO® City - La station de lavage automatique LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "reference": "60497",
+      "priorite": 5
+    }
+  ],
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 9e"
+}

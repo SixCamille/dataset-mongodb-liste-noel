@@ -1,0 +1,24 @@
+{
+  "prenom": "Milo",
+  "sexe": "M",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Draisienne Biky Cross BERG",
+      "categorie": "imaginaire",
+      "prix": 109.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Blocs translucides en bois - Gamme sensorielle Janod",
+      "categorie": "imaginaire",
+      "marque": "Janod",
+      "prix": 29.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "J'aime beaucoup dessiner après l'école.",
+  "arrondissement": "Lyon 6e"
+}

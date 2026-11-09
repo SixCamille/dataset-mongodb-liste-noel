@@ -1,0 +1,41 @@
+{
+  "prenom": "Mohamed",
+  "sexe": "M",
+  "age": 6,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Montaigne - Ferry",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Cars 2",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 4,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® City 60456 La course-poursuite en bateau de police",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 29.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "Mon premier aspirateur d'éveil Fisher Price Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price",
+      "priorite": 3
+    },
+    {
+      "produit": "Circuit Pat'Patrouille 2,9m - Carrera Go Carrera",
+      "categorie": "véhicule",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "arrondissement": "Lyon 6e"
+}

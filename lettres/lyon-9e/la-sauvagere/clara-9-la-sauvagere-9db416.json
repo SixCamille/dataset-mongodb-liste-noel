@@ -1,0 +1,34 @@
+{
+  "prenom": "Clara",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Mon journal intime Gabby et la maison magique - KidiSecrets VTech",
+      "categorie": "imaginaire",
+      "marque": "VTech",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Jeu de construction Jekca - Chat roux 25cm Jekca",
+      "categorie": "construction",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "71524 - Playmobil Dinos - Explorateur avec moto et tyrannosaure PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 39.99,
+      "devise": "EUR",
+      "reference": "71524",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

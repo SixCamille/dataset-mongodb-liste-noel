@@ -1,0 +1,25 @@
+{
+  "prenom": "Elena",
+  "sexe": "F",
+  "age": 6,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Joannes Masset",
+  "souhaits": [
+    {
+      "produit": "Chaise haute poupon en bois 60 cm LOVE BEBE",
+      "categorie": "poupée",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Peluche Ma Loutre Câlins Bonne Nuit Fisher Price Fisher Price",
+      "categorie": "peluche",
+      "marque": "Fisher Price",
+      "prix": 32.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Ce cadeau me servirait pour jouer dehors avec ma famille.",
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,32 @@
+{
+  "prenom": "Adrien",
+  "sexe": "M",
+  "age": 11,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Enceinte musicale Bluetooth et lumières groove disco Music Star",
+      "categorie": "électronique",
+      "prix": 69.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Domino express racing et Super dealer Goliath",
+      "categorie": "imaginaire",
+      "marque": "Goliath",
+      "prix": 39.99,
+      "devise": "EUR",
+      "priorite": 2
+    },
+    {
+      "produit": "Spiderman - Panoplie Luxe - 5/6 ans Rubie S",
+      "categorie": "déguisement et action",
+      "prix": 34.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}
