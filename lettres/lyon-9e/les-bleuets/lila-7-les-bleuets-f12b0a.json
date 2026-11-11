@@ -1,0 +1,37 @@
+{
+  "prenom": "Lila",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Supreme Toy Story 5 Atlas",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 24.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "10698 - LEGO® Classic - Boîte de briques créatives deluxe LEGO",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 49.99,
+      "devise": "EUR",
+      "ageRecommande": 4,
+      "reference": "10698",
+      "priorite": 2
+    },
+    {
+      "produit": "Baby-foot 2 en 1 SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "prix": 49.99,
+      "devise": "EUR",
+      "priorite": 3
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

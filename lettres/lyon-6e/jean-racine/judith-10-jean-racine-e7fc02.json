@@ -1,0 +1,26 @@
+{
+  "prenom": "Judith",
+  "sexe": "F",
+  "age": 10,
+  "codePostal": "69006",
+  "ecole": "École élémentaire Jean Racine",
+  "souhaits": [
+    {
+      "produit": "Pâte à modeler - Super boîte à accessoires animaux Play Doh",
+      "categorie": "créatif",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Poupée Barbie coffret maîtresse d'école Mattel",
+      "categorie": "poupée",
+      "marque": "Mattel",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 6e"
+}

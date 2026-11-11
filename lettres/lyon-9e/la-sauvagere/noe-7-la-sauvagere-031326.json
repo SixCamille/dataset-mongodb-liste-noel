@@ -1,0 +1,45 @@
+{
+  "prenom": "Noé",
+  "sexe": "M",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire La Sauvagère",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Marvel X-Men 97 Storm",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "LEGO® Minifigures 71053 Série Shrek",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 3.99,
+      "devise": "EUR",
+      "ageRecommande": 6
+    },
+    {
+      "produit": "Grenouille lumineuse roulante Fisher Price",
+      "categorie": "imaginaire",
+      "marque": "Fisher Price"
+    },
+    {
+      "produit": "Poupon Rose - Nouveau-né réaliste Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 99.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Super Mario Football Striker - Babyfoot miniature Epoch Games",
+      "categorie": "sport",
+      "prix": 39.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je rêve de découvrir les étoiles et les planètes.",
+  "arrondissement": "Lyon 9e"
+}

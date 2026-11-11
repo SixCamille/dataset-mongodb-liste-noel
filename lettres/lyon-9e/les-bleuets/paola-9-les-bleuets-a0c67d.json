@@ -1,0 +1,30 @@
+{
+  "prenom": "Paola",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Camion poubelle - 37 cm Motor & Co",
+      "categorie": "véhicule",
+      "prix": 29.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Talkie-Walkie 3 km SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT"
+    },
+    {
+      "produit": "72239 - Playmobil Icon Cars - Porsche 911 Turbo PLAYMOBIL",
+      "categorie": "construction",
+      "marque": "PLAYMOBIL",
+      "prix": 19.99,
+      "devise": "EUR",
+      "reference": "72239"
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "arrondissement": "Lyon 9e"
+}

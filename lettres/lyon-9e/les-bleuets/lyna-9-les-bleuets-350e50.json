@@ -1,0 +1,24 @@
+{
+  "prenom": "Lyna",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Voitures majorette Golf GTI Majorette",
+      "categorie": "véhicule",
+      "prix": 17.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Panneau de basket électronique mural avec ballon SUN and SPORT",
+      "categorie": "sport",
+      "marque": "SUN and SPORT",
+      "priorite": 2
+    }
+  ],
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

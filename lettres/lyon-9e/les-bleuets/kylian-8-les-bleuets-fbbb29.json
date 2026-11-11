@@ -1,0 +1,33 @@
+{
+  "prenom": "Kylian",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Pâte à modeler - Super boîte à accessoires animaux Play Doh",
+      "categorie": "créatif",
+      "prix": 24.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Mirror Mi - Poupée Mannequin Akiko Kittyama 27cm Mga",
+      "categorie": "poupée",
+      "priorite": 2
+    },
+    {
+      "produit": "Figurine Funko Pop TV South Park S6 Jimmy Valmer",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 3
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "aEteSage": true,
+  "arrondissement": "Lyon 9e"
+}

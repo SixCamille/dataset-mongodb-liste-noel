@@ -1,0 +1,26 @@
+{
+  "prenom": "Sara",
+  "sexe": "F",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Véhicule + Figurine Marcus La Pat' Patrouille - Le Film Mission Dino Spin Master",
+      "categorie": "véhicule",
+      "prix": 19.99,
+      "devise": "EUR",
+      "priorite": 1
+    },
+    {
+      "produit": "Skateboard Spiderman 28x8 STAMP",
+      "categorie": "sport",
+      "prix": 29.99,
+      "devise": "EUR",
+      "priorite": 2
+    }
+  ],
+  "commentaire": "Je partagerai mes jeux avec mon frère et mes copains.",
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 9e"
+}

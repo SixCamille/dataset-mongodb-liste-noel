@@ -1,0 +1,24 @@
+{
+  "prenom": "Maxine",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Figurine Funko Pop Animation KPop Demon Hunters S2 Zoey",
+      "categorie": "figurine et collection",
+      "marque": "Funko",
+      "prix": 16.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 1
+    },
+    {
+      "produit": "Poussette en métal avec poupon souple - Collection Teddy Bear LOVE BEBE",
+      "categorie": "poupée",
+      "priorite": 2
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

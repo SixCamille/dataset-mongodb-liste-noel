@@ -1,0 +1,17 @@
+{
+  "prenom": "Maël",
+  "sexe": "M",
+  "age": 9,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Coffret 20 jeux éducatifs 3 à 6 ans avec stylo interactif Zig Zag Educatif",
+      "categorie": "créatif",
+      "prix": 16.99,
+      "devise": "EUR",
+      "priorite": 1
+    }
+  ],
+  "arrondissement": "Lyon 9e"
+}

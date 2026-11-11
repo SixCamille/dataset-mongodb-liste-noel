@@ -1,0 +1,24 @@
+{
+  "prenom": "Armand",
+  "sexe": "M",
+  "age": 8,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Coffret créatif Aqua Gelz Deluxe Simba Dickie",
+      "categorie": "créatif",
+      "prix": 19.99,
+      "devise": "EUR"
+    },
+    {
+      "produit": "Voiture radiocommandée Barbie City Mondo Motors",
+      "categorie": "poupée",
+      "marque": "Barbie",
+      "prix": 34.99,
+      "devise": "EUR"
+    }
+  ],
+  "commentaire": "Je voudrais apprendre quelque chose de nouveau pendant les vacances.",
+  "arrondissement": "Lyon 9e"
+}

@@ -1,0 +1,45 @@
+{
+  "prenom": "Julia",
+  "sexe": "F",
+  "age": 7,
+  "codePostal": "69009",
+  "ecole": "École élémentaire Les Bleuets",
+  "souhaits": [
+    {
+      "produit": "Figurine Tonies Pokémon Carapuce",
+      "categorie": "figurine et collection",
+      "marque": "Tonies",
+      "prix": 14.99,
+      "devise": "EUR",
+      "ageRecommande": 5,
+      "priorite": 1
+    },
+    {
+      "produit": "LEGO® Star Wars™ 75449 Pack de combat Le Siège de Mandalore",
+      "categorie": "construction",
+      "marque": "LEGO",
+      "prix": 19.99,
+      "devise": "EUR",
+      "ageRecommande": 6,
+      "priorite": 2
+    },
+    {
+      "produit": "Poupon Lila Chérie Corolle",
+      "categorie": "poupée",
+      "marque": "Corolle",
+      "prix": 64.99,
+      "devise": "EUR",
+      "priorite": 3
+    },
+    {
+      "produit": "Peluche Ma Loutre Câlins Bonne Nuit Fisher Price Fisher Price",
+      "categorie": "peluche",
+      "marque": "Fisher Price",
+      "prix": 32.99,
+      "devise": "EUR",
+      "priorite": 4
+    }
+  ],
+  "preferenceEmballage": "papier recyclable",
+  "arrondissement": "Lyon 9e"
+}
